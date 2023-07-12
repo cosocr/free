@@ -1,24 +1,22 @@
 {
-    "editor.formatOnSave": true,
-    "emmet.showExpandedAbbreviation": "never",
-    "editor.minimap.enabled": false,
-    "editor.wordWrap": "on",
-    "explorer.fileNesting.enabled": true,
-    "explorer.fileNesting.expand": false,
-    "explorer.fileNesting.patterns": {
-      ".gitignore": ".gitattributes"
-    },
-    "files.exclude": {
-      "**/.git": true,
-      "**/.svn": true,
-      "**/.hg": true,
-      "**/CVS": true,
-      "**/.DS_Store": true,
-      "**/Thumbs.db": true,
-      "node_modules": true,
-      "**/.editorconfig": true,
-      "**/.prettierrc": true,
-      "**/pnpm-lock.yaml": true
-    }
+  "editor.formatOnSave": true,
+  "emmet.showExpandedAbbreviation": "never",
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.expand": false,
+  "explorer.fileNesting.patterns": {
+    ".gitignore": ".gitattributes"
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "node_modules": true,
+    "**/.editorconfig": true,
+    "**/.prettierrc": true
   }
-  
+}
