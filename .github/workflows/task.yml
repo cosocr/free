@@ -40,5 +40,7 @@ jobs:
       - name: Auto Commit
         run: |
           git add dist
+          git config user.email "cosoc@pm.me"
+          git config user.name "cosocr"
           git commit -m "$(date '+%Y-%m-%d %H:%M:%S') update sub file" || true
           git push
