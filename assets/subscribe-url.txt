@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/freefq/free/master/v2
+https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt

@@ -1,0 +1,44 @@
+on:
+  push:
+  schedule:
+    - cron: '*/30 * * * *'
+name: Schedule Task
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Setup Pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 8
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: 'pnpm'
+
+      - name: Dependent installation
+        run: pnpm i
+
+      - name: Project Build
+        run: pnpm build
+
+      - name: Gen Clash
+        run: |
+          wget https://github.com/tindy2013/subconverter/releases/download/v0.7.2/subconverter_linux64.tar.gz
+          tar zxvf subconverter_linux64.tar.gz
+          mv -f generate.ini subconverter/generate.ini
+          ./subconverter/subconverter -g --artifact "clash"
+
+      - name: Auto Commit
+        run: |
+          git add dist
+          git commit -m "$(date '+%Y-%m-%d %H:%M:%S') update sub file" || true
+          git push
