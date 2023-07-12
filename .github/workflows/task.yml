@@ -34,7 +34,7 @@ jobs:
         run: |
           wget https://github.com/tindy2013/subconverter/releases/download/v0.7.2/subconverter_linux64.tar.gz
           tar zxvf subconverter_linux64.tar.gz
-          mv -f generate.ini subconverter/generate.ini
+          mv -f clash/generate.ini subconverter/generate.ini
           ./subconverter/subconverter -g --artifact "clash"
 
       - name: Auto Commit
