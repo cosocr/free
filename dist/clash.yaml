@@ -122,6 +122,15 @@ proxies:
   - {name: 频道62@wxgqlfx, server: 64.32.20.103, port: 40039, type: vmess, uuid: c1bad9a6-1482-4941-a0c4-e85f3cbbcb5a, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 频道63@wxgqlfx, server: 80.251.217.205, port: 24324, type: vmess, uuid: 9f0fce39-f78a-4850-a845-e639c564209d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 频道64@wxgqlfx, server: 108.166.203.183, port: 44945, type: vmess, uuid: 268a491b-764c-44d1-81a4-30de16130867, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 频道65@wxgqlfx, server: 171.22.134.3, port: 53433, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 频道66@wxgqlfx, server: 107.167.16.214, port: 33589, type: vmess, uuid: 8c679b81-84fc-43ce-9553-ddca575a6949, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 频道67@wxgqlfx, server: 171.22.134.28, port: 53433, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 频道68@wxgqlfx, server: 140.99.149.46, port: 53082, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 频道69@wxgqlfx, server: 64.32.4.44, port: 43166, type: vmess, uuid: 8653004f-de67-44c2-9cce-e0830933fb03, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 频道70@wxgqlfx, server: 192.74.228.178, port: 42857, type: vmess, uuid: 051b844f-efe3-4847-92aa-66b5de0b6d4e, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 频道71@wxgqlfx, server: 64.32.21.246, port: 44313, type: vmess, uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 频道72@wxgqlfx, server: 108.186.116.175, port: 55005, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 频道73@wxgqlfx, server: 137.175.1.8, port: 53403, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -230,6 +239,15 @@ proxy-groups:
       - 频道62@wxgqlfx
       - 频道63@wxgqlfx
       - 频道64@wxgqlfx
+      - 频道65@wxgqlfx
+      - 频道66@wxgqlfx
+      - 频道67@wxgqlfx
+      - 频道68@wxgqlfx
+      - 频道69@wxgqlfx
+      - 频道70@wxgqlfx
+      - 频道71@wxgqlfx
+      - 频道72@wxgqlfx
+      - 频道73@wxgqlfx
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -337,6 +355,15 @@ proxy-groups:
       - 频道62@wxgqlfx
       - 频道63@wxgqlfx
       - 频道64@wxgqlfx
+      - 频道65@wxgqlfx
+      - 频道66@wxgqlfx
+      - 频道67@wxgqlfx
+      - 频道68@wxgqlfx
+      - 频道69@wxgqlfx
+      - 频道70@wxgqlfx
+      - 频道71@wxgqlfx
+      - 频道72@wxgqlfx
+      - 频道73@wxgqlfx
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -445,6 +472,15 @@ proxy-groups:
       - 频道62@wxgqlfx
       - 频道63@wxgqlfx
       - 频道64@wxgqlfx
+      - 频道65@wxgqlfx
+      - 频道66@wxgqlfx
+      - 频道67@wxgqlfx
+      - 频道68@wxgqlfx
+      - 频道69@wxgqlfx
+      - 频道70@wxgqlfx
+      - 频道71@wxgqlfx
+      - 频道72@wxgqlfx
+      - 频道73@wxgqlfx
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -565,6 +601,15 @@ proxy-groups:
       - 频道62@wxgqlfx
       - 频道63@wxgqlfx
       - 频道64@wxgqlfx
+      - 频道65@wxgqlfx
+      - 频道66@wxgqlfx
+      - 频道67@wxgqlfx
+      - 频道68@wxgqlfx
+      - 频道69@wxgqlfx
+      - 频道70@wxgqlfx
+      - 频道71@wxgqlfx
+      - 频道72@wxgqlfx
+      - 频道73@wxgqlfx
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -677,6 +722,15 @@ proxy-groups:
       - 频道62@wxgqlfx
       - 频道63@wxgqlfx
       - 频道64@wxgqlfx
+      - 频道65@wxgqlfx
+      - 频道66@wxgqlfx
+      - 频道67@wxgqlfx
+      - 频道68@wxgqlfx
+      - 频道69@wxgqlfx
+      - 频道70@wxgqlfx
+      - 频道71@wxgqlfx
+      - 频道72@wxgqlfx
+      - 频道73@wxgqlfx
   - name: 📲 电报信息
     type: select
     proxies:
@@ -784,6 +838,15 @@ proxy-groups:
       - 频道62@wxgqlfx
       - 频道63@wxgqlfx
       - 频道64@wxgqlfx
+      - 频道65@wxgqlfx
+      - 频道66@wxgqlfx
+      - 频道67@wxgqlfx
+      - 频道68@wxgqlfx
+      - 频道69@wxgqlfx
+      - 频道70@wxgqlfx
+      - 频道71@wxgqlfx
+      - 频道72@wxgqlfx
+      - 频道73@wxgqlfx
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -892,6 +955,15 @@ proxy-groups:
       - 频道62@wxgqlfx
       - 频道63@wxgqlfx
       - 频道64@wxgqlfx
+      - 频道65@wxgqlfx
+      - 频道66@wxgqlfx
+      - 频道67@wxgqlfx
+      - 频道68@wxgqlfx
+      - 频道69@wxgqlfx
+      - 频道70@wxgqlfx
+      - 频道71@wxgqlfx
+      - 频道72@wxgqlfx
+      - 频道73@wxgqlfx
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1009,6 +1081,15 @@ proxy-groups:
       - 频道62@wxgqlfx
       - 频道63@wxgqlfx
       - 频道64@wxgqlfx
+      - 频道65@wxgqlfx
+      - 频道66@wxgqlfx
+      - 频道67@wxgqlfx
+      - 频道68@wxgqlfx
+      - 频道69@wxgqlfx
+      - 频道70@wxgqlfx
+      - 频道71@wxgqlfx
+      - 频道72@wxgqlfx
+      - 频道73@wxgqlfx
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
