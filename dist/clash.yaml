@@ -112,6 +112,8 @@ proxies:
   - {name: 频道42@wxgqlfx, server: 142.4.97.72, port: 44942, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 频道43@wxgqlfx, server: 192.74.231.161, port: 49255, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 频道44@wxgqlfx, server: 137.175.15.211, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, servername: www.83524650.xyz, network: ws, ws-opts: {path: /path/1689935243027, headers: {Host: www.83524650.xyz}}, udp: true}
+  - {name: 频道45@wxgqlfx, server: cfcdn2.sanfencdn.net, port: 443, type: vmess, uuid: 0e1215e4-aa7a-47ac-bbf9-27b84565eee5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us2.sanfencdn1.com, network: ws, ws-opts: {path: /zh-cn, headers: {Host: us2.sanfencdn1.com}}, udp: true}
+  - {name: 频道46@wxgqlfx, server: 142.4.97.75, port: 44942, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -210,6 +212,8 @@ proxy-groups:
       - 频道42@wxgqlfx
       - 频道43@wxgqlfx
       - 频道44@wxgqlfx
+      - 频道45@wxgqlfx
+      - 频道46@wxgqlfx
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -307,6 +311,8 @@ proxy-groups:
       - 频道42@wxgqlfx
       - 频道43@wxgqlfx
       - 频道44@wxgqlfx
+      - 频道45@wxgqlfx
+      - 频道46@wxgqlfx
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -405,6 +411,8 @@ proxy-groups:
       - 频道42@wxgqlfx
       - 频道43@wxgqlfx
       - 频道44@wxgqlfx
+      - 频道45@wxgqlfx
+      - 频道46@wxgqlfx
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -515,6 +523,8 @@ proxy-groups:
       - 频道42@wxgqlfx
       - 频道43@wxgqlfx
       - 频道44@wxgqlfx
+      - 频道45@wxgqlfx
+      - 频道46@wxgqlfx
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -617,6 +627,8 @@ proxy-groups:
       - 频道42@wxgqlfx
       - 频道43@wxgqlfx
       - 频道44@wxgqlfx
+      - 频道45@wxgqlfx
+      - 频道46@wxgqlfx
   - name: 📲 电报信息
     type: select
     proxies:
@@ -714,6 +726,8 @@ proxy-groups:
       - 频道42@wxgqlfx
       - 频道43@wxgqlfx
       - 频道44@wxgqlfx
+      - 频道45@wxgqlfx
+      - 频道46@wxgqlfx
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -812,6 +826,8 @@ proxy-groups:
       - 频道42@wxgqlfx
       - 频道43@wxgqlfx
       - 频道44@wxgqlfx
+      - 频道45@wxgqlfx
+      - 频道46@wxgqlfx
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -919,6 +935,8 @@ proxy-groups:
       - 频道42@wxgqlfx
       - 频道43@wxgqlfx
       - 频道44@wxgqlfx
+      - 频道45@wxgqlfx
+      - 频道46@wxgqlfx
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
