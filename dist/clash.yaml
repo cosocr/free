@@ -63,14 +63,13 @@ proxies:
   - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 18, server: ns1.v2-vip.fun, port: 8880, type: vmess, uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY, headers: {Host: fr7.tehme100.fun}}, udp: true}
   - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 19, server: 172.64.96.134, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: dp1.scproxy.top}}, udp: true}
   - {name: 频道01@wxgqlfx, server: series-g1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: sgjJsZJHLlhmdvUk, udp: true}
-  - {name: 频道02@wxgqlfx, server: arm.gougouvpn.xyz, port: 7712, type: ss, cipher: chacha20-ietf-poly1305, password: 8d8d716e-a60f-4a8b-85c5-4ccf6d68ce18, udp: true}
-  - {name: 频道03@wxgqlfx, server: 129.232.129.156, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: DiPietyory, udp: true}
-  - {name: 频道04@wxgqlfx, server: ctjp2.createmofa.xyz, port: 38998, type: ss, cipher: chacha20-ietf-poly1305, password: 1f6a229b-ae27-420e-89b6-8349869890fb, udp: true}
-  - {name: 频道05@wxgqlfx, server: 103.184.45.62, port: 443, type: vmess, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ecc.vtcss.top, network: ws, ws-opts: {path: /blue8, headers: {Host: ecc.vtcss.top}}, udp: true}
-  - {name: 频道06@wxgqlfx, server: qzcn2-01.dajuzi.cc, port: 15598, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 频道07@wxgqlfx, server: 51fly11.win, port: 443, type: vmess, uuid: 9681f99e-d251-477a-d777-1d01ee550481, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /myblog, headers: {Host: 51fly11.win}}, udp: true}
-  - {name: 频道08@wxgqlfx, server: 51fly99.win, port: 443, type: vmess, uuid: 9681f99e-d251-477a-d777-1d01ee550481, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 51fly99.win, network: ws, ws-opts: {path: /myblog, headers: {Host: 51fly99.win}}, udp: true}
-  - {name: 频道09@wxgqlfx, server: 51fly11.win, port: 443, type: vmess, uuid: 9681f99e-d251-477a-d777-1d01ee550481, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 51fly11.win, network: ws, ws-opts: {path: /myblog, headers: {Host: 51fly11.win}}, udp: true}
+  - {name: 频道02@wxgqlfx, server: www.dongtaiwang4.com, port: 30022, type: ss, cipher: aes-256-gcm, password: dongtaiwang.com, udp: true}
+  - {name: 频道03@wxgqlfx, server: hk03.xstarship.com, port: 50001, type: vmess, uuid: 17d84e2a-1ce7-4e49-9ad1-14648002142d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hk03.xstarship.com}}, udp: true}
+  - {name: 频道04@wxgqlfx, server: v2node11.bipbupvpn.com, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9d13726f-ecda-4300-b06e-7e0ec3f876f2, udp: true}
+  - {name: 频道05@wxgqlfx, server: microsoftdebug.com, port: 80, type: vmess, uuid: 390e626a-21c3-45df-b07e-c738e1bb6d9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /windows7.ios, headers: {Host: v1.us1.microsoftdebug.com}}, udp: true}
+  - {name: 频道06@wxgqlfx, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 7e7f8398-bd39-49d8-9ce6-e48ffef463dd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /2TokGE9A/, headers: {Host: us6.cachexy.cf}}, udp: true}
+  - {name: 频道07@wxgqlfx, server: series-g1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: sgjJsZJHLlhmdvUk, udp: true}
+  - {name: 频道08@wxgqlfx, server: dashboard.autoly.ir, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: panel2.hodorauth.com, network: ws, ws-opts: {path: /vsg1.0bad.com/chat, headers: {Host: panel2.hodorauth.com}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -127,7 +126,6 @@ proxy-groups:
       - 频道06@wxgqlfx
       - 频道07@wxgqlfx
       - 频道08@wxgqlfx
-      - 频道09@wxgqlfx
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -183,7 +181,6 @@ proxy-groups:
       - 频道06@wxgqlfx
       - 频道07@wxgqlfx
       - 频道08@wxgqlfx
-      - 频道09@wxgqlfx
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -240,7 +237,6 @@ proxy-groups:
       - 频道06@wxgqlfx
       - 频道07@wxgqlfx
       - 频道08@wxgqlfx
-      - 频道09@wxgqlfx
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -309,7 +305,6 @@ proxy-groups:
       - 频道06@wxgqlfx
       - 频道07@wxgqlfx
       - 频道08@wxgqlfx
-      - 频道09@wxgqlfx
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -370,7 +365,6 @@ proxy-groups:
       - 频道06@wxgqlfx
       - 频道07@wxgqlfx
       - 频道08@wxgqlfx
-      - 频道09@wxgqlfx
   - name: 📲 电报信息
     type: select
     proxies:
@@ -426,7 +420,6 @@ proxy-groups:
       - 频道06@wxgqlfx
       - 频道07@wxgqlfx
       - 频道08@wxgqlfx
-      - 频道09@wxgqlfx
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -483,7 +476,6 @@ proxy-groups:
       - 频道06@wxgqlfx
       - 频道07@wxgqlfx
       - 频道08@wxgqlfx
-      - 频道09@wxgqlfx
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -549,7 +541,6 @@ proxy-groups:
       - 频道06@wxgqlfx
       - 频道07@wxgqlfx
       - 频道08@wxgqlfx
-      - 频道09@wxgqlfx
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
