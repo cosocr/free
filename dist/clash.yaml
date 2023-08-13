@@ -77,6 +77,8 @@ proxies:
   - {name: 频道08@wxgqlfx, server: 185.202.92.174, port: 10000, type: vmess, uuid: 885c4d9a-3784-11ee-a87e-5bc139b0f4e5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: 185.202.92.174}}, udp: true}
   - {name: 频道09@wxgqlfx, server: 27.0.232.251, port: 10000, type: vmess, uuid: 4e233d28-3784-11ee-bf86-00163e35210f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: 27.0.232.251}}, udp: true}
   - {name: 频道10@wxgqlfx, server: iaudhcui.76898102.xyz, port: 2052, type: vmess, uuid: 0bb55212-6c02-39d5-8189-e6c5a9f825be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nfdguiw, headers: {Host: asfgdvf.76898102.xyz}}, udp: true}
+  - {name: 频道17@wxgqlfx, server: 95.164.38.54, port: 2082, type: vmess, uuid: d2b3d8ff-2179-4a5d-8589-b9ec5f6a6567, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vmess, headers: {Host: 95.164.38.54}}, udp: true}
+  - {name: 频道91@wxgqlfx, server: 150.107.46.21, port: 8083, type: ssr, cipher: aes-256-cfb, password: iFqnzSscN, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: cloudfront.net, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -140,6 +142,8 @@ proxy-groups:
       - 频道08@wxgqlfx
       - 频道09@wxgqlfx
       - 频道10@wxgqlfx
+      - 频道17@wxgqlfx
+      - 频道91@wxgqlfx
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -202,6 +206,8 @@ proxy-groups:
       - 频道08@wxgqlfx
       - 频道09@wxgqlfx
       - 频道10@wxgqlfx
+      - 频道17@wxgqlfx
+      - 频道91@wxgqlfx
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -265,6 +271,8 @@ proxy-groups:
       - 频道08@wxgqlfx
       - 频道09@wxgqlfx
       - 频道10@wxgqlfx
+      - 频道17@wxgqlfx
+      - 频道91@wxgqlfx
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -340,6 +348,8 @@ proxy-groups:
       - 频道08@wxgqlfx
       - 频道09@wxgqlfx
       - 频道10@wxgqlfx
+      - 频道17@wxgqlfx
+      - 频道91@wxgqlfx
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -407,6 +417,8 @@ proxy-groups:
       - 频道08@wxgqlfx
       - 频道09@wxgqlfx
       - 频道10@wxgqlfx
+      - 频道17@wxgqlfx
+      - 频道91@wxgqlfx
   - name: 📲 电报信息
     type: select
     proxies:
@@ -469,6 +481,8 @@ proxy-groups:
       - 频道08@wxgqlfx
       - 频道09@wxgqlfx
       - 频道10@wxgqlfx
+      - 频道17@wxgqlfx
+      - 频道91@wxgqlfx
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -532,6 +546,8 @@ proxy-groups:
       - 频道08@wxgqlfx
       - 频道09@wxgqlfx
       - 频道10@wxgqlfx
+      - 频道17@wxgqlfx
+      - 频道91@wxgqlfx
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -604,6 +620,8 @@ proxy-groups:
       - 频道08@wxgqlfx
       - 频道09@wxgqlfx
       - 频道10@wxgqlfx
+      - 频道17@wxgqlfx
+      - 频道91@wxgqlfx
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
