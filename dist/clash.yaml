@@ -43,34 +43,30 @@ proxies:
   - {name: 频道96@wxgqlfx, server: 67.21.84.216, port: 47088, type: vmess, uuid: b9a305a9-1ff2-4ec1-b338-933555833baa, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 频道97@wxgqlfx, server: 64.32.4.34, port: 43166, type: vmess, uuid: 8653004f-de67-44c2-9cce-e0830933fb03, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 频道107@wxgqlfx, server: 199.19.104.124, port: 32221, type: vmess, uuid: 9ba7e62a-379a-4bfc-84f3-3712bfb78ba0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1, server: 108.166.203.181, port: 44945, type: vmess, uuid: 268a491b-764c-44d1-81a4-30de16130867, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Sharktech数据中心 2, server: 64.32.20.97, port: 40039, type: vmess, uuid: c1bad9a6-1482-4941-a0c4-e85f3cbbcb5a, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 3, server: dongtaiwang3.com, port: 443, type: vmess, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: d.freeh1.xyz}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶SharkTech数据中心 4, server: 67.21.64.84, port: 43123, type: vmess, uuid: 2566d00f-218c-48f7-9a36-13d3d6f1a724, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国  5, server: 74.217.182.119, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, servername: www.62976171.xyz, network: ws, ws-opts: {path: /path/1691728485254, headers: {Host: www.62976171.xyz}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 6, server: dongtaiwang2.com, port: 443, type: vmess, uuid: 25a9f3b9-1e6d-40bd-968b-e0818c1b196f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 2.freek1.xyz}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 7, server: 172.67.10.121, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: uk2.scproxy.top}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国弗吉尼亚州阿什本NV NEXT数据中心 8, server: 173.245.49.236, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: ca.ilovescp.com}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9, server: speedip.eu.org, port: 8880, type: vmess, uuid: 35f07051-8e77-4b44-be56-8979cc25c249, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v01.ssrsub.com}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶SharkTech数据中心 1, server: 67.21.64.84, port: 43123, type: vmess, uuid: 2566d00f-218c-48f7-9a36-13d3d6f1a724, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 2, server: dongtaiwang3.com, port: 443, type: vmess, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: d.freeh1.xyz}}, udp: true}
+  - {name: 🇰🇷 github.com/freefq - 韩国首尔Oracle云计算数据中心 3, server: a6.wuxianliulianng.xyz, port: 8443, type: vmess, uuid: c0949fdc-f58e-4b02-8c6c-54c5f2e1d848, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 3.wuxianliulianng.xyz}}, udp: true}
+  - {name: github.com/freefq - 乌克兰  4, server: 5.182.39.221, port: 2082, type: vmess, uuid: 269a4261-3f10-4c04-9500-65c8e8cd058b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vmess, headers: {Host: 5.182.39.221}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 5, server: dongtaiwang2.com, port: 443, type: vmess, uuid: 25a9f3b9-1e6d-40bd-968b-e0818c1b196f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 2.freek1.xyz}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6, server: 104.31.16.46, port: 2082, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2, headers: {Host: ca5.tehme100.fun}}, udp: true}
+  - {name: 🇩🇰 github.com/freefq - 丹麦  7, server: csgo.com, port: 2052, type: vmess, uuid: 84134d90-e4fe-4a86-c8d6-4d7bedb3c333, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vmess, headers: {Host: 45.144.152.231.cyhmall.eu.org}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8, server: speedip.eu.org, port: 8880, type: vmess, uuid: 35f07051-8e77-4b44-be56-8979cc25c249, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v01.ssrsub.com}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国弗吉尼亚州阿什本NV NEXT数据中心 9, server: 173.245.49.236, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: ca.ilovescp.com}}, udp: true}
   - {name: github.com/freefq - 湖北省武汉市移动 10, server: cdn.node.user-sub.pddns-usersdk.com, port: 13003, type: vmess, uuid: 5f9f4df4-5398-35d1-9a6a-44a8a575832d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11, server: mci.bamarambash.monster, port: 443, type: vmess, uuid: 8f74ec8a-971c-11ed-a8fc-0242ac120002, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b8767a6a-1c30-11ee-ba76-9ee097a90b8b, headers: {Host: b8767a6a-1c30-11ee-ba76-9ee097a90b8b.bamarambash.monster}}, udp: true}
-  - {name: 🇩🇰 github.com/freefq - 丹麦  12, server: csgo.com, port: 2052, type: vmess, uuid: 84134d90-e4fe-4a86-c8d6-4d7bedb3c333, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vmess, headers: {Host: 45.144.152.231.cyhmall.eu.org}}, udp: true}
-  - {name: 🇯🇵 github.com/freefq - 日本  13, server: taidou.link, port: 2095, type: vmess, uuid: 964736b7-583d-4e37-b62d-f1c1ca08415d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /jojotuloveyou, headers: {Host: de3.tuyoyo.link}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 14, server: fd.shabijichang.com, port: 80, type: vmess, uuid: 7390f4bc-1bf0-42f4-9c4f-0cbc35217ee3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: dj.shabijichang.com}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 15, server: cdn.twitter.now.cc, port: 443, type: vmess, uuid: 8d2ba456-2f0d-4c13-b8a0-bff99c679709, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ikun, headers: {Host: vceu3e.twittei.me}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 11, server: cdn.twitter.now.cc, port: 443, type: vmess, uuid: 8d2ba456-2f0d-4c13-b8a0-bff99c679709, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ikun, headers: {Host: vceu3e.twittei.me}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 12, server: fd.shabijichang.com, port: 80, type: vmess, uuid: 7390f4bc-1bf0-42f4-9c4f-0cbc35217ee3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: dj.shabijichang.com}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国  13, server: 74.217.182.119, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, servername: www.62976171.xyz, network: ws, ws-opts: {path: /path/1691728485254, headers: {Host: www.62976171.xyz}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 14, server: 172.67.10.121, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: uk2.scproxy.top}}, udp: true}
+  - {name: 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 15, server: 219.76.13.167, port: 443, type: vmess, uuid: 7fcb4a27-f818-3377-af56-cc08bcb42b5d, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /db, headers: {Host: e.cn-db.top}}, udp: true}
   - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16, server: bluehost.com, port: 443, type: vmess, uuid: 12eed507-9a58-4ca5-f7af-2871e9aae684, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /19544, headers: {Host: cdntr2.digisport.shop}}, udp: true}
   - {name: 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 17, server: 188.114.97.152, port: 80, type: vmess, uuid: 185d6ff9-a0a7-4d39-f3e8-783b7a6bbc79, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /blue, headers: {Host: tui.vtcss.top}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 18, server: cf1.992688.xyz, port: 8080, type: vmess, uuid: f467f4da-2226-448d-a30d-463ef10548ac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: vcus2.vpn66.eu.org}}, udp: true}
-  - {name: github.com/freefq - 亚太地区  19, server: 103.160.204.204, port: 2082, type: vmess, uuid: 0ddf0cc4-1487-4ff1-a6a7-d9ab93040606, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /blue, headers: {Host: tui.vtcss.top}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 20, server: ns1.v2-vip.fun, port: 8880, type: vmess, uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY, headers: {Host: fr7.tehme100.fun}}, udp: true}
-  - {name: 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 21, server: 219.76.13.183, port: 443, type: vmess, uuid: 7fcb4a27-f818-3377-af56-cc08bcb42b5d, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.db-link.in}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 22, server: 104.31.16.46, port: 2082, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2, headers: {Host: ca5.tehme100.fun}}, udp: true}
-  - {name: github.com/freefq - 亚太地区  23, server: 103.160.204.209, port: 2082, type: vmess, uuid: 0ddf0cc4-1487-4ff1-a6a7-d9ab93040606, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /blue, headers: {Host: tui.vtcss.top}}, udp: true}
-  - {name: github.com/freefq - 亚太地区  24, server: 103.160.204.112, port: 80, type: vmess, uuid: 185d6ff9-a0a7-4d39-f3e8-783b7a6bbc79, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /blue, headers: {Host: tui.vtcss.top}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 25, server: 104.25.232.114, port: 2082, type: vmess, uuid: 0ddf0cc4-1487-4ff1-a6a7-d9ab93040606, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /blue, headers: {Host: tui.vtcss.top}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 26, server: mci.saintink.eu.org, port: 443, type: vmess, uuid: c226d9fa-b5a7-4f6e-9532-50137c89311d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: nl1.v2rayserv.com/vmess, headers: {Host: 4.saintink.eu.org}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 27, server: Shopify.com, port: 2086, type: vmess, uuid: 250f4331-8c3e-4b87-a86b-5c5fbf9ddba8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aries, headers: {Host: Fr.cloudflare.quest}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 28, server: 172.64.103.122, port: 8080, type: vmess, uuid: 0ea60ebb-632d-4226-893a-cccc2053dbf5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: haxus3.vpn66.eu.org}}, udp: true}
+  - {name: 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 18, server: 219.76.13.183, port: 443, type: vmess, uuid: 7fcb4a27-f818-3377-af56-cc08bcb42b5d, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.db-link.in}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 19, server: yg1.mlbldzz.top, port: 443, type: vmess, uuid: 06b464f6-e38f-4ba8-eac3-8914277970dc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /06b464f6-e38f-4ba8-eac3-8914277970dc, headers: {Host: yg1.mlbldzz.top}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 20, server: cf1.992688.xyz, port: 8080, type: vmess, uuid: f467f4da-2226-448d-a30d-463ef10548ac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: vcus2.vpn66.eu.org}}, udp: true}
+  - {name: github.com/freefq - 亚太地区  21, server: 103.160.204.204, port: 2082, type: vmess, uuid: 0ddf0cc4-1487-4ff1-a6a7-d9ab93040606, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /blue, headers: {Host: tui.vtcss.top}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 22, server: cf.dalazhi.eu.org, port: 443, type: vmess, uuid: 64480f4c-61c2-4d88-89c3-fc0045229bfc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us.dalazhi.eu.org}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 23, server: 104.25.232.114, port: 2082, type: vmess, uuid: 0ddf0cc4-1487-4ff1-a6a7-d9ab93040606, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /blue, headers: {Host: tui.vtcss.top}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 24, server: 172.64.103.122, port: 8080, type: vmess, uuid: 0ea60ebb-632d-4226-893a-cccc2053dbf5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: haxus3.vpn66.eu.org}}, udp: true}
   - {name: 频道01@wxgqlfx, server: 172.64.207.79, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: dp4.ilovescp.com}}, udp: true}
   - {name: 频道02@wxgqlfx, server: 45.137.97.217, port: 8080, type: vmess, uuid: 0b52017c-9e9e-41d9-8698-f28aea09448e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /TG:@hkaa0}, udp: true}
   - {name: 频道03@wxgqlfx, server: a3.wuxianliulianng.xyz, port: 8443, type: vmess, uuid: 4682492b-6fd8-4ce0-9b2a-f62ea5ffdc56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 2.wuxianliulianng.xyz, network: ws, ws-opts: {path: /sometimesnaive, headers: {Host: 2.wuxianliulianng.xyz}}, udp: true}
@@ -107,6 +103,8 @@ proxies:
   - {name: 频道114@wxgqlfx, server: sblarm.kaolll.tech, port: 80, type: vmess, uuid: 53c6d1a9-2fb7-444f-8f2c-82f7659f017c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sblarm.kaolll.tech}}, udp: true}
   - {name: 频道115@wxgqlfx, server: 172.67.190.207, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: jpgcp1.ilovescp.com}}, udp: true}
   - {name: 频道116@wxgqlfx, server: ydarm.e5outllok.me, port: 80, type: vmess, uuid: 53c6d1a9-2fb7-444f-8f2c-82f7659f017c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ydarm.e5outllok.me}}, udp: true}
+  - {name: 频道117@wxgqlfx, server: sg-am3.eqsunshine.com, port: 32001, type: ssr, cipher: aes-256-cfb, password: 3g0dHlKME, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: "", udp: true}
+  - {name: 频道118@wxgqlfx, server: 43.154.38.20, port: 58568, type: ssr, cipher: dummy, password: !<str> 393473455, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: "", udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -136,34 +134,30 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Sharktech数据中心 2
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 3
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶SharkTech数据中心 4
-      - 🇺🇸 github.com/freefq - 美国  5
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 6
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 7
-      - 🇺🇸 github.com/freefq - 美国弗吉尼亚州阿什本NV NEXT数据中心 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶SharkTech数据中心 1
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 2
+      - 🇰🇷 github.com/freefq - 韩国首尔Oracle云计算数据中心 3
+      - github.com/freefq - 乌克兰  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 5
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
+      - 🇩🇰 github.com/freefq - 丹麦  7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
+      - 🇺🇸 github.com/freefq - 美国弗吉尼亚州阿什本NV NEXT数据中心 9
       - github.com/freefq - 湖北省武汉市移动 10
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
-      - 🇩🇰 github.com/freefq - 丹麦  12
-      - 🇯🇵 github.com/freefq - 日本  13
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 12
+      - 🇺🇸 github.com/freefq - 美国  13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 15
+      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 15
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
       - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 17
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 18
-      - github.com/freefq - 亚太地区  19
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 20
-      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 21
+      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 18
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 20
+      - github.com/freefq - 亚太地区  21
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 22
-      - github.com/freefq - 亚太地区  23
-      - github.com/freefq - 亚太地区  24
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 25
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 26
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 27
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 24
       - 频道01@wxgqlfx
       - 频道02@wxgqlfx
       - 频道03@wxgqlfx
@@ -200,6 +194,8 @@ proxy-groups:
       - 频道114@wxgqlfx
       - 频道115@wxgqlfx
       - 频道116@wxgqlfx
+      - 频道117@wxgqlfx
+      - 频道118@wxgqlfx
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -228,34 +224,30 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Sharktech数据中心 2
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 3
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶SharkTech数据中心 4
-      - 🇺🇸 github.com/freefq - 美国  5
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 6
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 7
-      - 🇺🇸 github.com/freefq - 美国弗吉尼亚州阿什本NV NEXT数据中心 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶SharkTech数据中心 1
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 2
+      - 🇰🇷 github.com/freefq - 韩国首尔Oracle云计算数据中心 3
+      - github.com/freefq - 乌克兰  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 5
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
+      - 🇩🇰 github.com/freefq - 丹麦  7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
+      - 🇺🇸 github.com/freefq - 美国弗吉尼亚州阿什本NV NEXT数据中心 9
       - github.com/freefq - 湖北省武汉市移动 10
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
-      - 🇩🇰 github.com/freefq - 丹麦  12
-      - 🇯🇵 github.com/freefq - 日本  13
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 12
+      - 🇺🇸 github.com/freefq - 美国  13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 15
+      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 15
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
       - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 17
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 18
-      - github.com/freefq - 亚太地区  19
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 20
-      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 21
+      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 18
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 20
+      - github.com/freefq - 亚太地区  21
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 22
-      - github.com/freefq - 亚太地区  23
-      - github.com/freefq - 亚太地区  24
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 25
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 26
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 27
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 24
       - 频道01@wxgqlfx
       - 频道02@wxgqlfx
       - 频道03@wxgqlfx
@@ -292,6 +284,8 @@ proxy-groups:
       - 频道114@wxgqlfx
       - 频道115@wxgqlfx
       - 频道116@wxgqlfx
+      - 频道117@wxgqlfx
+      - 频道118@wxgqlfx
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -321,34 +315,30 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Sharktech数据中心 2
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 3
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶SharkTech数据中心 4
-      - 🇺🇸 github.com/freefq - 美国  5
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 6
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 7
-      - 🇺🇸 github.com/freefq - 美国弗吉尼亚州阿什本NV NEXT数据中心 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶SharkTech数据中心 1
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 2
+      - 🇰🇷 github.com/freefq - 韩国首尔Oracle云计算数据中心 3
+      - github.com/freefq - 乌克兰  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 5
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
+      - 🇩🇰 github.com/freefq - 丹麦  7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
+      - 🇺🇸 github.com/freefq - 美国弗吉尼亚州阿什本NV NEXT数据中心 9
       - github.com/freefq - 湖北省武汉市移动 10
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
-      - 🇩🇰 github.com/freefq - 丹麦  12
-      - 🇯🇵 github.com/freefq - 日本  13
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 12
+      - 🇺🇸 github.com/freefq - 美国  13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 15
+      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 15
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
       - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 17
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 18
-      - github.com/freefq - 亚太地区  19
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 20
-      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 21
+      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 18
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 20
+      - github.com/freefq - 亚太地区  21
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 22
-      - github.com/freefq - 亚太地区  23
-      - github.com/freefq - 亚太地区  24
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 25
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 26
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 27
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 24
       - 频道01@wxgqlfx
       - 频道02@wxgqlfx
       - 频道03@wxgqlfx
@@ -385,6 +375,8 @@ proxy-groups:
       - 频道114@wxgqlfx
       - 频道115@wxgqlfx
       - 频道116@wxgqlfx
+      - 频道117@wxgqlfx
+      - 频道118@wxgqlfx
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -426,34 +418,30 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Sharktech数据中心 2
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 3
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶SharkTech数据中心 4
-      - 🇺🇸 github.com/freefq - 美国  5
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 6
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 7
-      - 🇺🇸 github.com/freefq - 美国弗吉尼亚州阿什本NV NEXT数据中心 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶SharkTech数据中心 1
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 2
+      - 🇰🇷 github.com/freefq - 韩国首尔Oracle云计算数据中心 3
+      - github.com/freefq - 乌克兰  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 5
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
+      - 🇩🇰 github.com/freefq - 丹麦  7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
+      - 🇺🇸 github.com/freefq - 美国弗吉尼亚州阿什本NV NEXT数据中心 9
       - github.com/freefq - 湖北省武汉市移动 10
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
-      - 🇩🇰 github.com/freefq - 丹麦  12
-      - 🇯🇵 github.com/freefq - 日本  13
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 12
+      - 🇺🇸 github.com/freefq - 美国  13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 15
+      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 15
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
       - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 17
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 18
-      - github.com/freefq - 亚太地区  19
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 20
-      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 21
+      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 18
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 20
+      - github.com/freefq - 亚太地区  21
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 22
-      - github.com/freefq - 亚太地区  23
-      - github.com/freefq - 亚太地区  24
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 25
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 26
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 27
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 24
       - 频道01@wxgqlfx
       - 频道02@wxgqlfx
       - 频道03@wxgqlfx
@@ -490,11 +478,14 @@ proxy-groups:
       - 频道114@wxgqlfx
       - 频道115@wxgqlfx
       - 频道116@wxgqlfx
+      - 频道117@wxgqlfx
+      - 频道118@wxgqlfx
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 21
+      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 15
+      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 18
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -524,34 +515,30 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Sharktech数据中心 2
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 3
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶SharkTech数据中心 4
-      - 🇺🇸 github.com/freefq - 美国  5
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 6
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 7
-      - 🇺🇸 github.com/freefq - 美国弗吉尼亚州阿什本NV NEXT数据中心 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶SharkTech数据中心 1
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 2
+      - 🇰🇷 github.com/freefq - 韩国首尔Oracle云计算数据中心 3
+      - github.com/freefq - 乌克兰  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 5
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
+      - 🇩🇰 github.com/freefq - 丹麦  7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
+      - 🇺🇸 github.com/freefq - 美国弗吉尼亚州阿什本NV NEXT数据中心 9
       - github.com/freefq - 湖北省武汉市移动 10
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
-      - 🇩🇰 github.com/freefq - 丹麦  12
-      - 🇯🇵 github.com/freefq - 日本  13
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 12
+      - 🇺🇸 github.com/freefq - 美国  13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 15
+      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 15
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
       - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 17
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 18
-      - github.com/freefq - 亚太地区  19
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 20
-      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 21
+      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 18
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 20
+      - github.com/freefq - 亚太地区  21
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 22
-      - github.com/freefq - 亚太地区  23
-      - github.com/freefq - 亚太地区  24
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 25
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 26
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 27
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 24
       - 频道01@wxgqlfx
       - 频道02@wxgqlfx
       - 频道03@wxgqlfx
@@ -588,6 +575,8 @@ proxy-groups:
       - 频道114@wxgqlfx
       - 频道115@wxgqlfx
       - 频道116@wxgqlfx
+      - 频道117@wxgqlfx
+      - 频道118@wxgqlfx
   - name: 📲 电报信息
     type: select
     proxies:
@@ -616,34 +605,30 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Sharktech数据中心 2
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 3
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶SharkTech数据中心 4
-      - 🇺🇸 github.com/freefq - 美国  5
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 6
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 7
-      - 🇺🇸 github.com/freefq - 美国弗吉尼亚州阿什本NV NEXT数据中心 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶SharkTech数据中心 1
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 2
+      - 🇰🇷 github.com/freefq - 韩国首尔Oracle云计算数据中心 3
+      - github.com/freefq - 乌克兰  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 5
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
+      - 🇩🇰 github.com/freefq - 丹麦  7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
+      - 🇺🇸 github.com/freefq - 美国弗吉尼亚州阿什本NV NEXT数据中心 9
       - github.com/freefq - 湖北省武汉市移动 10
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
-      - 🇩🇰 github.com/freefq - 丹麦  12
-      - 🇯🇵 github.com/freefq - 日本  13
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 12
+      - 🇺🇸 github.com/freefq - 美国  13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 15
+      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 15
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
       - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 17
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 18
-      - github.com/freefq - 亚太地区  19
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 20
-      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 21
+      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 18
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 20
+      - github.com/freefq - 亚太地区  21
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 22
-      - github.com/freefq - 亚太地区  23
-      - github.com/freefq - 亚太地区  24
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 25
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 26
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 27
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 24
       - 频道01@wxgqlfx
       - 频道02@wxgqlfx
       - 频道03@wxgqlfx
@@ -680,6 +665,8 @@ proxy-groups:
       - 频道114@wxgqlfx
       - 频道115@wxgqlfx
       - 频道116@wxgqlfx
+      - 频道117@wxgqlfx
+      - 频道118@wxgqlfx
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -709,34 +696,30 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Sharktech数据中心 2
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 3
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶SharkTech数据中心 4
-      - 🇺🇸 github.com/freefq - 美国  5
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 6
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 7
-      - 🇺🇸 github.com/freefq - 美国弗吉尼亚州阿什本NV NEXT数据中心 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶SharkTech数据中心 1
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 2
+      - 🇰🇷 github.com/freefq - 韩国首尔Oracle云计算数据中心 3
+      - github.com/freefq - 乌克兰  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 5
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
+      - 🇩🇰 github.com/freefq - 丹麦  7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
+      - 🇺🇸 github.com/freefq - 美国弗吉尼亚州阿什本NV NEXT数据中心 9
       - github.com/freefq - 湖北省武汉市移动 10
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
-      - 🇩🇰 github.com/freefq - 丹麦  12
-      - 🇯🇵 github.com/freefq - 日本  13
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 12
+      - 🇺🇸 github.com/freefq - 美国  13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 15
+      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 15
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
       - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 17
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 18
-      - github.com/freefq - 亚太地区  19
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 20
-      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 21
+      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 18
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 20
+      - github.com/freefq - 亚太地区  21
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 22
-      - github.com/freefq - 亚太地区  23
-      - github.com/freefq - 亚太地区  24
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 25
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 26
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 27
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 24
       - 频道01@wxgqlfx
       - 频道02@wxgqlfx
       - 频道03@wxgqlfx
@@ -773,6 +756,8 @@ proxy-groups:
       - 频道114@wxgqlfx
       - 频道115@wxgqlfx
       - 频道116@wxgqlfx
+      - 频道117@wxgqlfx
+      - 频道118@wxgqlfx
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -811,34 +796,30 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Sharktech数据中心 2
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 3
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶SharkTech数据中心 4
-      - 🇺🇸 github.com/freefq - 美国  5
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 6
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 7
-      - 🇺🇸 github.com/freefq - 美国弗吉尼亚州阿什本NV NEXT数据中心 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶SharkTech数据中心 1
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 2
+      - 🇰🇷 github.com/freefq - 韩国首尔Oracle云计算数据中心 3
+      - github.com/freefq - 乌克兰  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 5
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
+      - 🇩🇰 github.com/freefq - 丹麦  7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
+      - 🇺🇸 github.com/freefq - 美国弗吉尼亚州阿什本NV NEXT数据中心 9
       - github.com/freefq - 湖北省武汉市移动 10
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
-      - 🇩🇰 github.com/freefq - 丹麦  12
-      - 🇯🇵 github.com/freefq - 日本  13
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 12
+      - 🇺🇸 github.com/freefq - 美国  13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 15
+      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 15
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
       - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 17
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 18
-      - github.com/freefq - 亚太地区  19
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 20
-      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 21
+      - 🇭🇰 github.com/freefq - 香港电讯盈科有限公司 18
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 19
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 20
+      - github.com/freefq - 亚太地区  21
       - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 22
-      - github.com/freefq - 亚太地区  23
-      - github.com/freefq - 亚太地区  24
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 25
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 26
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 27
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 24
       - 频道01@wxgqlfx
       - 频道02@wxgqlfx
       - 频道03@wxgqlfx
@@ -875,6 +856,8 @@ proxy-groups:
       - 频道114@wxgqlfx
       - 频道115@wxgqlfx
       - 频道116@wxgqlfx
+      - 频道117@wxgqlfx
+      - 频道118@wxgqlfx
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
