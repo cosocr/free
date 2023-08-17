@@ -43,43 +43,61 @@ proxies:
   - {name: 频道96@wxgqlfx, server: 67.21.84.216, port: 47088, type: vmess, uuid: b9a305a9-1ff2-4ec1-b338-933555833baa, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 频道97@wxgqlfx, server: 64.32.4.34, port: 43166, type: vmess, uuid: 8653004f-de67-44c2-9cce-e0830933fb03, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 频道107@wxgqlfx, server: 199.19.104.124, port: 32221, type: vmess, uuid: 9ba7e62a-379a-4bfc-84f3-3712bfb78ba0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 1, server: cfcdn2.sanfencdn.net, port: 2052, type: vmess, uuid: 78d6fa88-0d27-414f-8f51-1e16186d588f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us5.sanfencdn2.com}}, udp: true}
-  - {name: 🇬🇧 github.com/freefq - 英国伦敦DigitalOcean数据中心 2, server: 165.22.126.35, port: 4531, type: vmess, uuid: 947f2396-73e3-4a34-b7f6-93eb13863b31, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇫🇷 github.com/freefq - 法国  3, server: uk3.ifastcdncache.com, port: 23881, type: vmess, uuid: f17cef96-8399-4bf5-aa38-f2c04e9d029d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: uk3.ifastcdncache.com}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 4, server: 23.227.39.111, port: 443, type: vmess, uuid: 25a9f3b9-1e6d-40bd-968b-e0818c1b196f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 2.freek1.xyz, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: 2.freek1.xyz}}, udp: true}
-  - {name: 🇭🇰 github.com/freefq - 香港Leaseweb数据中心 5, server: 27.0.232.251, port: 10000, type: vmess, uuid: 4e233d28-3784-11ee-bf86-00163e35210f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 27.0.232.251}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 6, server: zfc.windowsupdate1.com, port: 443, type: vmess, uuid: 6abfe33a-1894-4f62-8879-83b71a35e5fd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-1.acyun.tk}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 7, server: 172.67.247.81, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: nl2.sharecentrepro.com}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8, server: bluehost.com, port: 443, type: vmess, uuid: 12eed507-9a58-4ca5-f7af-2871e9aae684, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /19544, headers: {Host: cdntr2.digisport.shop}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9, server: speedip.eu.org, port: 8880, type: vmess, uuid: 35f07051-8e77-4b44-be56-8979cc25c249, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v01.ssrsub.com}}, udp: true}
-  - {name: github.com/freefq - 亚太地区  10, server: 103.160.204.48, port: 2082, type: vmess, uuid: 0ddf0cc4-1487-4ff1-a6a7-d9ab93040606, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /blue, headers: {Host: tui.vtcss.top}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11, server: cloudconeaaa.gorgorchicken.one, port: 8443, type: vmess, uuid: 1cec1ebc-b489-4769-f2d9-e079b5832a60, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: cloudconeaaa.gorgorchicken.one}}, udp: true}
-  - {name: 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 12, server: 188.114.97.152, port: 80, type: vmess, uuid: 185d6ff9-a0a7-4d39-f3e8-783b7a6bbc79, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /blue, headers: {Host: tui.vtcss.top}}, udp: true}
-  - {name: 频道01@wxgqlfx, server: maous3.wzgmail.com, port: 31235, type: vmess, uuid: 6ae7c1f3-996b-307f-8a02-3120465c8b21, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: maous3.wzgmail.com}}, udp: true}
-  - {name: 频道02@wxgqlfx, server: maous4.wzgmail.com, port: 31235, type: vmess, uuid: 6ae7c1f3-996b-307f-8a02-3120465c8b21, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: maous4.wzgmail.com}}, udp: true}
-  - {name: 频道03@wxgqlfx, server: 162.159.129.96, port: 80, type: vmess, uuid: 3f34b7b5-e33d-49e0-8562-08117b9a3400, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /videos, headers: {Host: us.dabaiyyds.baymax.lol}}, udp: true}
-  - {name: 频道04@wxgqlfx, server: jp04.156786.xyz, port: 43534, type: trojan, password: 8ef39fc1-07ab-4402-942a-89ca244bf5e6, skip-cert-verify: true, udp: true}
-  - {name: 频道05@wxgqlfx, server: 198.41.220.157, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv2.scproxy.top}}, udp: true}
-  - {name: 频道06@wxgqlfx, server: 3u1s02.abzoones.xyz, port: 36506, type: trojan, password: 564af0a5-aa68-41c9-a6eb-ffd0f9ccdee0, sni: us02.abpilot.xyz, skip-cert-verify: true, udp: true}
-  - {name: 频道07@wxgqlfx, server: cf-lt.sharecentre.online, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv2.scproxy.top}}, udp: true}
-  - {name: 频道08@wxgqlfx, server: 198.41.223.162, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv2.scproxy.top}}, udp: true}
-  - {name: 频道09@wxgqlfx, server: 162.159.249.217, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv2.scproxy.top}}, udp: true}
-  - {name: 频道10@wxgqlfx, server: 172.64.202.22, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: dp4.ilovescp.com}}, udp: true}
-  - {name: 频道11@wxgqlfx, server: 5a4u01.abzoones.xyz, port: 36821, type: trojan, password: 564af0a5-aa68-41c9-a6eb-ffd0f9ccdee0, sni: au01.abpilot.xyz, skip-cert-verify: true, udp: true}
-  - {name: 频道12@wxgqlfx, server: 162.159.138.46, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv2.scproxy.top}}, udp: true}
-  - {name: 频道13@wxgqlfx, server: 162.159.246.177, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv2.scproxy.top}}, udp: true}
-  - {name: 频道14@wxgqlfx, server: gsawshk2.aiopen.cfd, port: 443, type: trojan, password: db4fb0e6-0e5b-4b12-95ac-03e60f5685d7, sni: 20-212-60-88.nhost.00cdn.com, skip-cert-verify: true, udp: true}
-  - {name: 频道15@wxgqlfx, server: 23.227.38.80, port: 443, type: vmess, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: d.freeh1.xyz, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: d.freeh1.xyz}}, udp: true}
-  - {name: 频道16@wxgqlfx, server: 162.159.129.98, port: 80, type: vmess, uuid: 3f34b7b5-e33d-49e0-8562-08117b9a3400, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /videos, headers: {Host: us.dabaiyyds.baymax.lol}}, udp: true}
-  - {name: 频道17@wxgqlfx, server: 159.246.55.180, port: 443, type: vmess, uuid: 2F094845-E2BD-EBF7-DEB7-995992436FAF, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: Amsterdam.kotick.site, network: ws, ws-opts: {path: /speedtest, headers: {Host: Amsterdam.kotick.site}}, udp: true}
-  - {name: 频道18@wxgqlfx, server: 172.64.101.49, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv2.scproxy.top}}, udp: true}
-  - {name: 频道19@wxgqlfx, server: 172.67.206.227, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv2.scproxy.top}}, udp: true}
-  - {name: 频道20@wxgqlfx, server: 104.18.16.131, port: 443, type: vmess, uuid: 2F094845-E2BD-EBF7-DEB7-995992436FAF, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: Kansas.kotick.site, network: ws, ws-opts: {path: /speedtest, headers: {Host: Kansas.kotick.site}}, udp: true}
-  - {name: 频道21@wxgqlfx, server: 172.64.110.64, port: 80, type: vmess, uuid: 7390f4bc-1bf0-42f4-9c4f-0cbc35217ee3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: cc2.shabijichang.com}}, udp: true}
-  - {name: 频道22@wxgqlfx, server: 172.67.227.240, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv2.scproxy.top}}, udp: true}
-  - {name: 频道23@wxgqlfx, server: 1.wyhkaa0.gq, port: 2095, type: vmess, uuid: acb65ed4-3f3e-41b2-aee0-e400813a3434, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: 1.wyhkaa0.gq}}, udp: true}
-  - {name: 频道24@wxgqlfx, server: b2.wuxianliulianng.xyz, port: 8443, type: vmess, uuid: 3a4d4b52-81ff-4aea-a451-99ed4587bfb4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 2.wuxianliulianng.xyz, network: ws, ws-opts: {path: /sometimesnaive, headers: {Host: 2.wuxianliulianng.xyz}}, udp: true}
-  - {name: 频道25@wxgqlfx, server: tw2.jb7ueoq73.xyz, port: 443, type: trojan, password: 80ee02fd-6db7-463d-a774-ba6ca8184d7b, sni: tls.jb7ueoq73.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Sharktech数据中心 1, server: 64.32.21.246, port: 44313, type: vmess, uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 2, server: 23.234.198.86, port: 34888, type: vmess, uuid: a9abf3e7-87f4-473d-8d03-2f26ca4b3583, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 3, server: dongtaiwang3.com, port: 443, type: vmess, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: d.freeh1.xyz, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: d.freeh1.xyz}}, udp: true}
+  - {name: 🇷🇺 github.com/freefq - 俄罗斯  4, server: 185.59.218.177, port: 443, type: vmess, uuid: 8f74ec8a-971c-11ed-a8fc-0242ac120002, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /72d6d25e-1b39-11ee-a5c8-8213fd3be4b9, headers: {Host: 72d6d25e-1b39-11ee-a5c8-8213fd3be4b9.bamarambash.monster}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 5, server: free3.moecats.xyz, port: 2052, type: vmess, uuid: 8204f631-8a71-4f6a-821d-6c117edaf0fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: downloads.moecats.xyz}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 6, server: Lille.kotick.site, port: 443, type: vmess, uuid: 6147F065-9AC0-4081-A5A3-A2EB4EBB8958, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /speedtest, headers: {Host: Lille.kotick.site}}, udp: true}
+  - {name: github.com/freefq - 四川省泸州市移动 7, server: cdn.node.user-sub.pddns-usersdk.com, port: 13003, type: vmess, uuid: 5f9f4df4-5398-35d1-9a6a-44a8a575832d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: cdn.node.user-sub.pddns-usersdk.com}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 8, server: zfc.windowsupdate1.com, port: 443, type: vmess, uuid: 6abfe33a-1894-4f62-8879-83b71a35e5fd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-1.acyun.tk}}, udp: true}
+  - {name: 🇨🇳 github.com/freefq - 江苏省徐州市移动 9, server: fs.xianyuwangluo.cyou, port: 27206, type: ss, cipher: chacha20-ietf-poly1305, password: aa8dba04-bf38-4255-a3f4-1aa3f1c10cb6, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 10, server: 23.227.39.111, port: 443, type: vmess, uuid: 25a9f3b9-1e6d-40bd-968b-e0818c1b196f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 2.freek1.xyz, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: 2.freek1.xyz}}, udp: true}
+  - {name: 🇷🇺 github.com/freefq - 俄罗斯  11, server: 212.113.106.243, port: 12949, type: ss, cipher: chacha20-ietf-poly1305, password: P2zxXPewlV3BlfqqYiSthvtLc, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12, server: ming2.kiwireich.com, port: 443, type: vmess, uuid: 18e5f40f-bda6-4c15-9334-e87cda6047af, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ray, headers: {Host: ming2.kiwireich.com}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 13, server: ns1.v2-vip.fun, port: 8880, type: vmess, uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY, headers: {Host: fr7.tehme100.fun}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 14, server: 108.166.203.181, port: 44945, type: vmess, uuid: 268a491b-764c-44d1-81a4-30de16130867, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 15, server: speedip.eu.org, port: 8880, type: vmess, uuid: 35f07051-8e77-4b44-be56-8979cc25c249, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v01.ssrsub.com}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16, server: mci.bamarambash.monster, port: 443, type: vmess, uuid: 8f74ec8a-971c-11ed-a8fc-0242ac120002, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b8767a6a-1c30-11ee-ba76-9ee097a90b8b, headers: {Host: b8767a6a-1c30-11ee-ba76-9ee097a90b8b.bamarambash.monster}}, udp: true}
+  - {name: 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 17, server: mci.saintink.eu.org, port: 443, type: vmess, uuid: c226d9fa-b5a7-4f6e-9532-50137c89311d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: nl1.v2rayserv.com/vmess, headers: {Host: 4.saintink.eu.org}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国洛杉矶 18, server: arvancloud.ir-Uc.snappfood.SO.ddns001.net, port: 443, type: vmess, uuid: 8f74ec8a-971c-11ed-a8fc-0242ac120002, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 1c5854ba-1b44-11ee-a146-8213fd3be4b9.bamarambash.monster}}, udp: true}
+  - {name: 频道01@wxgqlfx, server: 104.16.198.231, port: 443, type: vmess, uuid: 78d6fa88-0d27-414f-8f51-1e16186d588f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us3.sanfencdn1.com, network: ws, ws-opts: {path: /zh-cn, headers: {Host: us3.sanfencdn1.com}}, udp: true}
+  - {name: 频道02@wxgqlfx, server: maous4.wzgmail.com, port: 31235, type: vmess, uuid: c6c946e5-7790-3b0b-9e4a-e58c662a7f2e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: maous4.wzgmail.com}}, udp: true}
+  - {name: 频道03@wxgqlfx, server: cfcdn2.sanfencdn.net, port: 443, type: vmess, uuid: 78d6fa88-0d27-414f-8f51-1e16186d588f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us2.sanfencdn1.com, network: ws, ws-opts: {path: /zh-cn, headers: {Host: us2.sanfencdn1.com}}, udp: true}
+  - {name: 频道04@wxgqlfx, server: maous2.wzgmail.com, port: 443, type: vmess, uuid: c6c946e5-7790-3b0b-9e4a-e58c662a7f2e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: maous2.wzgmail.com}}, udp: true}
+  - {name: 频道05@wxgqlfx, server: microsoftdebug.com, port: 80, type: vmess, uuid: c88918ab-c254-4007-a623-975e4ace5bc0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /windows7.ios, headers: {Host: v1.us1.microsoftdebug.com}}, udp: true}
+  - {name: 频道06@wxgqlfx, server: 172.67.109.113, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv2.scproxy.top}}, udp: true}
+  - {name: 频道07@wxgqlfx, server: 172.64.85.116, port: 80, type: vmess, uuid: 78d6fa88-0d27-414f-8f51-1e16186d588f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: jp4.sanfencdn2.com}}, udp: true}
+  - {name: 频道08@wxgqlfx, server: 172.64.85.212, port: 80, type: vmess, uuid: 78d6fa88-0d27-414f-8f51-1e16186d588f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: jp4.sanfencdn2.com}}, udp: true}
+  - {name: 频道09@wxgqlfx, server: 172.64.203.79, port: 80, type: vmess, uuid: 78d6fa88-0d27-414f-8f51-1e16186d588f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: jp4.sanfencdn2.com}}, udp: true}
+  - {name: 频道10@wxgqlfx, server: 172.67.61.240, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv2.scproxy.top}}, udp: true}
+  - {name: 频道11@wxgqlfx, server: b2.wuxianliulianng.xyz, port: 443, type: vmess, uuid: 4682492b-6fd8-4ce0-9b2a-f62ea5ffdc56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 2.wuxianliulianng.xyz, network: ws, ws-opts: {path: /sometimesnaive, headers: {Host: 2.wuxianliulianng.xyz}}, udp: true}
+  - {name: 频道12@wxgqlfx, server: 6.wyhkaa0.gq, port: 2095, type: vmess, uuid: 6bbc9554-07bc-47c6-a088-87aa79fd5ca1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: 6.wyhkaa0.gq}}, udp: true}
+  - {name: 频道13@wxgqlfx, server: frsadubibb.76898102.xyz, port: 2095, type: vmess, uuid: 1262dace-d355-3868-915f-b7418c2e7390, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /funsdfrh, headers: {Host: frsadubib.76898102.xyz}}, udp: true}
+  - {name: 频道14@wxgqlfx, server: 172.67.228.97, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv2.scproxy.top}}, udp: true}
+  - {name: 频道15@wxgqlfx, server: gsawssg1.aiopen.cfd, port: 443, type: trojan, password: db4fb0e6-0e5b-4b12-95ac-03e60f5685d7, sni: 20-212-60-88.nhost.00cdn.com, skip-cert-verify: true, udp: true}
+  - {name: 频道16@wxgqlfx, server: gsawsjp2.aiopen.cfd, port: 443, type: trojan, password: db4fb0e6-0e5b-4b12-95ac-03e60f5685d7, sni: 20-212-60-88.nhost.00cdn.com, skip-cert-verify: true, udp: true}
+  - {name: 频道17@wxgqlfx, server: 172.67.149.81, port: 80, type: vmess, uuid: 0a6fa33f-1a08-4d98-a7bc-0fecdeb7037b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: wxxjp.e5outllok.me}}, udp: true}
+  - {name: 频道18@wxgqlfx, server: 15.wyhkaa0.gq, port: 8880, type: vmess, uuid: 0b52017c-9e9e-41d9-8698-f28aea09448e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: 15.wyhkaa0.gq}}, udp: true}
+  - {name: 频道19@wxgqlfx, server: wxll.e5outllok.me, port: 80, type: vmess, uuid: 0a6fa33f-1a08-4d98-a7bc-0fecdeb7037b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: wxll.e5outllok.me}}, udp: true}
+  - {name: 频道20@wxgqlfx, server: cfcdn5.sanfencdn.net, port: 80, type: vmess, uuid: 78d6fa88-0d27-414f-8f51-1e16186d588f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: jp3.sanfencdn2.com}}, udp: true}
+  - {name: 频道21@wxgqlfx, server: 15.wyhkaa0.gq, port: 2095, type: vmess, uuid: d54527c2-27d6-48ab-87b1-c7e22ffd7aac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: 15.wyhkaa0.gq}}, udp: true}
+  - {name: 频道22@wxgqlfx, server: 12.wyhkaa0.gq, port: 2095, type: vmess, uuid: a04e2923-1a96-4998-ec89-2634f7197ebf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: 12.wyhkaa0.gq}}, udp: true}
+  - {name: 频道23@wxgqlfx, server: 13.wyhkaa0.gq, port: 2095, type: vmess, uuid: 32af4006-0698-4910-806c-b813074f36eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: 13.wyhkaa0.gq}}, udp: true}
+  - {name: 频道24@wxgqlfx, server: 11.wyhkaa0.gq, port: 2095, type: vmess, uuid: a54fd3bc-3764-40cd-ff5a-471470417eac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: 11.wyhkaa0.gq}}, udp: true}
+  - {name: 频道25@wxgqlfx, server: wxxjp.e5outllok.me, port: 80, type: vmess, uuid: 0a6fa33f-1a08-4d98-a7bc-0fecdeb7037b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: wxxjp.e5outllok.me}}, udp: true}
+  - {name: 频道26@wxgqlfx, server: cfcdn3.sanfencdn.net, port: 2052, type: vmess, uuid: 78d6fa88-0d27-414f-8f51-1e16186d588f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: sg3.sanfencdn2.com}}, udp: true}
+  - {name: 频道27@wxgqlfx, server: 172.67.125.137, port: 2052, type: vmess, uuid: 78d6fa88-0d27-414f-8f51-1e16186d588f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: sg3.sanfencdn2.com}}, udp: true}
+  - {name: 频道28@wxgqlfx, server: 17.wyhkaa0.gq, port: 2095, type: vmess, uuid: 1e36655b-7d28-4513-d7f8-5f1a0c00a07d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: 17.wyhkaa0.gq}}, udp: true}
+  - {name: 频道29@wxgqlfx, server: 216.24.57.1, port: 443, type: vmess, uuid: a7ee85f4-2528-412e-994f-ce65f54754e4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: dd2.1808.cf, network: ws, ws-opts: {path: a7ee85f4, headers: {Host: dd2.1808.cf}}, udp: true}
+  - {name: 频道30@wxgqlfx, server: 16.wyhkaa0.gq, port: 2095, type: vmess, uuid: c0fa7a10-3622-492a-e1cf-b8f8f4df3412, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: 16.wyhkaa0.gq}}, udp: true}
+  - {name: 频道31@wxgqlfx, server: wxll.e5outllok.me, port: 80, type: vmess, uuid: 5db666b1-9fac-49d3-aa70-53a8d1eae797, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: wxll.e5outllok.me}}, udp: true}
+  - {name: 频道32@wxgqlfx, server: 172.67.126.2, port: 2052, type: vmess, uuid: 78d6fa88-0d27-414f-8f51-1e16186d588f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: sg3.sanfencdn2.com}}, udp: true}
+  - {name: 频道33@wxgqlfx, server: 172.67.122.49, port: 2052, type: vmess, uuid: 78d6fa88-0d27-414f-8f51-1e16186d588f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: sg3.sanfencdn2.com}}, udp: true}
+  - {name: 频道34@wxgqlfx, server: fd.shabijichang.com, port: 80, type: vmess, uuid: 0f8921ec-f691-4e05-aaa2-5d096133b606, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: db.shabijichang.com}}, udp: true}
+  - {name: 频道35@wxgqlfx, server: 7.wyhkaa0.gq, port: 2095, type: vmess, uuid: 2f334fd9-98f6-4995-ba45-bb9a8a28eea2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: 7.wyhkaa0.gq}}, udp: true}
+  - {name: 频道36@wxgqlfx, server: 9.wyhkaa0.gq, port: 2095, type: vmess, uuid: d838d99a-6806-4be4-c126-7fca613cf6a9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: 9.wyhkaa0.gq}}, udp: true}
+  - {name: 频道37@wxgqlfx, server: gshinet1.aiopen.cfd, port: 443, type: trojan, password: db4fb0e6-0e5b-4b12-95ac-03e60f5685d7, sni: 20-212-60-88.nhost.00cdn.com, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -109,18 +127,24 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 1
-      - 🇬🇧 github.com/freefq - 英国伦敦DigitalOcean数据中心 2
-      - 🇫🇷 github.com/freefq - 法国  3
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 4
-      - 🇭🇰 github.com/freefq - 香港Leaseweb数据中心 5
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Sharktech数据中心 1
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 2
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 3
+      - 🇷🇺 github.com/freefq - 俄罗斯  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 5
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 6
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
-      - github.com/freefq - 亚太地区  10
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
-      - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 12
+      - github.com/freefq - 四川省泸州市移动 7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - 🇨🇳 github.com/freefq - 江苏省徐州市移动 9
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 10
+      - 🇷🇺 github.com/freefq - 俄罗斯  11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 14
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 15
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
+      - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 17
+      - 🇺🇸 github.com/freefq - 美国洛杉矶 18
       - 频道01@wxgqlfx
       - 频道02@wxgqlfx
       - 频道03@wxgqlfx
@@ -146,6 +170,18 @@ proxy-groups:
       - 频道23@wxgqlfx
       - 频道24@wxgqlfx
       - 频道25@wxgqlfx
+      - 频道26@wxgqlfx
+      - 频道27@wxgqlfx
+      - 频道28@wxgqlfx
+      - 频道29@wxgqlfx
+      - 频道30@wxgqlfx
+      - 频道31@wxgqlfx
+      - 频道32@wxgqlfx
+      - 频道33@wxgqlfx
+      - 频道34@wxgqlfx
+      - 频道35@wxgqlfx
+      - 频道36@wxgqlfx
+      - 频道37@wxgqlfx
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -174,18 +210,24 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 1
-      - 🇬🇧 github.com/freefq - 英国伦敦DigitalOcean数据中心 2
-      - 🇫🇷 github.com/freefq - 法国  3
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 4
-      - 🇭🇰 github.com/freefq - 香港Leaseweb数据中心 5
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Sharktech数据中心 1
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 2
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 3
+      - 🇷🇺 github.com/freefq - 俄罗斯  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 5
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 6
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
-      - github.com/freefq - 亚太地区  10
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
-      - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 12
+      - github.com/freefq - 四川省泸州市移动 7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - 🇨🇳 github.com/freefq - 江苏省徐州市移动 9
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 10
+      - 🇷🇺 github.com/freefq - 俄罗斯  11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 14
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 15
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
+      - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 17
+      - 🇺🇸 github.com/freefq - 美国洛杉矶 18
       - 频道01@wxgqlfx
       - 频道02@wxgqlfx
       - 频道03@wxgqlfx
@@ -211,6 +253,18 @@ proxy-groups:
       - 频道23@wxgqlfx
       - 频道24@wxgqlfx
       - 频道25@wxgqlfx
+      - 频道26@wxgqlfx
+      - 频道27@wxgqlfx
+      - 频道28@wxgqlfx
+      - 频道29@wxgqlfx
+      - 频道30@wxgqlfx
+      - 频道31@wxgqlfx
+      - 频道32@wxgqlfx
+      - 频道33@wxgqlfx
+      - 频道34@wxgqlfx
+      - 频道35@wxgqlfx
+      - 频道36@wxgqlfx
+      - 频道37@wxgqlfx
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -240,18 +294,24 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 1
-      - 🇬🇧 github.com/freefq - 英国伦敦DigitalOcean数据中心 2
-      - 🇫🇷 github.com/freefq - 法国  3
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 4
-      - 🇭🇰 github.com/freefq - 香港Leaseweb数据中心 5
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Sharktech数据中心 1
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 2
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 3
+      - 🇷🇺 github.com/freefq - 俄罗斯  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 5
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 6
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
-      - github.com/freefq - 亚太地区  10
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
-      - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 12
+      - github.com/freefq - 四川省泸州市移动 7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - 🇨🇳 github.com/freefq - 江苏省徐州市移动 9
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 10
+      - 🇷🇺 github.com/freefq - 俄罗斯  11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 14
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 15
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
+      - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 17
+      - 🇺🇸 github.com/freefq - 美国洛杉矶 18
       - 频道01@wxgqlfx
       - 频道02@wxgqlfx
       - 频道03@wxgqlfx
@@ -277,6 +337,18 @@ proxy-groups:
       - 频道23@wxgqlfx
       - 频道24@wxgqlfx
       - 频道25@wxgqlfx
+      - 频道26@wxgqlfx
+      - 频道27@wxgqlfx
+      - 频道28@wxgqlfx
+      - 频道29@wxgqlfx
+      - 频道30@wxgqlfx
+      - 频道31@wxgqlfx
+      - 频道32@wxgqlfx
+      - 频道33@wxgqlfx
+      - 频道34@wxgqlfx
+      - 频道35@wxgqlfx
+      - 频道36@wxgqlfx
+      - 频道37@wxgqlfx
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -318,18 +390,24 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 1
-      - 🇬🇧 github.com/freefq - 英国伦敦DigitalOcean数据中心 2
-      - 🇫🇷 github.com/freefq - 法国  3
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 4
-      - 🇭🇰 github.com/freefq - 香港Leaseweb数据中心 5
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Sharktech数据中心 1
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 2
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 3
+      - 🇷🇺 github.com/freefq - 俄罗斯  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 5
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 6
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
-      - github.com/freefq - 亚太地区  10
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
-      - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 12
+      - github.com/freefq - 四川省泸州市移动 7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - 🇨🇳 github.com/freefq - 江苏省徐州市移动 9
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 10
+      - 🇷🇺 github.com/freefq - 俄罗斯  11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 14
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 15
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
+      - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 17
+      - 🇺🇸 github.com/freefq - 美国洛杉矶 18
       - 频道01@wxgqlfx
       - 频道02@wxgqlfx
       - 频道03@wxgqlfx
@@ -355,11 +433,22 @@ proxy-groups:
       - 频道23@wxgqlfx
       - 频道24@wxgqlfx
       - 频道25@wxgqlfx
+      - 频道26@wxgqlfx
+      - 频道27@wxgqlfx
+      - 频道28@wxgqlfx
+      - 频道29@wxgqlfx
+      - 频道30@wxgqlfx
+      - 频道31@wxgqlfx
+      - 频道32@wxgqlfx
+      - 频道33@wxgqlfx
+      - 频道34@wxgqlfx
+      - 频道35@wxgqlfx
+      - 频道36@wxgqlfx
+      - 频道37@wxgqlfx
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇭🇰 github.com/freefq - 香港Leaseweb数据中心 5
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -389,18 +478,24 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 1
-      - 🇬🇧 github.com/freefq - 英国伦敦DigitalOcean数据中心 2
-      - 🇫🇷 github.com/freefq - 法国  3
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 4
-      - 🇭🇰 github.com/freefq - 香港Leaseweb数据中心 5
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Sharktech数据中心 1
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 2
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 3
+      - 🇷🇺 github.com/freefq - 俄罗斯  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 5
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 6
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
-      - github.com/freefq - 亚太地区  10
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
-      - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 12
+      - github.com/freefq - 四川省泸州市移动 7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - 🇨🇳 github.com/freefq - 江苏省徐州市移动 9
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 10
+      - 🇷🇺 github.com/freefq - 俄罗斯  11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 14
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 15
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
+      - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 17
+      - 🇺🇸 github.com/freefq - 美国洛杉矶 18
       - 频道01@wxgqlfx
       - 频道02@wxgqlfx
       - 频道03@wxgqlfx
@@ -426,6 +521,18 @@ proxy-groups:
       - 频道23@wxgqlfx
       - 频道24@wxgqlfx
       - 频道25@wxgqlfx
+      - 频道26@wxgqlfx
+      - 频道27@wxgqlfx
+      - 频道28@wxgqlfx
+      - 频道29@wxgqlfx
+      - 频道30@wxgqlfx
+      - 频道31@wxgqlfx
+      - 频道32@wxgqlfx
+      - 频道33@wxgqlfx
+      - 频道34@wxgqlfx
+      - 频道35@wxgqlfx
+      - 频道36@wxgqlfx
+      - 频道37@wxgqlfx
   - name: 📲 电报信息
     type: select
     proxies:
@@ -454,18 +561,24 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 1
-      - 🇬🇧 github.com/freefq - 英国伦敦DigitalOcean数据中心 2
-      - 🇫🇷 github.com/freefq - 法国  3
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 4
-      - 🇭🇰 github.com/freefq - 香港Leaseweb数据中心 5
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Sharktech数据中心 1
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 2
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 3
+      - 🇷🇺 github.com/freefq - 俄罗斯  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 5
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 6
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
-      - github.com/freefq - 亚太地区  10
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
-      - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 12
+      - github.com/freefq - 四川省泸州市移动 7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - 🇨🇳 github.com/freefq - 江苏省徐州市移动 9
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 10
+      - 🇷🇺 github.com/freefq - 俄罗斯  11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 14
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 15
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
+      - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 17
+      - 🇺🇸 github.com/freefq - 美国洛杉矶 18
       - 频道01@wxgqlfx
       - 频道02@wxgqlfx
       - 频道03@wxgqlfx
@@ -491,6 +604,18 @@ proxy-groups:
       - 频道23@wxgqlfx
       - 频道24@wxgqlfx
       - 频道25@wxgqlfx
+      - 频道26@wxgqlfx
+      - 频道27@wxgqlfx
+      - 频道28@wxgqlfx
+      - 频道29@wxgqlfx
+      - 频道30@wxgqlfx
+      - 频道31@wxgqlfx
+      - 频道32@wxgqlfx
+      - 频道33@wxgqlfx
+      - 频道34@wxgqlfx
+      - 频道35@wxgqlfx
+      - 频道36@wxgqlfx
+      - 频道37@wxgqlfx
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -520,18 +645,24 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 1
-      - 🇬🇧 github.com/freefq - 英国伦敦DigitalOcean数据中心 2
-      - 🇫🇷 github.com/freefq - 法国  3
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 4
-      - 🇭🇰 github.com/freefq - 香港Leaseweb数据中心 5
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Sharktech数据中心 1
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 2
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 3
+      - 🇷🇺 github.com/freefq - 俄罗斯  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 5
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 6
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
-      - github.com/freefq - 亚太地区  10
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
-      - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 12
+      - github.com/freefq - 四川省泸州市移动 7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - 🇨🇳 github.com/freefq - 江苏省徐州市移动 9
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 10
+      - 🇷🇺 github.com/freefq - 俄罗斯  11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 14
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 15
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
+      - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 17
+      - 🇺🇸 github.com/freefq - 美国洛杉矶 18
       - 频道01@wxgqlfx
       - 频道02@wxgqlfx
       - 频道03@wxgqlfx
@@ -557,6 +688,18 @@ proxy-groups:
       - 频道23@wxgqlfx
       - 频道24@wxgqlfx
       - 频道25@wxgqlfx
+      - 频道26@wxgqlfx
+      - 频道27@wxgqlfx
+      - 频道28@wxgqlfx
+      - 频道29@wxgqlfx
+      - 频道30@wxgqlfx
+      - 频道31@wxgqlfx
+      - 频道32@wxgqlfx
+      - 频道33@wxgqlfx
+      - 频道34@wxgqlfx
+      - 频道35@wxgqlfx
+      - 频道36@wxgqlfx
+      - 频道37@wxgqlfx
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -595,18 +738,24 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 1
-      - 🇬🇧 github.com/freefq - 英国伦敦DigitalOcean数据中心 2
-      - 🇫🇷 github.com/freefq - 法国  3
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 4
-      - 🇭🇰 github.com/freefq - 香港Leaseweb数据中心 5
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Sharktech数据中心 1
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 2
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 3
+      - 🇷🇺 github.com/freefq - 俄罗斯  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 5
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 6
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9
-      - github.com/freefq - 亚太地区  10
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
-      - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 12
+      - github.com/freefq - 四川省泸州市移动 7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - 🇨🇳 github.com/freefq - 江苏省徐州市移动 9
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 10
+      - 🇷🇺 github.com/freefq - 俄罗斯  11
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 13
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 14
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 15
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
+      - 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 17
+      - 🇺🇸 github.com/freefq - 美国洛杉矶 18
       - 频道01@wxgqlfx
       - 频道02@wxgqlfx
       - 频道03@wxgqlfx
@@ -632,6 +781,18 @@ proxy-groups:
       - 频道23@wxgqlfx
       - 频道24@wxgqlfx
       - 频道25@wxgqlfx
+      - 频道26@wxgqlfx
+      - 频道27@wxgqlfx
+      - 频道28@wxgqlfx
+      - 频道29@wxgqlfx
+      - 频道30@wxgqlfx
+      - 频道31@wxgqlfx
+      - 频道32@wxgqlfx
+      - 频道33@wxgqlfx
+      - 频道34@wxgqlfx
+      - 频道35@wxgqlfx
+      - 频道36@wxgqlfx
+      - 频道37@wxgqlfx
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
