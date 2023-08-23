@@ -135,6 +135,42 @@ proxies:
   - {name: 频道56@wxgqlfx, server: 172.64.101.193, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: hk.ilovescp.com}}, udp: true}
   - {name: 频道57@wxgqlfx, server: 172.64.109.210, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: hk.ilovescp.com}}, udp: true}
   - {name: 频道58@wxgqlfx, server: 172.67.27.208, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: hk.ilovescp.com}}, udp: true}
+  - {name: 频道59@wxgqlfx, server: 140.99.95.42, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 频道60@wxgqlfx 2, server: 140.99.95.42, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: 频道61@wxgqlfx 2, server: 140.99.95.42, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: 频道62@wxgqlfx 2, server: 140.99.95.42, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: 频道63@wxgqlfx 2, server: 140.99.6.194, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 频道64@wxgqlfx, server: 140.99.95.42, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: 频道65@wxgqlfx 2, server: 140.99.95.42, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: 频道66@wxgqlfx 2, server: 140.99.95.42, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: 频道67@wxgqlfx, server: 140.99.6.42, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 频道68@wxgqlfx, server: 140.99.202.42, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 频道69@wxgqlfx 2, server: 140.99.95.42, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: 频道70@wxgqlfx, server: 140.99.95.42, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: 频道71@wxgqlfx, server: 140.99.6.58, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: 频道72@wxgqlfx 2, server: 140.99.95.42, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: 频道73@wxgqlfx, server: 140.99.95.42, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: 频道74@wxgqlfx, server: 140.99.95.42, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: 频道75@wxgqlfx, server: 140.99.95.42, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 频道76@wxgqlfx, server: 140.99.95.42, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: 频道77@wxgqlfx 2, server: 140.99.95.42, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: 频道78@wxgqlfx 2, server: 86.38.4.73, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: 频道79@wxgqlfx, server: 140.99.95.42, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 频道80@wxgqlfx, server: 140.99.95.42, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: 频道81@wxgqlfx, server: 140.99.95.42, port: 5498, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, udp: true}
+  - {name: 频道82@wxgqlfx, server: 140.99.95.42, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: 频道83@wxgqlfx, server: 140.99.95.42, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, udp: true}
+  - {name: 频道84@wxgqlfx, server: 140.99.95.42, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: 频道85@wxgqlfx, server: arm.gougouvpn.xyz, port: 7724, type: ss, cipher: chacha20-ietf-poly1305, password: 5ae3363e-252a-4466-8eba-3e2efb90c434, udp: true}
+  - {name: 频道86@wxgqlfx, server: 140.99.95.42, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: 频道87@wxgqlfx, server: 140.99.95.42, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 频道88@wxgqlfx, server: 140.99.95.42, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: 频道89@wxgqlfx, server: 140.99.95.42, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: 频道90@wxgqlfx, server: 40.69.93.214, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: dmzi4zBPMMsqrtsCgkgHBu, udp: true}
+  - {name: 频道91@wxgqlfx, server: 140.99.95.42, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: 频道92@wxgqlfx, server: 140.99.95.42, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 频道93@wxgqlfx, server: 140.99.95.42, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: 频道94@wxgqlfx, server: 140.99.95.42, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -256,6 +292,42 @@ proxy-groups:
       - 频道56@wxgqlfx
       - 频道57@wxgqlfx
       - 频道58@wxgqlfx
+      - 频道59@wxgqlfx
+      - 频道60@wxgqlfx 2
+      - 频道61@wxgqlfx 2
+      - 频道62@wxgqlfx 2
+      - 频道63@wxgqlfx 2
+      - 频道64@wxgqlfx
+      - 频道65@wxgqlfx 2
+      - 频道66@wxgqlfx 2
+      - 频道67@wxgqlfx
+      - 频道68@wxgqlfx
+      - 频道69@wxgqlfx 2
+      - 频道70@wxgqlfx
+      - 频道71@wxgqlfx
+      - 频道72@wxgqlfx 2
+      - 频道73@wxgqlfx
+      - 频道74@wxgqlfx
+      - 频道75@wxgqlfx
+      - 频道76@wxgqlfx
+      - 频道77@wxgqlfx 2
+      - 频道78@wxgqlfx 2
+      - 频道79@wxgqlfx
+      - 频道80@wxgqlfx
+      - 频道81@wxgqlfx
+      - 频道82@wxgqlfx
+      - 频道83@wxgqlfx
+      - 频道84@wxgqlfx
+      - 频道85@wxgqlfx
+      - 频道86@wxgqlfx
+      - 频道87@wxgqlfx
+      - 频道88@wxgqlfx
+      - 频道89@wxgqlfx
+      - 频道90@wxgqlfx
+      - 频道91@wxgqlfx
+      - 频道92@wxgqlfx
+      - 频道93@wxgqlfx
+      - 频道94@wxgqlfx
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -376,6 +448,42 @@ proxy-groups:
       - 频道56@wxgqlfx
       - 频道57@wxgqlfx
       - 频道58@wxgqlfx
+      - 频道59@wxgqlfx
+      - 频道60@wxgqlfx 2
+      - 频道61@wxgqlfx 2
+      - 频道62@wxgqlfx 2
+      - 频道63@wxgqlfx 2
+      - 频道64@wxgqlfx
+      - 频道65@wxgqlfx 2
+      - 频道66@wxgqlfx 2
+      - 频道67@wxgqlfx
+      - 频道68@wxgqlfx
+      - 频道69@wxgqlfx 2
+      - 频道70@wxgqlfx
+      - 频道71@wxgqlfx
+      - 频道72@wxgqlfx 2
+      - 频道73@wxgqlfx
+      - 频道74@wxgqlfx
+      - 频道75@wxgqlfx
+      - 频道76@wxgqlfx
+      - 频道77@wxgqlfx 2
+      - 频道78@wxgqlfx 2
+      - 频道79@wxgqlfx
+      - 频道80@wxgqlfx
+      - 频道81@wxgqlfx
+      - 频道82@wxgqlfx
+      - 频道83@wxgqlfx
+      - 频道84@wxgqlfx
+      - 频道85@wxgqlfx
+      - 频道86@wxgqlfx
+      - 频道87@wxgqlfx
+      - 频道88@wxgqlfx
+      - 频道89@wxgqlfx
+      - 频道90@wxgqlfx
+      - 频道91@wxgqlfx
+      - 频道92@wxgqlfx
+      - 频道93@wxgqlfx
+      - 频道94@wxgqlfx
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -497,6 +605,42 @@ proxy-groups:
       - 频道56@wxgqlfx
       - 频道57@wxgqlfx
       - 频道58@wxgqlfx
+      - 频道59@wxgqlfx
+      - 频道60@wxgqlfx 2
+      - 频道61@wxgqlfx 2
+      - 频道62@wxgqlfx 2
+      - 频道63@wxgqlfx 2
+      - 频道64@wxgqlfx
+      - 频道65@wxgqlfx 2
+      - 频道66@wxgqlfx 2
+      - 频道67@wxgqlfx
+      - 频道68@wxgqlfx
+      - 频道69@wxgqlfx 2
+      - 频道70@wxgqlfx
+      - 频道71@wxgqlfx
+      - 频道72@wxgqlfx 2
+      - 频道73@wxgqlfx
+      - 频道74@wxgqlfx
+      - 频道75@wxgqlfx
+      - 频道76@wxgqlfx
+      - 频道77@wxgqlfx 2
+      - 频道78@wxgqlfx 2
+      - 频道79@wxgqlfx
+      - 频道80@wxgqlfx
+      - 频道81@wxgqlfx
+      - 频道82@wxgqlfx
+      - 频道83@wxgqlfx
+      - 频道84@wxgqlfx
+      - 频道85@wxgqlfx
+      - 频道86@wxgqlfx
+      - 频道87@wxgqlfx
+      - 频道88@wxgqlfx
+      - 频道89@wxgqlfx
+      - 频道90@wxgqlfx
+      - 频道91@wxgqlfx
+      - 频道92@wxgqlfx
+      - 频道93@wxgqlfx
+      - 频道94@wxgqlfx
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -630,6 +774,42 @@ proxy-groups:
       - 频道56@wxgqlfx
       - 频道57@wxgqlfx
       - 频道58@wxgqlfx
+      - 频道59@wxgqlfx
+      - 频道60@wxgqlfx 2
+      - 频道61@wxgqlfx 2
+      - 频道62@wxgqlfx 2
+      - 频道63@wxgqlfx 2
+      - 频道64@wxgqlfx
+      - 频道65@wxgqlfx 2
+      - 频道66@wxgqlfx 2
+      - 频道67@wxgqlfx
+      - 频道68@wxgqlfx
+      - 频道69@wxgqlfx 2
+      - 频道70@wxgqlfx
+      - 频道71@wxgqlfx
+      - 频道72@wxgqlfx 2
+      - 频道73@wxgqlfx
+      - 频道74@wxgqlfx
+      - 频道75@wxgqlfx
+      - 频道76@wxgqlfx
+      - 频道77@wxgqlfx 2
+      - 频道78@wxgqlfx 2
+      - 频道79@wxgqlfx
+      - 频道80@wxgqlfx
+      - 频道81@wxgqlfx
+      - 频道82@wxgqlfx
+      - 频道83@wxgqlfx
+      - 频道84@wxgqlfx
+      - 频道85@wxgqlfx
+      - 频道86@wxgqlfx
+      - 频道87@wxgqlfx
+      - 频道88@wxgqlfx
+      - 频道89@wxgqlfx
+      - 频道90@wxgqlfx
+      - 频道91@wxgqlfx
+      - 频道92@wxgqlfx
+      - 频道93@wxgqlfx
+      - 频道94@wxgqlfx
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -755,6 +935,42 @@ proxy-groups:
       - 频道56@wxgqlfx
       - 频道57@wxgqlfx
       - 频道58@wxgqlfx
+      - 频道59@wxgqlfx
+      - 频道60@wxgqlfx 2
+      - 频道61@wxgqlfx 2
+      - 频道62@wxgqlfx 2
+      - 频道63@wxgqlfx 2
+      - 频道64@wxgqlfx
+      - 频道65@wxgqlfx 2
+      - 频道66@wxgqlfx 2
+      - 频道67@wxgqlfx
+      - 频道68@wxgqlfx
+      - 频道69@wxgqlfx 2
+      - 频道70@wxgqlfx
+      - 频道71@wxgqlfx
+      - 频道72@wxgqlfx 2
+      - 频道73@wxgqlfx
+      - 频道74@wxgqlfx
+      - 频道75@wxgqlfx
+      - 频道76@wxgqlfx
+      - 频道77@wxgqlfx 2
+      - 频道78@wxgqlfx 2
+      - 频道79@wxgqlfx
+      - 频道80@wxgqlfx
+      - 频道81@wxgqlfx
+      - 频道82@wxgqlfx
+      - 频道83@wxgqlfx
+      - 频道84@wxgqlfx
+      - 频道85@wxgqlfx
+      - 频道86@wxgqlfx
+      - 频道87@wxgqlfx
+      - 频道88@wxgqlfx
+      - 频道89@wxgqlfx
+      - 频道90@wxgqlfx
+      - 频道91@wxgqlfx
+      - 频道92@wxgqlfx
+      - 频道93@wxgqlfx
+      - 频道94@wxgqlfx
   - name: 📲 电报信息
     type: select
     proxies:
@@ -875,6 +1091,42 @@ proxy-groups:
       - 频道56@wxgqlfx
       - 频道57@wxgqlfx
       - 频道58@wxgqlfx
+      - 频道59@wxgqlfx
+      - 频道60@wxgqlfx 2
+      - 频道61@wxgqlfx 2
+      - 频道62@wxgqlfx 2
+      - 频道63@wxgqlfx 2
+      - 频道64@wxgqlfx
+      - 频道65@wxgqlfx 2
+      - 频道66@wxgqlfx 2
+      - 频道67@wxgqlfx
+      - 频道68@wxgqlfx
+      - 频道69@wxgqlfx 2
+      - 频道70@wxgqlfx
+      - 频道71@wxgqlfx
+      - 频道72@wxgqlfx 2
+      - 频道73@wxgqlfx
+      - 频道74@wxgqlfx
+      - 频道75@wxgqlfx
+      - 频道76@wxgqlfx
+      - 频道77@wxgqlfx 2
+      - 频道78@wxgqlfx 2
+      - 频道79@wxgqlfx
+      - 频道80@wxgqlfx
+      - 频道81@wxgqlfx
+      - 频道82@wxgqlfx
+      - 频道83@wxgqlfx
+      - 频道84@wxgqlfx
+      - 频道85@wxgqlfx
+      - 频道86@wxgqlfx
+      - 频道87@wxgqlfx
+      - 频道88@wxgqlfx
+      - 频道89@wxgqlfx
+      - 频道90@wxgqlfx
+      - 频道91@wxgqlfx
+      - 频道92@wxgqlfx
+      - 频道93@wxgqlfx
+      - 频道94@wxgqlfx
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -996,6 +1248,42 @@ proxy-groups:
       - 频道56@wxgqlfx
       - 频道57@wxgqlfx
       - 频道58@wxgqlfx
+      - 频道59@wxgqlfx
+      - 频道60@wxgqlfx 2
+      - 频道61@wxgqlfx 2
+      - 频道62@wxgqlfx 2
+      - 频道63@wxgqlfx 2
+      - 频道64@wxgqlfx
+      - 频道65@wxgqlfx 2
+      - 频道66@wxgqlfx 2
+      - 频道67@wxgqlfx
+      - 频道68@wxgqlfx
+      - 频道69@wxgqlfx 2
+      - 频道70@wxgqlfx
+      - 频道71@wxgqlfx
+      - 频道72@wxgqlfx 2
+      - 频道73@wxgqlfx
+      - 频道74@wxgqlfx
+      - 频道75@wxgqlfx
+      - 频道76@wxgqlfx
+      - 频道77@wxgqlfx 2
+      - 频道78@wxgqlfx 2
+      - 频道79@wxgqlfx
+      - 频道80@wxgqlfx
+      - 频道81@wxgqlfx
+      - 频道82@wxgqlfx
+      - 频道83@wxgqlfx
+      - 频道84@wxgqlfx
+      - 频道85@wxgqlfx
+      - 频道86@wxgqlfx
+      - 频道87@wxgqlfx
+      - 频道88@wxgqlfx
+      - 频道89@wxgqlfx
+      - 频道90@wxgqlfx
+      - 频道91@wxgqlfx
+      - 频道92@wxgqlfx
+      - 频道93@wxgqlfx
+      - 频道94@wxgqlfx
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1126,6 +1414,42 @@ proxy-groups:
       - 频道56@wxgqlfx
       - 频道57@wxgqlfx
       - 频道58@wxgqlfx
+      - 频道59@wxgqlfx
+      - 频道60@wxgqlfx 2
+      - 频道61@wxgqlfx 2
+      - 频道62@wxgqlfx 2
+      - 频道63@wxgqlfx 2
+      - 频道64@wxgqlfx
+      - 频道65@wxgqlfx 2
+      - 频道66@wxgqlfx 2
+      - 频道67@wxgqlfx
+      - 频道68@wxgqlfx
+      - 频道69@wxgqlfx 2
+      - 频道70@wxgqlfx
+      - 频道71@wxgqlfx
+      - 频道72@wxgqlfx 2
+      - 频道73@wxgqlfx
+      - 频道74@wxgqlfx
+      - 频道75@wxgqlfx
+      - 频道76@wxgqlfx
+      - 频道77@wxgqlfx 2
+      - 频道78@wxgqlfx 2
+      - 频道79@wxgqlfx
+      - 频道80@wxgqlfx
+      - 频道81@wxgqlfx
+      - 频道82@wxgqlfx
+      - 频道83@wxgqlfx
+      - 频道84@wxgqlfx
+      - 频道85@wxgqlfx
+      - 频道86@wxgqlfx
+      - 频道87@wxgqlfx
+      - 频道88@wxgqlfx
+      - 频道89@wxgqlfx
+      - 频道90@wxgqlfx
+      - 频道91@wxgqlfx
+      - 频道92@wxgqlfx
+      - 频道93@wxgqlfx
+      - 频道94@wxgqlfx
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
