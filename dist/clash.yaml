@@ -149,12 +149,12 @@ proxies:
   - {name: 频道70@wxgqlfx, server: fd.shabijichang.com, port: 80, type: vmess, uuid: 3ccbc585-baa6-4bc3-bd44-5b6c54406bfc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: xjp.shabijichang.com}}, udp: true}
   - {name: 频道71@wxgqlfx, server: fd.shabijichang.com, port: 80, type: vmess, uuid: 3ccbc585-baa6-4bc3-bd44-5b6c54406bfc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jd.shabijichang.com}}, udp: true}
   - {name: 频道72@wxgqlfx 2, server: fd.shabijichang.com, port: 80, type: vmess, uuid: df7abf48-196d-4dbd-b981-4d0c4f4bb446, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mm2.shabijichang.com}}, udp: true}
-  - {name: 频道73@wxgqlfx, server: 6.620720.xyz, port: 443, type: vmess, uuid: ad0a2e96-189b-4ee2-86ed-1fb4052449e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 6.620720.xyz}}, udp: true}
+  - {name: 频道73@wxgqlfx, server: 6.620720.xyz, port: 443, type: vmess, uuid: ad0a2e96-189b-4ee2-86ed-1fb4052449e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 6.620720.xyz, network: ws, ws-opts: {path: /, headers: {Host: 6.620720.xyz}}, udp: true}
   - {name: 频道74@wxgqlfx, server: cdn.anycast.eu.org, port: 80, type: vmess, uuid: ffffffff-ffff-ffff-ffff-ffffffffffff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: contracts-vacation-salem-sail.trycloudflare.com}}, udp: true}
   - {name: 频道75@wxgqlfx, server: 172.67.236.83, port: 80, type: vmess, uuid: 3ccbc585-baa6-4bc3-bd44-5b6c54406bfc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kltl.shabijichang.com}}, udp: true}
-  - {name: 频道76@wxgqlfx, server: 6.620720.xyz, port: 443, type: vmess, uuid: ad0a2e96-189b-4ee2-86ed-1fb4052449e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 6.620720.xyz}}, udp: true}
+  - {name: 频道76@wxgqlfx, server: 6.620720.xyz, port: 443, type: vmess, uuid: ad0a2e96-189b-4ee2-86ed-1fb4052449e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 6.620720.xyz, network: ws, ws-opts: {path: /, headers: {Host: 6.620720.xyz}}, udp: true}
   - {name: 频道77@wxgqlfx 2, server: fd.shabijichang.com, port: 80, type: vmess, uuid: 3ccbc585-baa6-4bc3-bd44-5b6c54406bfc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: fhc.shabijichang.com}}, udp: true}
-  - {name: 频道78@wxgqlfx 2, server: hg.620720.xyz, port: 443, type: vmess, uuid: ad0a2e96-189b-4ee2-86ed-1fb4052449e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hg.620720.xyz}}, udp: true}
+  - {name: 频道78@wxgqlfx 2, server: hg.620720.xyz, port: 443, type: vmess, uuid: ad0a2e96-189b-4ee2-86ed-1fb4052449e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hg.620720.xyz, network: ws, ws-opts: {path: /, headers: {Host: hg.620720.xyz}}, udp: true}
   - {name: 频道79@wxgqlfx, server: 172.67.217.1, port: 80, type: vmess, uuid: 11378141-9527-478d-b0b9-c18396ca7c53, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: db4.shabijichang.com}}, udp: true}
   - {name: 频道80@wxgqlfx, server: sdygarm.e5outllok.me, port: 80, type: vmess, uuid: f31c0b34-977b-4c2b-acfa-becfdfc1f267, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sdygarm.e5outllok.me}}, udp: true}
   - {name: 频道81@wxgqlfx, server: 104.21.7.61, port: 2095, type: vmess, uuid: a04e2923-1a96-4998-ec89-2634f7197ebf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: 12.wyhkaa0.gq}}, udp: true}
@@ -164,6 +164,7 @@ proxies:
   - {name: 频道85@wxgqlfx, server: sdygarm.e5outllok.me, port: 80, type: vmess, uuid: f31c0b34-977b-4c2b-acfa-becfdfc1f267, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sdygarm.e5outllok.me}}, udp: true}
   - {name: 频道86@wxgqlfx, server: sdygarm.e5outllok.me, port: 80, type: vmess, uuid: f31c0b34-977b-4c2b-acfa-becfdfc1f267, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sdygarm.e5outllok.me}}, udp: true}
   - {name: 频道87@wxgqlfx, server: 172.67.149.81, port: 80, type: vmess, uuid: f31c0b34-977b-4c2b-acfa-becfdfc1f267, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sdygarm.e5outllok.me}}, udp: true}
+  - {name: 频道88@wxgqlfx, server: 172.64.153.211, port: 443, type: vmess, uuid: 6e751712-9569-5187-86ea-8f585ad99105, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: schereswed.softwarenews.store, network: ws, ws-opts: {path: /api01, headers: {Host: schereswed.softwarenews.store}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -314,6 +315,7 @@ proxy-groups:
       - 频道85@wxgqlfx
       - 频道86@wxgqlfx
       - 频道87@wxgqlfx
+      - 频道88@wxgqlfx
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -463,6 +465,7 @@ proxy-groups:
       - 频道85@wxgqlfx
       - 频道86@wxgqlfx
       - 频道87@wxgqlfx
+      - 频道88@wxgqlfx
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -613,6 +616,7 @@ proxy-groups:
       - 频道85@wxgqlfx
       - 频道86@wxgqlfx
       - 频道87@wxgqlfx
+      - 频道88@wxgqlfx
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -775,6 +779,7 @@ proxy-groups:
       - 频道85@wxgqlfx
       - 频道86@wxgqlfx
       - 频道87@wxgqlfx
+      - 频道88@wxgqlfx
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -931,6 +936,7 @@ proxy-groups:
       - 频道85@wxgqlfx
       - 频道86@wxgqlfx
       - 频道87@wxgqlfx
+      - 频道88@wxgqlfx
   - name: 📲 电报信息
     type: select
     proxies:
@@ -1080,6 +1086,7 @@ proxy-groups:
       - 频道85@wxgqlfx
       - 频道86@wxgqlfx
       - 频道87@wxgqlfx
+      - 频道88@wxgqlfx
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -1230,6 +1237,7 @@ proxy-groups:
       - 频道85@wxgqlfx
       - 频道86@wxgqlfx
       - 频道87@wxgqlfx
+      - 频道88@wxgqlfx
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1389,6 +1397,7 @@ proxy-groups:
       - 频道85@wxgqlfx
       - 频道86@wxgqlfx
       - 频道87@wxgqlfx
+      - 频道88@wxgqlfx
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
