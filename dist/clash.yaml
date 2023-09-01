@@ -125,6 +125,17 @@ proxies:
   - {name: 频道47@wxgqlfx, server: 172.67.187.132, port: 2095, type: vmess, uuid: 79602372-640c-44b8-eb6b-2e655c3089df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: 18.wyhkaa0.gq}}, udp: true}
   - {name: 频道48@wxgqlfx, server: 172.67.187.132, port: 2095, type: vmess, uuid: a04e2923-1a96-4998-ec89-2634f7197ebf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: 12.wyhkaa0.gq}}, udp: true}
   - {name: 频道49@wxgqlfx, server: 58.177.149.6, port: 443, type: trojan, password: 7d6f16c7-d91e-3c05-aa5b-5f800ff93473cmynw, sni: paydiu.com, skip-cert-verify: true, udp: true}
+  - {name: 频道50@wxgqlfx, server: fd.shabijichang.com, port: 80, type: vmess, uuid: df7abf48-196d-4dbd-b981-4d0c4f4bb446, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ml3.shabijichang.com}}, udp: true}
+  - {name: 频道51@wxgqlfx, server: fd.shabijichang.com, port: 80, type: vmess, uuid: df7abf48-196d-4dbd-b981-4d0c4f4bb446, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: asb3.shabijichang.com}}, udp: true}
+  - {name: 频道52@wxgqlfx, server: fd.shabijichang.com, port: 80, type: vmess, uuid: df7abf48-196d-4dbd-b981-4d0c4f4bb446, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sdyg2.shabijichang.com}}, udp: true}
+  - {name: 频道53@wxgqlfx, server: fd.shabijichang.com, port: 80, type: vmess, uuid: df7abf48-196d-4dbd-b981-4d0c4f4bb446, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: wnd.shabijichang.com}}, udp: true}
+  - {name: 频道54@wxgqlfx, server: fd.shabijichang.com, port: 80, type: vmess, uuid: df7abf48-196d-4dbd-b981-4d0c4f4bb446, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: asb2.shabijichang.com}}, udp: true}
+  - {name: 频道55@wxgqlfx, server: stock.hostmonit.com, port: 443, type: vmess, uuid: cd7f6a89-e86a-47ae-87d3-0277d205286f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us2.icu2rip.eu.org, network: ws, ws-opts: {path: /nishikata, headers: {Host: us2.icu2rip.eu.org}}, udp: true}
+  - {name: 频道56@wxgqlfx, server: 172.67.149.81, port: 80, type: vmess, uuid: f31c0b34-977b-4c2b-acfa-becfdfc1f267, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sdygarm.e5outllok.me}}, udp: true}
+  - {name: 频道57@wxgqlfx, server: singapore.com, port: 443, type: vmess, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: d.freeh1.xyz, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: d.freeh1.xyz}}, udp: true}
+  - {name: 频道58@wxgqlfx, server: fd.shabijichang.com, port: 80, type: vmess, uuid: df7abf48-196d-4dbd-b981-4d0c4f4bb446, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sdyg.shabijichang.com}}, udp: true}
+  - {name: 频道59@wxgqlfx, server: fd.shabijichang.com, port: 80, type: vmess, uuid: 11378141-9527-478d-b0b9-c18396ca7c53, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sdyg.shabijichang.com}}, udp: true}
+  - {name: 频道60@wxgqlfx 2, server: 172.64.202.22, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: ca.ilovescp.com}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -236,6 +247,17 @@ proxy-groups:
       - 频道47@wxgqlfx
       - 频道48@wxgqlfx
       - 频道49@wxgqlfx
+      - 频道50@wxgqlfx
+      - 频道51@wxgqlfx
+      - 频道52@wxgqlfx
+      - 频道53@wxgqlfx
+      - 频道54@wxgqlfx
+      - 频道55@wxgqlfx
+      - 频道56@wxgqlfx
+      - 频道57@wxgqlfx
+      - 频道58@wxgqlfx
+      - 频道59@wxgqlfx
+      - 频道60@wxgqlfx 2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -346,6 +368,17 @@ proxy-groups:
       - 频道47@wxgqlfx
       - 频道48@wxgqlfx
       - 频道49@wxgqlfx
+      - 频道50@wxgqlfx
+      - 频道51@wxgqlfx
+      - 频道52@wxgqlfx
+      - 频道53@wxgqlfx
+      - 频道54@wxgqlfx
+      - 频道55@wxgqlfx
+      - 频道56@wxgqlfx
+      - 频道57@wxgqlfx
+      - 频道58@wxgqlfx
+      - 频道59@wxgqlfx
+      - 频道60@wxgqlfx 2
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -457,6 +490,17 @@ proxy-groups:
       - 频道47@wxgqlfx
       - 频道48@wxgqlfx
       - 频道49@wxgqlfx
+      - 频道50@wxgqlfx
+      - 频道51@wxgqlfx
+      - 频道52@wxgqlfx
+      - 频道53@wxgqlfx
+      - 频道54@wxgqlfx
+      - 频道55@wxgqlfx
+      - 频道56@wxgqlfx
+      - 频道57@wxgqlfx
+      - 频道58@wxgqlfx
+      - 频道59@wxgqlfx
+      - 频道60@wxgqlfx 2
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -580,6 +624,17 @@ proxy-groups:
       - 频道47@wxgqlfx
       - 频道48@wxgqlfx
       - 频道49@wxgqlfx
+      - 频道50@wxgqlfx
+      - 频道51@wxgqlfx
+      - 频道52@wxgqlfx
+      - 频道53@wxgqlfx
+      - 频道54@wxgqlfx
+      - 频道55@wxgqlfx
+      - 频道56@wxgqlfx
+      - 频道57@wxgqlfx
+      - 频道58@wxgqlfx
+      - 频道59@wxgqlfx
+      - 频道60@wxgqlfx 2
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -696,6 +751,17 @@ proxy-groups:
       - 频道47@wxgqlfx
       - 频道48@wxgqlfx
       - 频道49@wxgqlfx
+      - 频道50@wxgqlfx
+      - 频道51@wxgqlfx
+      - 频道52@wxgqlfx
+      - 频道53@wxgqlfx
+      - 频道54@wxgqlfx
+      - 频道55@wxgqlfx
+      - 频道56@wxgqlfx
+      - 频道57@wxgqlfx
+      - 频道58@wxgqlfx
+      - 频道59@wxgqlfx
+      - 频道60@wxgqlfx 2
   - name: 📲 电报信息
     type: select
     proxies:
@@ -806,6 +872,17 @@ proxy-groups:
       - 频道47@wxgqlfx
       - 频道48@wxgqlfx
       - 频道49@wxgqlfx
+      - 频道50@wxgqlfx
+      - 频道51@wxgqlfx
+      - 频道52@wxgqlfx
+      - 频道53@wxgqlfx
+      - 频道54@wxgqlfx
+      - 频道55@wxgqlfx
+      - 频道56@wxgqlfx
+      - 频道57@wxgqlfx
+      - 频道58@wxgqlfx
+      - 频道59@wxgqlfx
+      - 频道60@wxgqlfx 2
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -917,6 +994,17 @@ proxy-groups:
       - 频道47@wxgqlfx
       - 频道48@wxgqlfx
       - 频道49@wxgqlfx
+      - 频道50@wxgqlfx
+      - 频道51@wxgqlfx
+      - 频道52@wxgqlfx
+      - 频道53@wxgqlfx
+      - 频道54@wxgqlfx
+      - 频道55@wxgqlfx
+      - 频道56@wxgqlfx
+      - 频道57@wxgqlfx
+      - 频道58@wxgqlfx
+      - 频道59@wxgqlfx
+      - 频道60@wxgqlfx 2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1037,6 +1125,17 @@ proxy-groups:
       - 频道47@wxgqlfx
       - 频道48@wxgqlfx
       - 频道49@wxgqlfx
+      - 频道50@wxgqlfx
+      - 频道51@wxgqlfx
+      - 频道52@wxgqlfx
+      - 频道53@wxgqlfx
+      - 频道54@wxgqlfx
+      - 频道55@wxgqlfx
+      - 频道56@wxgqlfx
+      - 频道57@wxgqlfx
+      - 频道58@wxgqlfx
+      - 频道59@wxgqlfx
+      - 频道60@wxgqlfx 2
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
