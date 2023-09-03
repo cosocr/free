@@ -109,6 +109,9 @@ proxies:
   - {name: 频道37@wxgqlfx, server: cdn.twitter.now.cc, port: 443, type: vmess, uuid: 8d2ba456-2f0d-4c13-b8a0-bff99c679709, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: eu3.twittei.me, network: ws, ws-opts: {path: /ikun, headers: {Host: eu3.twittei.me}}, udp: true}
   - {name: 频道38@wxgqlfx, server: 104.19.213.33, port: 80, type: vmess, uuid: 567d3fe2-8df2-466c-ab0d-640cc151c62c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /blue, headers: {Host: ziyong.vtcss.top}}, udp: true}
   - {name: 频道39@wxgqlfx, server: 190.93.244.131, port: 80, type: vmess, uuid: 567d3fe2-8df2-466c-ab0d-640cc151c62c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /blue, headers: {Host: ziyong.vtcss.top}}, udp: true}
+  - {name: 频道40@wxgqlfx, server: cdn.twitter.now.cc, port: 443, type: vmess, uuid: 8d2ba456-2f0d-4c13-b8a0-bff99c679709, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: vceu3.twittei.me, network: ws, ws-opts: {path: /ikun, headers: {Host: vceu3.twittei.me}}, udp: true}
+  - {name: 频道41@wxgqlfx, server: cdn.twitter.now.cc, port: 443, type: vmess, uuid: 8d2ba456-2f0d-4c13-b8a0-bff99c679709, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us.twittei.me, network: ws, ws-opts: {path: /ikun, headers: {Host: us.twittei.me}}, udp: true}
+  - {name: 频道42@wxgqlfx, server: 172.67.51.152, port: 443, type: vmess, uuid: 8d2ba456-2f0d-4c13-b8a0-bff99c679709, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: lo.twittei.me, network: ws, ws-opts: {path: /ikun, headers: {Host: lo.twittei.me}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -204,6 +207,9 @@ proxy-groups:
       - 频道37@wxgqlfx
       - 频道38@wxgqlfx
       - 频道39@wxgqlfx
+      - 频道40@wxgqlfx
+      - 频道41@wxgqlfx
+      - 频道42@wxgqlfx
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -298,6 +304,9 @@ proxy-groups:
       - 频道37@wxgqlfx
       - 频道38@wxgqlfx
       - 频道39@wxgqlfx
+      - 频道40@wxgqlfx
+      - 频道41@wxgqlfx
+      - 频道42@wxgqlfx
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -393,6 +402,9 @@ proxy-groups:
       - 频道37@wxgqlfx
       - 频道38@wxgqlfx
       - 频道39@wxgqlfx
+      - 频道40@wxgqlfx
+      - 频道41@wxgqlfx
+      - 频道42@wxgqlfx
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -500,6 +512,9 @@ proxy-groups:
       - 频道37@wxgqlfx
       - 频道38@wxgqlfx
       - 频道39@wxgqlfx
+      - 频道40@wxgqlfx
+      - 频道41@wxgqlfx
+      - 频道42@wxgqlfx
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -599,6 +614,9 @@ proxy-groups:
       - 频道37@wxgqlfx
       - 频道38@wxgqlfx
       - 频道39@wxgqlfx
+      - 频道40@wxgqlfx
+      - 频道41@wxgqlfx
+      - 频道42@wxgqlfx
   - name: 📲 电报信息
     type: select
     proxies:
@@ -693,6 +711,9 @@ proxy-groups:
       - 频道37@wxgqlfx
       - 频道38@wxgqlfx
       - 频道39@wxgqlfx
+      - 频道40@wxgqlfx
+      - 频道41@wxgqlfx
+      - 频道42@wxgqlfx
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -788,6 +809,9 @@ proxy-groups:
       - 频道37@wxgqlfx
       - 频道38@wxgqlfx
       - 频道39@wxgqlfx
+      - 频道40@wxgqlfx
+      - 频道41@wxgqlfx
+      - 频道42@wxgqlfx
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -892,6 +916,9 @@ proxy-groups:
       - 频道37@wxgqlfx
       - 频道38@wxgqlfx
       - 频道39@wxgqlfx
+      - 频道40@wxgqlfx
+      - 频道41@wxgqlfx
+      - 频道42@wxgqlfx
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
