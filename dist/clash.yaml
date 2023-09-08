@@ -110,6 +110,15 @@ proxies:
   - {name: 频道34@wxgqlfx, server: 173.245.49.236, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: ca.ilovescp.com}}, udp: true}
   - {name: 频道35@wxgqlfx, server: flkf2.shabijichang.com, port: 80, type: vmess, uuid: 53701585-591f-48a3-9515-8831ed0524ac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: flkf2.shabijichang.com}}, udp: true}
   - {name: 频道36@wxgqlfx, server: cdn.twitter.now.cc, port: 443, type: vmess, uuid: 8d2ba456-2f0d-4c13-b8a0-bff99c679709, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: eu2.twittei.me, network: ws, ws-opts: {path: /ikun, headers: {Host: eu2.twittei.me}}, udp: true}
+  - {name: 频道37@wxgqlfx, server: cf-test.q5wrff7jtkdg23.top, port: 2082, type: vmess, uuid: 76c09a7e-e0e4-43a0-a1e2-d8563aa3baed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /nyc1, headers: {Host: nyc1.q5wrff7jtkdg23.top}}, udp: true}
+  - {name: 频道38@wxgqlfx, server: cf-test.q5wrff7jtkdg23.top, port: 2082, type: vmess, uuid: 76c09a7e-e0e4-43a0-a1e2-d8563aa3baed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sg-v32.q5wrff7jtkdg23.top}}, udp: true}
+  - {name: 频道39@wxgqlfx, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 7e7f8398-bd39-49d8-9ce6-e48ffef463dd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /2TokGE9A/, headers: {Host: us6.cachexy.cf}}, udp: true}
+  - {name: 频道40@wxgqlfx, server: cf-test.q5wrff7jtkdg23.top, port: 2082, type: vmess, uuid: 444602db-698c-49bd-b3b1-b171fb0543b9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tr.q5wrff7jtkdg23.top}}, udp: true}
+  - {name: 频道41@wxgqlfx, server: 162.159.253.16, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: ca.ilovescp.com}}, udp: true}
+  - {name: 频道42@wxgqlfx, server: tyo-v38.q5wrff7jtkdg23.top, port: 8443, type: vmess, uuid: 444602db-698c-49bd-b3b1-b171fb0543b9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tyo-v38.q5wrff7jtkdg23.top, network: ws, ws-opts: {path: /tyov38, headers: {Host: tyo-v38.q5wrff7jtkdg23.top}}, udp: true}
+  - {name: 频道43@wxgqlfx, server: 172.64.153.211, port: 443, type: vmess, uuid: 6e751712-9569-5187-86ea-8f585ad99105, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: schereswed.softwarenews.store, network: ws, ws-opts: {path: /api01, headers: {Host: schereswed.softwarenews.store}}, udp: true}
+  - {name: 频道44@wxgqlfx, server: 172.67.120.200, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv2.scproxy.top}}, udp: true}
+  - {name: 频道45@wxgqlfx, server: 172.67.244.14, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: ca.ilovescp.com}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -206,6 +215,15 @@ proxy-groups:
       - 频道34@wxgqlfx
       - 频道35@wxgqlfx
       - 频道36@wxgqlfx
+      - 频道37@wxgqlfx
+      - 频道38@wxgqlfx
+      - 频道39@wxgqlfx
+      - 频道40@wxgqlfx
+      - 频道41@wxgqlfx
+      - 频道42@wxgqlfx
+      - 频道43@wxgqlfx
+      - 频道44@wxgqlfx
+      - 频道45@wxgqlfx
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -301,6 +319,15 @@ proxy-groups:
       - 频道34@wxgqlfx
       - 频道35@wxgqlfx
       - 频道36@wxgqlfx
+      - 频道37@wxgqlfx
+      - 频道38@wxgqlfx
+      - 频道39@wxgqlfx
+      - 频道40@wxgqlfx
+      - 频道41@wxgqlfx
+      - 频道42@wxgqlfx
+      - 频道43@wxgqlfx
+      - 频道44@wxgqlfx
+      - 频道45@wxgqlfx
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -397,6 +424,15 @@ proxy-groups:
       - 频道34@wxgqlfx
       - 频道35@wxgqlfx
       - 频道36@wxgqlfx
+      - 频道37@wxgqlfx
+      - 频道38@wxgqlfx
+      - 频道39@wxgqlfx
+      - 频道40@wxgqlfx
+      - 频道41@wxgqlfx
+      - 频道42@wxgqlfx
+      - 频道43@wxgqlfx
+      - 频道44@wxgqlfx
+      - 频道45@wxgqlfx
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -505,6 +541,15 @@ proxy-groups:
       - 频道34@wxgqlfx
       - 频道35@wxgqlfx
       - 频道36@wxgqlfx
+      - 频道37@wxgqlfx
+      - 频道38@wxgqlfx
+      - 频道39@wxgqlfx
+      - 频道40@wxgqlfx
+      - 频道41@wxgqlfx
+      - 频道42@wxgqlfx
+      - 频道43@wxgqlfx
+      - 频道44@wxgqlfx
+      - 频道45@wxgqlfx
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -605,6 +650,15 @@ proxy-groups:
       - 频道34@wxgqlfx
       - 频道35@wxgqlfx
       - 频道36@wxgqlfx
+      - 频道37@wxgqlfx
+      - 频道38@wxgqlfx
+      - 频道39@wxgqlfx
+      - 频道40@wxgqlfx
+      - 频道41@wxgqlfx
+      - 频道42@wxgqlfx
+      - 频道43@wxgqlfx
+      - 频道44@wxgqlfx
+      - 频道45@wxgqlfx
   - name: 📲 电报信息
     type: select
     proxies:
@@ -700,6 +754,15 @@ proxy-groups:
       - 频道34@wxgqlfx
       - 频道35@wxgqlfx
       - 频道36@wxgqlfx
+      - 频道37@wxgqlfx
+      - 频道38@wxgqlfx
+      - 频道39@wxgqlfx
+      - 频道40@wxgqlfx
+      - 频道41@wxgqlfx
+      - 频道42@wxgqlfx
+      - 频道43@wxgqlfx
+      - 频道44@wxgqlfx
+      - 频道45@wxgqlfx
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -796,6 +859,15 @@ proxy-groups:
       - 频道34@wxgqlfx
       - 频道35@wxgqlfx
       - 频道36@wxgqlfx
+      - 频道37@wxgqlfx
+      - 频道38@wxgqlfx
+      - 频道39@wxgqlfx
+      - 频道40@wxgqlfx
+      - 频道41@wxgqlfx
+      - 频道42@wxgqlfx
+      - 频道43@wxgqlfx
+      - 频道44@wxgqlfx
+      - 频道45@wxgqlfx
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -901,6 +973,15 @@ proxy-groups:
       - 频道34@wxgqlfx
       - 频道35@wxgqlfx
       - 频道36@wxgqlfx
+      - 频道37@wxgqlfx
+      - 频道38@wxgqlfx
+      - 频道39@wxgqlfx
+      - 频道40@wxgqlfx
+      - 频道41@wxgqlfx
+      - 频道42@wxgqlfx
+      - 频道43@wxgqlfx
+      - 频道44@wxgqlfx
+      - 频道45@wxgqlfx
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
