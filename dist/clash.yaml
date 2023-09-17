@@ -92,7 +92,7 @@ proxies:
   - {name: 频道34@wxgqlfx, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 9defd968-d21f-326b-b422-a9fedf0bcf80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
   - {name: 频道35@wxgqlfx, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 8aefff3f-1ca9-3a53-9152-2a2aca24fd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
   - {name: 频道36@wxgqlfx, server: 104.31.16.70, port: 2083, type: vmess, uuid: 15bf0db4-fbff-46d0-a486-b6e4a9e74a91, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: germany-one.port888.site, network: ws, ws-opts: {path: /, headers: {Host: germany-one.port888.site}}, udp: true}
-  - {name: 频道37@wxgqlfx, server: oliv.beauty, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: linkvws, headers: {Host: oliv.beauty}}, udp: true}
+  - {name: 频道37@wxgqlfx, server: oliv.beauty, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, servername: oliv.beauty, network: ws, ws-opts: {path: linkvws, headers: {Host: oliv.beauty}}, udp: true}
   - {name: 频道38@wxgqlfx, server: 3.22.232.229, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
   - {name: 频道39@wxgqlfx, server: rtl.servermeli.xyz, port: 2087, type: vmess, uuid: 1e404e80-6a84-467b-9fe9-8a27794ddc43, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: fll6.appmanage5.ir, network: ws, ws-opts: {path: /, headers: {Host: fll6.appmanage5.ir}}, udp: true}
   - {name: 频道40@wxgqlfx, server: mt.servermeli.xyz, port: 2087, type: vmess, uuid: 1e404e80-6a84-467b-9fe9-8a27794ddc43, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: fll5.appmanage5.ir, network: ws, ws-opts: {path: /, headers: {Host: fll5.appmanage5.ir}}, udp: true}
@@ -101,6 +101,9 @@ proxies:
   - {name: 频道43@wxgqlfx, server: 104.31.16.71, port: 2083, type: vmess, uuid: 15bf0db4-fbff-46d0-a486-b6e4a9e74a91, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: germany-one.port888.site, network: ws, ws-opts: {path: /, headers: {Host: germany-one.port888.site}}, udp: true}
   - {name: 频道44@wxgqlfx, server: 104.25.255.254, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sub2.saintink.eu.org, network: ws, ws-opts: {path: /vuk2.0bad.com/chat, headers: {Host: sub2.saintink.eu.org}}, udp: true}
   - {name: 频道45@wxgqlfx, server: 162.159.143.72, port: 80, type: vmess, uuid: fab552f9-3c92-44ed-c086-08d631ee44ee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: xui2.xuwu996.eu.org}}, udp: true}
+  - {name: 频道46@wxgqlfx, server: bwntaz.port888.site, port: 2083, type: vmess, uuid: 15bf0db4-fbff-46d0-a486-b6e4a9e74a91, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: germany-one.port888.site, network: ws, ws-opts: {path: /, headers: {Host: germany-one.port888.site}}, udp: true}
+  - {name: 频道47@wxgqlfx, server: maragheh20.orafic.shop, port: 58696, type: vmess, uuid: 4e3c70bc-792d-4f83-9915-e483754d50e9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 频道48@wxgqlfx, server: irancell-ir-3.rollaruby2.skin, port: 443, type: vmess, uuid: 11600612-cdfd-4f9c-8d41-26c76313c0aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: grpc, servername: irancell-ir-3.rollaruby2.skin, grpc-opts: {grpc-service-name: /}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -188,6 +191,9 @@ proxy-groups:
       - 频道43@wxgqlfx
       - 频道44@wxgqlfx
       - 频道45@wxgqlfx
+      - 频道46@wxgqlfx
+      - 频道47@wxgqlfx
+      - 频道48@wxgqlfx
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -274,6 +280,9 @@ proxy-groups:
       - 频道43@wxgqlfx
       - 频道44@wxgqlfx
       - 频道45@wxgqlfx
+      - 频道46@wxgqlfx
+      - 频道47@wxgqlfx
+      - 频道48@wxgqlfx
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -361,6 +370,9 @@ proxy-groups:
       - 频道43@wxgqlfx
       - 频道44@wxgqlfx
       - 频道45@wxgqlfx
+      - 频道46@wxgqlfx
+      - 频道47@wxgqlfx
+      - 频道48@wxgqlfx
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -460,6 +472,9 @@ proxy-groups:
       - 频道43@wxgqlfx
       - 频道44@wxgqlfx
       - 频道45@wxgqlfx
+      - 频道46@wxgqlfx
+      - 频道47@wxgqlfx
+      - 频道48@wxgqlfx
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -551,6 +566,9 @@ proxy-groups:
       - 频道43@wxgqlfx
       - 频道44@wxgqlfx
       - 频道45@wxgqlfx
+      - 频道46@wxgqlfx
+      - 频道47@wxgqlfx
+      - 频道48@wxgqlfx
   - name: 📲 电报信息
     type: select
     proxies:
@@ -637,6 +655,9 @@ proxy-groups:
       - 频道43@wxgqlfx
       - 频道44@wxgqlfx
       - 频道45@wxgqlfx
+      - 频道46@wxgqlfx
+      - 频道47@wxgqlfx
+      - 频道48@wxgqlfx
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -724,6 +745,9 @@ proxy-groups:
       - 频道43@wxgqlfx
       - 频道44@wxgqlfx
       - 频道45@wxgqlfx
+      - 频道46@wxgqlfx
+      - 频道47@wxgqlfx
+      - 频道48@wxgqlfx
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -820,6 +844,9 @@ proxy-groups:
       - 频道43@wxgqlfx
       - 频道44@wxgqlfx
       - 频道45@wxgqlfx
+      - 频道46@wxgqlfx
+      - 频道47@wxgqlfx
+      - 频道48@wxgqlfx
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
