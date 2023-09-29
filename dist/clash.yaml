@@ -110,6 +110,10 @@ proxies:
   - {name: 频道28@wxgqlfx, server: 13.53.230.58, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
   - {name: 频道29@wxgqlfx, server: 13.38.156.254, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
   - {name: 频道30@wxgqlfx, server: 13.51.214.226, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
+  - {name: 频道31@wxgqlfx, server: jolimolilap.com, port: 2087, type: vmess, uuid: 98bd45bd-ad4a-4480-87b2-84f81c09aaa8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jolimolilap.com, network: grpc, grpc-opts: {grpc-service-name: fffffffstrrrrryyyyhhhhsnnnkakkkkdllllssasdf}, udp: true}
+  - {name: 频道32@wxgqlfx, server: 104.31.16.3, port: 2087, type: vmess, uuid: 98bd45bd-ad4a-4480-87b2-84f81c09aaa8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: "", network: grpc, grpc-opts: {grpc-service-name: fffffffstrrrrryyyyhhhhsnnnkakkkkdllllssasdf}, udp: true}
+  - {name: 频道33@wxgqlfx, server: 104.31.16.3, port: 2087, type: vmess, uuid: 98bd45bd-ad4a-4480-87b2-84f81c09aaa8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: "", network: grpc, grpc-opts: {grpc-service-name: fffffffstrrrrryyyyhhhhsnnnkakkkkdllllssasdf}, udp: true}
+  - {name: 频道34@wxgqlfx, server: 91.107.243.58, port: 443, type: vmess, uuid: 3d1fab6e-3bd6-472b-8d9c-9934c04eaf40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -206,6 +210,10 @@ proxy-groups:
       - 频道28@wxgqlfx
       - 频道29@wxgqlfx
       - 频道30@wxgqlfx
+      - 频道31@wxgqlfx
+      - 频道32@wxgqlfx
+      - 频道33@wxgqlfx
+      - 频道34@wxgqlfx
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -301,6 +309,10 @@ proxy-groups:
       - 频道28@wxgqlfx
       - 频道29@wxgqlfx
       - 频道30@wxgqlfx
+      - 频道31@wxgqlfx
+      - 频道32@wxgqlfx
+      - 频道33@wxgqlfx
+      - 频道34@wxgqlfx
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -397,6 +409,10 @@ proxy-groups:
       - 频道28@wxgqlfx
       - 频道29@wxgqlfx
       - 频道30@wxgqlfx
+      - 频道31@wxgqlfx
+      - 频道32@wxgqlfx
+      - 频道33@wxgqlfx
+      - 频道34@wxgqlfx
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -505,6 +521,10 @@ proxy-groups:
       - 频道28@wxgqlfx
       - 频道29@wxgqlfx
       - 频道30@wxgqlfx
+      - 频道31@wxgqlfx
+      - 频道32@wxgqlfx
+      - 频道33@wxgqlfx
+      - 频道34@wxgqlfx
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -609,6 +629,10 @@ proxy-groups:
       - 频道28@wxgqlfx
       - 频道29@wxgqlfx
       - 频道30@wxgqlfx
+      - 频道31@wxgqlfx
+      - 频道32@wxgqlfx
+      - 频道33@wxgqlfx
+      - 频道34@wxgqlfx
   - name: 📲 电报信息
     type: select
     proxies:
@@ -704,6 +728,10 @@ proxy-groups:
       - 频道28@wxgqlfx
       - 频道29@wxgqlfx
       - 频道30@wxgqlfx
+      - 频道31@wxgqlfx
+      - 频道32@wxgqlfx
+      - 频道33@wxgqlfx
+      - 频道34@wxgqlfx
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -800,6 +828,10 @@ proxy-groups:
       - 频道28@wxgqlfx
       - 频道29@wxgqlfx
       - 频道30@wxgqlfx
+      - 频道31@wxgqlfx
+      - 频道32@wxgqlfx
+      - 频道33@wxgqlfx
+      - 频道34@wxgqlfx
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -905,6 +937,10 @@ proxy-groups:
       - 频道28@wxgqlfx
       - 频道29@wxgqlfx
       - 频道30@wxgqlfx
+      - 频道31@wxgqlfx
+      - 频道32@wxgqlfx
+      - 频道33@wxgqlfx
+      - 频道34@wxgqlfx
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
