@@ -75,38 +75,31 @@ proxies:
   - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 30, server: 172.67.87.197, port: 80, type: vmess, uuid: a5696a03-1c9f-4018-9510-58e7bfbb5f5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ylsl.shabijichang.com}}, udp: true}
   - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 31, server: 941.outline-vpn.cloud, port: 80, type: vmess, uuid: a1a676e4-016e-4bf0-96fe-4b6aaf53abc2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: bl.shabijichang.com}}, udp: true}
   - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 32, server: 172.64.199.158, port: 80, type: vmess, uuid: 2e495227-58e3-4bea-a273-7a17bd8a804b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: wnd.shabijichang.com}}, udp: true}
-  - {name: 频道01@wxgqlfx, server: 129.146.203.143, port: 20353, type: vmess, uuid: 10c5146f-838f-4598-ac89-7b9472b9ec43, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: microsoft.com}}, udp: true}
-  - {name: 频道02@wxgqlfx, server: 40.87.137.201, port: 17137, type: ss, cipher: chacha20-ietf-poly1305, password: nNsx0otJfBWd6L6l4CxASg, udp: true}
-  - {name: 频道03@wxgqlfx, server: 35.181.122.39, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
-  - {name: 频道04@wxgqlfx, server: 35.181.122.39, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
-  - {name: 频道05@wxgqlfx, server: vn9.4gspeed.me, port: 80, type: vmess, uuid: 93bbb190-beb1-46e2-94e3-cf92e8b42ee4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /4gspeed.me, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 频道06@wxgqlfx, server: 15.237.164.108, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
-  - {name: 频道07@wxgqlfx, server: 18.169.221.97, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
-  - {name: 频道08@wxgqlfx, server: 34.243.78.183, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
-  - {name: 频道09@wxgqlfx, server: 13.48.218.118, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
-  - {name: 频道10@wxgqlfx, server: 51.20.30.47, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
-  - {name: 频道11@wxgqlfx, server: 52.56.141.68, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
-  - {name: 频道12@wxgqlfx, server: 3.77.255.162, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
-  - {name: 频道13@wxgqlfx, server: vn3.4gspeed.me, port: 80, type: vmess, uuid: 93bbb190-beb1-46e2-94e3-cf92e8b42ee4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /4gspeed.me, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 频道14@wxgqlfx, server: cf.yx.alue.link, port: 2052, type: vmess, uuid: fe5edf04-c2af-4ac5-84ee-16d43024decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us.wx.alue.link}}, udp: true}
-  - {name: 频道15@wxgqlfx, server: speed.cloudflare.com, port: 80, type: vmess, uuid: 28645c6e-8ad9-44c0-8ecd-d76f8a285262, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=11932", headers: {Host: ml.shabijichang.com}}, udp: true}
-  - {name: 频道16@wxgqlfx, server: datacenter.ct.01.biqibao.site, port: 2052, type: vmess, uuid: 21d36f86-53ab-4218-a740-9c70511f85d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/public?ed=4096", headers: {Host: de.biqibao.site}}, udp: true}
-  - {name: 频道17@wxgqlfx, server: 18.168.51.228, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
-  - {name: 频道18@wxgqlfx, server: 13.48.34.78, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
-  - {name: 频道19@wxgqlfx, server: direct-ca4.xn--pzypc.store, port: 80, type: vmess, uuid: 92b87a58-eee6-4377-a438-aac96d95192f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/akile?ed=2048", headers: {Host: ca4.xn--pzypc.store}}, udp: true}
-  - {name: 频道20@wxgqlfx, server: 34.252.47.136, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
-  - {name: 频道21@wxgqlfx, server: direct-ca3.xn--pzypc.store, port: 80, type: vmess, uuid: 92b87a58-eee6-4377-a438-aac96d95192f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/akile?ed=2048", headers: {Host: ca3.xn--pzypc.store}}, udp: true}
-  - {name: 频道22@wxgqlfx, server: direct-ca1.xn--pzypc.store, port: 80, type: vmess, uuid: 92b87a58-eee6-4377-a438-aac96d95192f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/akile?ed=2048", headers: {Host: ca1.xn--pzypc.store}}, udp: true}
-  - {name: 频道23@wxgqlfx, server: best.fakeopen.link, port: 2096, type: vmess, uuid: 12859d73-1c81-4909-e071-c1aacfeea221, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us2.fakeopen.link, network: ws, ws-opts: {path: /us, headers: {Host: us2.fakeopen.link}}, udp: true}
-  - {name: 频道24@wxgqlfx, server: 16.170.73.218, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
-  - {name: 频道25@wxgqlfx, server: pqawsjp1.aiopen.cfd, port: 443, type: trojan, password: 36606545-bc8b-4152-a751-3f0957318bd9, sni: 18-140-66-207.nhost.00cdn.com, skip-cert-verify: true, udp: true}
-  - {name: 频道26@wxgqlfx, server: 104.17.88.252, port: 2082, type: vmess, uuid: 6388bd92-6cbc-4b72-a9a6-931f071d0ffa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /phosphorylative.aurorainiceland.com/nimvws, headers: {Host: erfannewfreenodes.vdmmswyzmzigonvnjk443.workers.dev}}, udp: true}
-  - {name: 频道27@wxgqlfx, server: www.speedtest.net, port: 80, type: vmess, uuid: 62515af2-1dd9-467b-9dd3-774abefb6a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hu1.xv2ray.net}}, udp: true}
-  - {name: 频道28@wxgqlfx, server: sg2.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 75110959-c7dd-4ee5-8a51-cd0e21c3111d, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
-  - {name: 频道29@wxgqlfx, server: us2.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: 75110959-c7dd-4ee5-8a51-cd0e21c3111d, sni: 13-231-155-134.nhost.00cdn.com, skip-cert-verify: true, udp: true}
-  - {name: 频道30@wxgqlfx, server: vn4.4gspeed.me, port: 80, type: vmess, uuid: 93bbb190-beb1-46e2-94e3-cf92e8b42ee4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /4gspeed.me, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 频道31@wxgqlfx, server: 103.48.169.166, port: 57754, type: vmess, uuid: a783230b-cd66-4492-9517-7f6cf569e1c9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ylsl.kxking.eu.org, network: ws, ws-opts: {path: "/vm?ed=2048", headers: {Host: ylsl.kxking.eu.org}}, udp: true}
-  - {name: 频道32@wxgqlfx, server: usshs2.gophers.gay, port: 20800, type: ss, cipher: chacha20-ietf-poly1305, password: f5d95005-be14-40fc-bedc-e4a1133a5701, udp: true}
+  - {name: 频道01@wxgqlfx, server: vn9.4gspeed.me, port: 80, type: vmess, uuid: 93bbb190-beb1-46e2-94e3-cf92e8b42ee4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /4gspeed.me, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: 频道02@wxgqlfx, server: 15.237.164.108, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
+  - {name: 频道03@wxgqlfx, server: vn3.4gspeed.me, port: 80, type: vmess, uuid: 93bbb190-beb1-46e2-94e3-cf92e8b42ee4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /4gspeed.me, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: 频道04@wxgqlfx, server: datacenter.ct.01.biqibao.site, port: 2052, type: vmess, uuid: 21d36f86-53ab-4218-a740-9c70511f85d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/public?ed=4096", headers: {Host: de.biqibao.site}}, udp: true}
+  - {name: 频道05@wxgqlfx, server: direct-ca4.xn--pzypc.store, port: 80, type: vmess, uuid: 92b87a58-eee6-4377-a438-aac96d95192f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/akile?ed=2048", headers: {Host: ca4.xn--pzypc.store}}, udp: true}
+  - {name: 频道06@wxgqlfx, server: direct-ca3.xn--pzypc.store, port: 80, type: vmess, uuid: 92b87a58-eee6-4377-a438-aac96d95192f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/akile?ed=2048", headers: {Host: ca3.xn--pzypc.store}}, udp: true}
+  - {name: 频道07@wxgqlfx, server: direct-ca1.xn--pzypc.store, port: 80, type: vmess, uuid: 92b87a58-eee6-4377-a438-aac96d95192f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/akile?ed=2048", headers: {Host: ca1.xn--pzypc.store}}, udp: true}
+  - {name: 频道08@wxgqlfx, server: best.fakeopen.link, port: 2096, type: vmess, uuid: 12859d73-1c81-4909-e071-c1aacfeea221, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us2.fakeopen.link, network: ws, ws-opts: {path: /us, headers: {Host: us2.fakeopen.link}}, udp: true}
+  - {name: 频道09@wxgqlfx, server: pqawsjp1.aiopen.cfd, port: 443, type: trojan, password: 36606545-bc8b-4152-a751-3f0957318bd9, sni: 18-140-66-207.nhost.00cdn.com, skip-cert-verify: true, udp: true}
+  - {name: 频道10@wxgqlfx, server: vn4.4gspeed.me, port: 80, type: vmess, uuid: 93bbb190-beb1-46e2-94e3-cf92e8b42ee4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /4gspeed.me, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: 频道11@wxgqlfx, server: usshs2.gophers.gay, port: 20800, type: ss, cipher: chacha20-ietf-poly1305, password: f5d95005-be14-40fc-bedc-e4a1133a5701, udp: true}
+  - {name: 频道12@wxgqlfx, server: us03-tencent.shawbrothersstudio.com, port: 55828, type: ss, cipher: chacha20-ietf-poly1305, password: Bf7QoXeTMNMZk2wNtG9wt0, udp: true}
+  - {name: 频道13@wxgqlfx, server: www.dongtaiwang4.com, port: 30033, type: ss, cipher: aes-256-gcm, password: dongtaiwang.com, udp: true}
+  - {name: 频道14@wxgqlfx, server: hinet1.downloadvip.cfd, port: 443, type: trojan, password: 5913c0e8-345b-4b38-9fec-ef564e360b0b, sni: download.xn--mes358acgm99l.com, skip-cert-verify: true, udp: true}
+  - {name: 频道15@wxgqlfx, server: 5.104.107.143, port: 443, type: trojan, password: 3ed4d5f3-68e9-42fc-978a-22afc2523e5a, sni: de1.xn--mes358a9urctx.com, skip-cert-verify: true, udp: true}
+  - {name: 频道16@wxgqlfx, server: 36.137.198.8, port: 10821, type: trojan, password: 090c5c96-08e2-4d21-b7bd-ce0e75a9df73, sni: alibaba-node.cn, skip-cert-verify: true, udp: true}
+  - {name: 频道17@wxgqlfx, server: 23.94.122.147, port: 60222, type: vmess, uuid: 84134d90-e4fe-4a86-c8d6-4d7bedb3c333, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vmess, headers: {Host: 23.94.122.147}}, udp: true}
+  - {name: 频道18@wxgqlfx, server: 36.137.198.90, port: 10823, type: trojan, password: 090c5c96-08e2-4d21-b7bd-ce0e75a9df73, sni: alibaba-node.cn, skip-cert-verify: true, udp: true}
+  - {name: 频道19@wxgqlfx, server: 129.146.117.143, port: 20353, type: vmess, uuid: 171979a2-037a-44bc-8ab0-b6d7aa431b0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: microsoft.com}}, udp: true}
+  - {name: 频道20@wxgqlfx, server: 16.16.21.23, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
+  - {name: 频道21@wxgqlfx, server: singapore.com, port: 8080, type: vmess, uuid: d3f830a2-205a-4bba-a7ca-5e87899ac04d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v003.ssrsub.com}}, udp: true}
+  - {name: 频道22@wxgqlfx, server: ru02.celerlink.one, port: 64000, type: trojan, password: cb83adea-440d-4337-ac1c-46e77589051e, sni: ru02.celerlink.one, skip-cert-verify: true, udp: true}
+  - {name: 频道23@wxgqlfx, server: singapore.com, port: 8080, type: vmess, uuid: d3f830a2-205a-4bba-a7ca-5e87899ac04d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v006.ssrsub.com}}, udp: true}
+  - {name: 频道24@wxgqlfx, server: usfhc4.gophers.gay, port: 20353, type: vmess, uuid: 4b445dc7-3db7-4476-978a-1fb2a4d5c2b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: microsoft.com}}, udp: true}
+  - {name: 频道25@wxgqlfx, server: 104.21.70.14, port: 8080, type: vmess, uuid: 6735fcf0-7846-4259-bc31-f4f905a92750, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: se1.xv2ray.net}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -193,13 +186,6 @@ proxy-groups:
       - 频道23@wxgqlfx
       - 频道24@wxgqlfx
       - 频道25@wxgqlfx
-      - 频道26@wxgqlfx
-      - 频道27@wxgqlfx
-      - 频道28@wxgqlfx
-      - 频道29@wxgqlfx
-      - 频道30@wxgqlfx
-      - 频道31@wxgqlfx
-      - 频道32@wxgqlfx
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -285,13 +271,6 @@ proxy-groups:
       - 频道23@wxgqlfx
       - 频道24@wxgqlfx
       - 频道25@wxgqlfx
-      - 频道26@wxgqlfx
-      - 频道27@wxgqlfx
-      - 频道28@wxgqlfx
-      - 频道29@wxgqlfx
-      - 频道30@wxgqlfx
-      - 频道31@wxgqlfx
-      - 频道32@wxgqlfx
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -378,13 +357,6 @@ proxy-groups:
       - 频道23@wxgqlfx
       - 频道24@wxgqlfx
       - 频道25@wxgqlfx
-      - 频道26@wxgqlfx
-      - 频道27@wxgqlfx
-      - 频道28@wxgqlfx
-      - 频道29@wxgqlfx
-      - 频道30@wxgqlfx
-      - 频道31@wxgqlfx
-      - 频道32@wxgqlfx
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -483,13 +455,6 @@ proxy-groups:
       - 频道23@wxgqlfx
       - 频道24@wxgqlfx
       - 频道25@wxgqlfx
-      - 频道26@wxgqlfx
-      - 频道27@wxgqlfx
-      - 频道28@wxgqlfx
-      - 频道29@wxgqlfx
-      - 频道30@wxgqlfx
-      - 频道31@wxgqlfx
-      - 频道32@wxgqlfx
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -584,13 +549,6 @@ proxy-groups:
       - 频道23@wxgqlfx
       - 频道24@wxgqlfx
       - 频道25@wxgqlfx
-      - 频道26@wxgqlfx
-      - 频道27@wxgqlfx
-      - 频道28@wxgqlfx
-      - 频道29@wxgqlfx
-      - 频道30@wxgqlfx
-      - 频道31@wxgqlfx
-      - 频道32@wxgqlfx
   - name: 📲 电报信息
     type: select
     proxies:
@@ -676,13 +634,6 @@ proxy-groups:
       - 频道23@wxgqlfx
       - 频道24@wxgqlfx
       - 频道25@wxgqlfx
-      - 频道26@wxgqlfx
-      - 频道27@wxgqlfx
-      - 频道28@wxgqlfx
-      - 频道29@wxgqlfx
-      - 频道30@wxgqlfx
-      - 频道31@wxgqlfx
-      - 频道32@wxgqlfx
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -769,13 +720,6 @@ proxy-groups:
       - 频道23@wxgqlfx
       - 频道24@wxgqlfx
       - 频道25@wxgqlfx
-      - 频道26@wxgqlfx
-      - 频道27@wxgqlfx
-      - 频道28@wxgqlfx
-      - 频道29@wxgqlfx
-      - 频道30@wxgqlfx
-      - 频道31@wxgqlfx
-      - 频道32@wxgqlfx
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -871,13 +815,6 @@ proxy-groups:
       - 频道23@wxgqlfx
       - 频道24@wxgqlfx
       - 频道25@wxgqlfx
-      - 频道26@wxgqlfx
-      - 频道27@wxgqlfx
-      - 频道28@wxgqlfx
-      - 频道29@wxgqlfx
-      - 频道30@wxgqlfx
-      - 频道31@wxgqlfx
-      - 频道32@wxgqlfx
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
