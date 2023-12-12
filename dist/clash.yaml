@@ -72,60 +72,78 @@ proxies:
   - {name: 🇨🇳 github.com/freefq - 广东省广州市移动 27, server: service.ouluyun9803.com, port: 50001, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, udp: true}
   - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 28, server: scadn.yydsii.com, port: 8080, type: vmess, uuid: f32fb637-67eb-48be-9f29-4523c4720de7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kryx.651568.xyz}}, udp: true}
   - {name: 🇨🇳 github.com/freefq - 广东省广州市移动 29, server: service.ouluyun9803.com, port: 26667, type: ss, cipher: chacha20-ietf-poly1305, password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|1, server: 164.92.80.223, port: 8080, type: vmess, uuid: 4b59fcc4-1ed0-4a7f-b31b-826fffccf6a0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/grdhhgrdhhhhhhj?ed=2048", headers: {Host: uszhang.sanfen002.top}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|2, server: cdnikuan3.ikuan.dev, port: 8880, type: vmess, uuid: 62a818af-c5e8-4bf4-9009-dc788a77bfed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/microsoft?ed=1024", headers: {Host: losangeles.freenode.pro}}, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|3, server: mf805f.micloud.buzz, port: 46005, type: vmess, uuid: d60bfa14-b952-4d2c-809f-ce4730b02e02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: mf805f.micloud.buzz}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|4, server: cdnikuan.ikuan.dev, port: 8880, type: vmess, uuid: 62a818af-c5e8-4bf4-9009-dc788a77bfed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/microsoft?ed=1024", headers: {Host: losangeles.freenode.pro}}, udp: true}
-  - {name: 🇭🇰 |HK|香港|@wxgqlfx|5, server: 165.154.202.237, port: 10001, type: ss, cipher: aes-256-gcm, password: 1CeOM6FSNg, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|6, server: 172.233.47.152, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: 2ELuK70EiIstzy7UkBwJQe, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|7, server: dl6.doushimeng.com, port: 2095, type: vmess, uuid: d2aac723-7b01-4b55-8727-63e6d4a8254a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-usss.doushimeng.com}}, udp: true}
-  - {name: 🇫🇷 |FR|法国|@wxgqlfx|8, server: 13.36.232.239, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|9, server: 148.135.70.168, port: 25598, type: vmess, uuid: 1cff37e2-6e16-4722-ca87-0054c9276a54, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /1cff37e2}, udp: true}
-  - {name: 🇦🇺 |AU|澳大利亚|@wxgqlfx|10, server: 172.105.179.44, port: 8442, type: vmess, uuid: 62fc9114-b9e8-4e51-9ab8-3188c3bc4451, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇫🇮 |FI|芬兰|@wxgqlfx|11, server: 45.159.249.231, port: 38584, type: ss, cipher: chacha20-ietf-poly1305, password: zIPjynKNVVaBnKK0UZ5zu2, udp: true}
-  - {name: 🇮🇷 |IR|伊朗|@wxgqlfx|12, server: 81.12.27.2, port: 58768, type: vmess, uuid: 324d3868-cfef-4bd4-ab44-1776a406635f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|13, server: dl4.doushimeng.com, port: 2086, type: vmess, uuid: d2aac723-7b01-4b55-8727-63e6d4a8254a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr2s.doushimeng.com}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|14, server: dl3.doushimeng.com, port: 2082, type: vmess, uuid: d2aac723-7b01-4b55-8727-63e6d4a8254a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de2ss.doushimeng.com}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|15, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: d2aac723-7b01-4b55-8727-63e6d4a8254a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de66s.doushimeng.com}}, udp: true}
-  - {name: 🇻🇳 |VN|越南|@wxgqlfx|16, server: 103.232.54.160, port: 80, type: vmess, uuid: d95cded2-816a-4b5d-bb21-6180bd6d4d3a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /zenpn.com, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|17, server: 20cy.com, port: 443, type: vmess, uuid: d128a762-62cb-4328-ad2e-7766fe5f82d8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /D26xvdqUdCpvvPTz4R, headers: {Host: h226-fr.kxnn.eu.org}}, udp: true}
-  - {name: 🇨🇳 |TW|台湾|@wxgqlfx|18, server: tw.doushimeng.com, port: 46661, type: ss, cipher: chacha20-ietf-poly1305, password: d2aac723-7b01-4b55-8727-63e6d4a8254a, udp: true}
-  - {name: 🇲🇾 |MY|马来西亚|@wxgqlfx|19, server: 103.158.74.24, port: 8881, type: ss, cipher: aes-128-gcm, password: c44b01a6-2a53-4913-95e2-8df1f61869f7, udp: true}
-  - {name: ️‍🌈|UN|未知|@wxgqlfx|20, server: cf.network383.online, port: 8443, type: trojan, password: 8Ka1hu4r3g, sni: amsb.carfin.tech, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|21, server: 95.164.44.21, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: OTI5ZDhk, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|22, server: dl6.doushimeng.com, port: 80, type: vmess, uuid: d2aac723-7b01-4b55-8727-63e6d4a8254a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr.doushimeng.free.hr}}, udp: true}
-  - {name: 🇩🇪 |DE|德国|@wxgqlfx|23, server: 92.223.124.34, port: 443, type: vmess, uuid: 15eaa579-cf84-4792-8612-3f76fb1b6315, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /@FORWARDV2RAY, headers: {Host: software.myftp.biz}}, udp: true}
-  - {name: 🇳🇱 |NL|荷兰|@wxgqlfx|24, server: ginson.efnten.top, port: 443, type: vmess, uuid: 673ba378-840f-4928-81f2-203148d07350, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /673ba378-840f-4928-81f2-203148d07350, headers: {Host: cowochtmtrkers.turbo021.link}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|25, server: dl1.doushimeng.com, port: 80, type: vmess, uuid: d2aac723-7b01-4b55-8727-63e6d4a8254a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tww.doushimeng.com}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|26, server: 94.131.14.177, port: 80, type: vmess, uuid: 2c5fee13-f08b-4ba8-86db-27dd51cb9781, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vmess, headers: {Host: 94.131.14.177}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|27, server: ca-new01.gujuji.top, port: 8080, type: vmess, uuid: 96e353d5-2794-4e2b-96dc-973de876d711, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-new01.gujuji.top}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|28, server: fr-new01.gujuji.top, port: 8080, type: vmess, uuid: 96e353d5-2794-4e2b-96dc-973de876d711, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: fr-new01.gujuji.top}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|29, server: dl3.doushimeng.com, port: 2086, type: vmess, uuid: d2aac723-7b01-4b55-8727-63e6d4a8254a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx3ss.doushimeng.com}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|30, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: d2aac723-7b01-4b55-8727-63e6d4a8254a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-nlss.nicehand.top}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|31, server: 45.65.8.4, port: 443, type: vmess, uuid: 15eaa579-cf84-4792-8612-3f76fb1b6315, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /@FORWARDV2RAY, headers: {Host: software.myftp.biz}}, udp: true}
-  - {name: "|IQ|伊拉克|@wxgqlfx|32", server: 37.236.95.2, port: 443, type: vmess, uuid: 15eaa579-cf84-4792-8612-3f76fb1b6315, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /@FORWARDV2RAY, headers: {Host: software.myftp.biz}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|33, server: cf.network383.online, port: 2087, type: vmess, uuid: 49aa04d4-24b0-423a-9794-b19fd42a2b99, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: grpc, servername: "@apt_mahdi", grpc-opts: {grpc-service-name: /}, udp: true}
-  - {name: 🇻🇳 |VN|越南|@wxgqlfx|34, server: 103.232.54.160, port: 80, type: vmess, uuid: d95cded2-816a-4b5d-bb21-6180bd6d4d3a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /zenpn.com}, udp: true}
-  - {name: 🇫🇷 |FR|法国|@wxgqlfx|35, server: 54.36.174.181, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|36, server: scadn.yydsii.com, port: 8080, type: vmess, uuid: f32fb637-67eb-48be-9f29-4523c4720de7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kryx.651568.xyz}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|37, server: 94.131.12.58, port: 26669, type: ss, cipher: chacha20-ietf-poly1305, password: B0ry56X2AxfFgcgI7sHDWD, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|38, server: zfc.windowsupdate1.com, port: 80, type: vmess, uuid: f32fb637-67eb-48be-9f29-4523c4720de7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jpyx.651568.xyz}}, udp: true}
-  - {name: ️‍🌈|UN|未知|@wxgqlfx|39, server: cf.network383.online, port: 2096, type: trojan, password: ZjzcW3LXeJ, sni: amsb.carfin.tech, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|40, server: de-new01.gujuji.top, port: 8080, type: vmess, uuid: 96e353d5-2794-4e2b-96dc-973de876d711, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: de-new01.gujuji.top}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|41, server: 172.67.229.37, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2, headers: {Host: ca4.v2-teh.fun}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|42, server: cf.network383.online, port: 2083, type: vmess, uuid: 055079b7-84cb-4619-8b46-f21e642232ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /@apt_mahdi, headers: {Host: amsb.carfin.tech}}, udp: true}
-  - {name: 🇫🇷 |FR|法国|@wxgqlfx|43, server: 54.36.174.181, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|44, server: uk-new01.gujuji.top, port: 8080, type: vmess, uuid: 96e353d5-2794-4e2b-96dc-973de876d711, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: uk-new01.gujuji.top}}, udp: true}
-  - {name: 🇭🇰 |HK|香港|@wxgqlfx|45, server: cfa.xiaoxing.link, port: 443, type: vmess, uuid: d128a762-62cb-4328-ad2e-7766fe5f82d8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /D26xvdqUdCpvvPTz4R, headers: {Host: h367-fr.kxnn.eu.org}}, udp: true}
-  - {name: 🇫🇷 |FR|法国|@wxgqlfx|46, server: 54.36.174.181, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: 🇺🇸 |AM|亚美尼亚|@wxgqlfx|47, server: 45.82.100.4, port: 443, type: vmess, uuid: 15eaa579-cf84-4792-8612-3f76fb1b6315, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /@FORWARDV2RAY, headers: {Host: software.myftp.biz}}, udp: true}
-  - {name: 🇫🇷 |FR|法国|@wxgqlfx|48, server: 54.36.174.181, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: 🇯🇵 |JP|日本|@wxgqlfx|49, server: jp.doushimeng.com, port: 21853, type: ss, cipher: chacha20-ietf-poly1305, password: d2aac723-7b01-4b55-8727-63e6d4a8254a, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|50, server: c.mac2win.top, port: 8080, type: vmess, uuid: ba1aa9ae-3cad-46a5-8dfa-b0973c35abeb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/argox-vm?ed=2048", headers: {Host: acquire-cleaners-camel-terror.trycloudflare.com}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|51, server: 104.31.16.3, port: 443, type: vmess, uuid: d7f8ebbe-2e8e-44b7-8c10-77e596810982, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: grpc, servername: /, grpc-opts: {grpc-service-name: /}, udp: true}
-  - {name: 🇫🇷 |FR|法国|@wxgqlfx|52, server: 54.36.174.181, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: 🇫🇷 |FR|法国|@wxgqlfx|53, server: 54.36.174.181, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: 🇫🇷 |FR|法国|@wxgqlfx|54, server: 54.36.174.181, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: 🇱🇹 |LT|立陶宛|@wxgqlfx|1, server: 185.140.209.74, port: 24224, type: ss, cipher: chacha20-ietf-poly1305, password: C9Bj8nLTngraUjrwk82Ax7, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|2, server: 35.87.209.22, port: 13489, type: vmess, uuid: 61761e55-dff5-4f94-f75f-b0a4718bba98, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 |GB|英国|@wxgqlfx|3, server: sg.colacloud.site, port: 20153, type: ss, cipher: chacha20-ietf-poly1305, password: 2d73cf84-fae3-4d3e-a2de-3bb903243f2e, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|4, server: 52.23.176.97, port: 34511, type: ss, cipher: chacha20-ietf-poly1305, password: 5k55aIUjJaaQ8YjE6772wF, udp: true}
+  - {name: 🇳🇱 |NL|荷兰|@wxgqlfx|5, server: 164.92.152.63, port: 50322, type: ss, cipher: aes-256-gcm, password: EziorBTjgi, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|6, server: cdnikuan3.ikuan.dev, port: 8880, type: vmess, uuid: b75b6065-5bc3-48c9-9e7c-f7024e6fd31d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/microsoft?ed=1024", headers: {Host: losangeles.freenode.pro}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|7, server: 162.247.153.130, port: 55899, type: ss, cipher: chacha20-ietf-poly1305, password: AsMJa6QEMfJiBUuZiIe2YE, udp: true}
+  - {name: 🇫🇷 |FR|法国|@wxgqlfx|8, server: 51.158.204.58, port: 41725, type: ss, cipher: chacha20-ietf-poly1305, password: oNdOz8tl5AmAcccM4xXH9Q, udp: true}
+  - {name: 🇮🇳 |IN|印度|@wxgqlfx|9, server: 64.227.144.190, port: 50690, type: ss, cipher: chacha20-ietf-poly1305, password: Q081gavHWOR7WOvOo9cXcG, udp: true}
+  - {name: 🇷🇺 |RU|俄罗斯联邦|@wxgqlfx|10, server: 62.113.114.116, port: 42320, type: ss, cipher: chacha20-ietf-poly1305, password: dhXDSrO3HnkhOZWxNOrvII, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|11, server: cdnikuan.ikuan.dev, port: 8880, type: vmess, uuid: b75b6065-5bc3-48c9-9e7c-f7024e6fd31d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/microsoft?ed=1024", headers: {Host: losangeles.freenode.pro}}, udp: true}
+  - {name: 🇮🇳 |IN|印度|@wxgqlfx|12, server: 64.227.144.190, port: 50690, type: ss, cipher: chacha20-ietf-poly1305, password: GWLjDp55ASoP82uSP0Ec8n, udp: true}
+  - {name: 🇩🇪 |DE|德国|@wxgqlfx|13, server: 5.252.25.138, port: 43056, type: ss, cipher: aes-256-gcm, password: vBu488RJrA, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|14, server: 162.247.153.29, port: 45053, type: ss, cipher: chacha20-ietf-poly1305, password: UweMVgEc2ZQm9K0k9AmCjt, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|15, server: cdnikuancdnikuan.ikuan.dev, port: 8880, type: vmess, uuid: b75b6065-5bc3-48c9-9e7c-f7024e6fd31d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/microsoft?ed=1024", headers: {Host: losangeles.freenode.pro}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|16, server: cdnikuancdnikuan.ikuan.dev, port: 2052, type: vmess, uuid: b75b6065-5bc3-48c9-9e7c-f7024e6fd31d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/Onlinemedicallearningvideos/HEAC*?ed=2048", headers: {Host: usopenvz2-10726022940b71234123487d70001.freenode.pro}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|17, server: 45.150.65.34, port: 11285, type: ss, cipher: chacha20-ietf-poly1305, password: yTzEeImDDKooThuQKhZjob, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|18, server: cdnikuancdnikuan.ikuan.dev, port: 8080, type: vmess, uuid: b75b6065-5bc3-48c9-9e7c-f7024e6fd31d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/Onlinemedicallearningvideos/HEAC*?ed=2048", headers: {Host: usopenvz3-52026022940dc1234123455cf1.freenode.pro}}, udp: true}
+  - {name: 🇫🇮 |FI|芬兰|@wxgqlfx|19, server: 45.159.249.231, port: 38584, type: ss, cipher: chacha20-ietf-poly1305, password: zIPjynKNVVaBnKK0UZ5zu2, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|20, server: 104.31.16.3, port: 443, type: vmess, uuid: d7f8ebbe-2e8e-44b7-8c10-77e596810982, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: grpc, servername: /, grpc-opts: {grpc-service-name: /}, udp: true}
+  - {name: 🇦🇺 |AU|澳大利亚|@wxgqlfx|21, server: au.colacloud.site, port: 20262, type: ss, cipher: chacha20-ietf-poly1305, password: 2d73cf84-fae3-4d3e-a2de-3bb903243f2e, udp: true}
+  - {name: 🇰🇷 |KR|韩国|@wxgqlfx|22, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: 2d73cf84-fae3-4d3e-a2de-3bb903243f2e, udp: true}
+  - {name: 🇷🇺 |RU|俄罗斯联邦|@wxgqlfx|23, server: 185.204.2.243, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: fiYgUEmWa3MwH6Y6ycVFYwi1vLIQQS2NfhBIPvR5Z94uTzNx, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|24, server: us-new01.gujuji.top, port: 8080, type: vmess, uuid: 6bed5b06-432c-425f-bc6e-028ff4298872, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new01.gujuji.top}}, udp: true}
+  - {name: 🇧🇷 |BR|巴西|@wxgqlfx|25, server: 186.233.118.171, port: 5600, type: ss, cipher: aes-256-gcm, password: VcVGtFxYAQlor5DX7AZm7KpqJu5EnlFEtQr3kSaTCog=, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|26, server: us-new03.gujuji.top, port: 8080, type: vmess, uuid: 6bed5b06-432c-425f-bc6e-028ff4298872, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new03.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|27, server: ca-new01.gujuji.top, port: 8080, type: vmess, uuid: c455aee1-e712-45e0-a593-0d9bbaa2f62f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-new01.gujuji.top}}, udp: true}
+  - {name: 🇹🇷 |TR|土耳其|@wxgqlfx|28, server: 5.188.168.230, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: bxsT803nqOIXJ6SnKzqzDIqhLmgxePi5qM8FHFknrZo3axSv, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|29, server: ca-new01.gujuji.top, port: 8080, type: vmess, uuid: 6bed5b06-432c-425f-bc6e-028ff4298872, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-new01.gujuji.top}}, udp: true}
+  - {name: 🇮🇷 |IR|伊朗|@wxgqlfx|30, server: 95.38.153.118, port: 39400, type: vmess, uuid: 29029866-4510-48bb-e2ae-f5ece23729dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 |TW|台湾|@wxgqlfx|31, server: tw.doushimeng.com, port: 46661, type: ss, cipher: chacha20-ietf-poly1305, password: fa8e856d-cfad-42dc-a7d0-167ba3b3b8c8, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|32, server: dl6.doushimeng.com, port: 80, type: vmess, uuid: fa8e856d-cfad-42dc-a7d0-167ba3b3b8c8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr.doushimeng.free.hr}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|33, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: fa8e856d-cfad-42dc-a7d0-167ba3b3b8c8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de66s.doushimeng.com}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|34, server: 104.21.81.75, port: 2087, type: vmess, uuid: 31bf0c56-583e-4471-a752-fff3c8a6be07, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /IranxTLS, headers: {Host: points2.irantls.com}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|35, server: dl1x.doushimeng.com, port: 80, type: vmess, uuid: fa8e856d-cfad-42dc-a7d0-167ba3b3b8c8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx2ss.nicehand.top}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|36, server: 104.21.81.75, port: 2087, type: vmess, uuid: 31bf0c56-583e-4471-a752-fff3c8a6be07, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /IranxTLS, headers: {Host: points2.irantls.com}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|37, server: 104.20.92.214, port: 2096, type: vmess, uuid: 0223876a-3d69-4d3b-b968-12c909f6f888, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: Woman-Life-FreedomWoman-Life-FreedomWoman-Life-FreedomWoman-Life-FreedomWoman-Life-FreedomWoman-Life-Freedom, headers: {Host: azadi.Darkmood.cfd}}, udp: true}
+  - {name: 🇰🇿 |KZ|哈萨克斯坦|@wxgqlfx|38, server: 93.170.73.104, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: AGr56G65GFgl7phobMoits, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|39, server: fuqiang.misaeng.top, port: 443, type: vmess, uuid: 1cff37e2-6e16-4722-ca87-0054c9276a54, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /1cff37e2, headers: {Host: fuqiang.misaeng.top}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|40, server: us-new02.gujuji.top, port: 8080, type: vmess, uuid: c455aee1-e712-45e0-a593-0d9bbaa2f62f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new02.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|41, server: kr-01.gujuji.top, port: 8080, type: vmess, uuid: c455aee1-e712-45e0-a593-0d9bbaa2f62f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kr-01.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|42, server: fuqiang.misaeng.top, port: 443, type: vmess, uuid: 1cff37e2-6e16-4722-ca87-0054c9276a54, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /1cff37e2, headers: {Host: fuqiang.misaeng.top}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|43, server: us-new01.gujuji.top, port: 8080, type: vmess, uuid: c455aee1-e712-45e0-a593-0d9bbaa2f62f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new01.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|44, server: fr-new01.gujuji.top, port: 8080, type: vmess, uuid: c455aee1-e712-45e0-a593-0d9bbaa2f62f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: fr-new01.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|45, server: us-new03.gujuji.top, port: 8080, type: vmess, uuid: c455aee1-e712-45e0-a593-0d9bbaa2f62f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new03.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|46, server: dl3.doushimeng.com, port: 2082, type: vmess, uuid: fa8e856d-cfad-42dc-a7d0-167ba3b3b8c8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de2ss.doushimeng.com}}, udp: true}
+  - {name: 🇻🇳 |VN|越南|@wxgqlfx|47, server: 103.232.54.160, port: 80, type: vmess, uuid: d95cded2-816a-4b5d-bb21-6180bd6d4d3a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /zenpn.com, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+  - {name: 🇨🇿 |CZ|捷克|@wxgqlfx|48, server: cz1-vmess.sshmax.xyz, port: 2082, type: vmess, uuid: d466dd36-8b86-48b7-b0f0-67e7d128de6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vmess, headers: {Host: cz1-vmess.sshmax.xyz}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|49, server: us-new03.gujuji.top, port: 8080, type: vmess, uuid: e2832880-8423-4c6e-9f92-b5b627a6e144, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new03.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|50, server: uk-new01.gujuji.top, port: 8080, type: vmess, uuid: 6bed5b06-432c-425f-bc6e-028ff4298872, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: uk-new01.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|51, server: dl4.doushimeng.com, port: 2086, type: vmess, uuid: fa8e856d-cfad-42dc-a7d0-167ba3b3b8c8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr2s.doushimeng.com}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|52, server: cdn.shaniugpt.top, port: 443, type: vmess, uuid: 5899e7c2-fafc-4b4e-84f9-ccfcbf1f1687, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-kr1, headers: {Host: yyjc-kr1.shaniugpt.top}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|53, server: us-new03.gujuji.top, port: 8080, type: vmess, uuid: e2832880-8423-4c6e-9f92-b5b627a6e144, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new03.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|54, server: v16.583182.xyz, port: 8443, type: vmess, uuid: 9da06414-9c1f-41b1-b46d-28efd22e14ba, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: v16.583181.xyz}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|55, server: 94.131.12.58, port: 26669, type: ss, cipher: chacha20-ietf-poly1305, password: B0ry56X2AxfFgcgI7sHDWD, udp: true}
+  - {name: 🇨🇿 |CZ|捷克|@wxgqlfx|56, server: cz1-vmess.sshmax.xyz, port: 2082, type: vmess, uuid: d466dd36-8b86-48b7-b0f0-67e7d128de6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vmess, headers: {Host: cz1-vmess.sshmax.xyz}}, udp: true}
+  - {name: 🇨🇿 |CZ|捷克|@wxgqlfx|57, server: 77.75.230.125, port: 8080, type: vmess, uuid: d466dd36-8b86-48b7-b0f0-67e7d128de6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vmess, headers: {Host: 77.75.230.125}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|58, server: us-new04.gujuji.top, port: 8080, type: vmess, uuid: c455aee1-e712-45e0-a593-0d9bbaa2f62f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new04.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|59, server: us-new04.gujuji.top, port: 8080, type: vmess, uuid: 6bed5b06-432c-425f-bc6e-028ff4298872, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new04.gujuji.top}}, udp: true}
+  - {name: 🇬🇧 |GB|英国|@wxgqlfx|60, server: 134.209.182.149, port: 80, type: vmess, uuid: fc5fcc6d-7fc5-46b1-9a6e-4eb270b9dcab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray-vmess/ntls, headers: {Host: internet.life.com.by}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|61, server: zfc.windowsupdate1.com, port: 80, type: vmess, uuid: f32fb637-67eb-48be-9f29-4523c4720de7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jpyx.651568.xyz}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|62, server: fr-new01.gujuji.top, port: 8080, type: vmess, uuid: c455aee1-e712-45e0-a593-0d9bbaa2f62f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: fr-new01.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|63, server: cdnikuancdnikuan.ikuan.dev, port: 2095, type: vmess, uuid: b75b6065-5bc3-48c9-9e7c-f7024e6fd31d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/cloudvideo?ed=1024", headers: {Host: de-data-02.ikuan.dev}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|64, server: de-new01.gujuji.top, port: 8080, type: vmess, uuid: 6bed5b06-432c-425f-bc6e-028ff4298872, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: de-new01.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|65, server: de-new01.gujuji.top, port: 8080, type: vmess, uuid: c455aee1-e712-45e0-a593-0d9bbaa2f62f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: de-new01.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|66, server: us-new02.gujuji.top, port: 8080, type: vmess, uuid: 6bed5b06-432c-425f-bc6e-028ff4298872, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new02.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|67, server: uk-new01.gujuji.top, port: 8080, type: vmess, uuid: c455aee1-e712-45e0-a593-0d9bbaa2f62f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: uk-new01.gujuji.top}}, udp: true}
+  - {name: 🇨🇿 |CZ|捷克|@wxgqlfx|68, server: 77.75.230.125, port: 2086, type: vmess, uuid: d466dd36-8b86-48b7-b0f0-67e7d128de6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vmess, headers: {Host: 77.75.230.125}}, udp: true}
+  - {name: 🇨🇿 |CZ|捷克|@wxgqlfx|69, server: 77.75.230.125, port: 8880, type: vmess, uuid: d466dd36-8b86-48b7-b0f0-67e7d128de6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vmess, headers: {Host: 77.75.230.125}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|70, server: ca-new01.gujuji.top, port: 8080, type: vmess, uuid: 6bed5b06-432c-425f-bc6e-028ff4298872, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-new01.gujuji.top}}, udp: true}
+  - {name: 🇨🇿 |CZ|捷克|@wxgqlfx|71, server: cz1-vmess.sshmax.xyz, port: 80, type: vmess, uuid: ef7cfdf6-63e1-4307-bb61-40eb81acb5bd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vmess, headers: {Host: cz1-vmess.sshmax.xyz}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|72, server: dl6.doushimeng.com, port: 2095, type: vmess, uuid: fa8e856d-cfad-42dc-a7d0-167ba3b3b8c8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-usss.doushimeng.com}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -184,60 +202,78 @@ proxy-groups:
       - 🇨🇳 github.com/freefq - 广东省广州市移动 27
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
       - 🇨🇳 github.com/freefq - 广东省广州市移动 29
-      - 🇺🇸 |US|美国|@wxgqlfx|1
+      - 🇱🇹 |LT|立陶宛|@wxgqlfx|1
       - 🇺🇸 |US|美国|@wxgqlfx|2
-      - 🇨🇳 |CN|中国|@wxgqlfx|3
+      - 🇬🇧 |GB|英国|@wxgqlfx|3
       - 🇺🇸 |US|美国|@wxgqlfx|4
-      - 🇭🇰 |HK|香港|@wxgqlfx|5
+      - 🇳🇱 |NL|荷兰|@wxgqlfx|5
       - 🇺🇸 |US|美国|@wxgqlfx|6
       - 🇺🇸 |US|美国|@wxgqlfx|7
       - 🇫🇷 |FR|法国|@wxgqlfx|8
-      - 🇺🇸 |US|美国|@wxgqlfx|9
-      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|10
-      - 🇫🇮 |FI|芬兰|@wxgqlfx|11
-      - 🇮🇷 |IR|伊朗|@wxgqlfx|12
-      - 🇺🇸 |US|美国|@wxgqlfx|13
+      - 🇮🇳 |IN|印度|@wxgqlfx|9
+      - 🇷🇺 |RU|俄罗斯联邦|@wxgqlfx|10
+      - 🇺🇸 |US|美国|@wxgqlfx|11
+      - 🇮🇳 |IN|印度|@wxgqlfx|12
+      - 🇩🇪 |DE|德国|@wxgqlfx|13
       - 🇺🇸 |US|美国|@wxgqlfx|14
       - 🇺🇸 |US|美国|@wxgqlfx|15
-      - 🇻🇳 |VN|越南|@wxgqlfx|16
+      - 🇺🇸 |US|美国|@wxgqlfx|16
       - 🇺🇸 |US|美国|@wxgqlfx|17
-      - 🇨🇳 |TW|台湾|@wxgqlfx|18
-      - 🇲🇾 |MY|马来西亚|@wxgqlfx|19
-      - ️‍🌈|UN|未知|@wxgqlfx|20
-      - 🇺🇸 |US|美国|@wxgqlfx|21
-      - 🇺🇸 |US|美国|@wxgqlfx|22
-      - 🇩🇪 |DE|德国|@wxgqlfx|23
-      - 🇳🇱 |NL|荷兰|@wxgqlfx|24
-      - 🇺🇸 |US|美国|@wxgqlfx|25
+      - 🇺🇸 |US|美国|@wxgqlfx|18
+      - 🇫🇮 |FI|芬兰|@wxgqlfx|19
+      - 🇺🇸 |US|美国|@wxgqlfx|20
+      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|21
+      - 🇰🇷 |KR|韩国|@wxgqlfx|22
+      - 🇷🇺 |RU|俄罗斯联邦|@wxgqlfx|23
+      - 🇺🇸 |US|美国|@wxgqlfx|24
+      - 🇧🇷 |BR|巴西|@wxgqlfx|25
       - 🇺🇸 |US|美国|@wxgqlfx|26
       - 🇺🇸 |US|美国|@wxgqlfx|27
-      - 🇺🇸 |US|美国|@wxgqlfx|28
+      - 🇹🇷 |TR|土耳其|@wxgqlfx|28
       - 🇺🇸 |US|美国|@wxgqlfx|29
-      - 🇺🇸 |US|美国|@wxgqlfx|30
-      - 🇺🇸 |US|美国|@wxgqlfx|31
-      - "|IQ|伊拉克|@wxgqlfx|32"
+      - 🇮🇷 |IR|伊朗|@wxgqlfx|30
+      - 🇨🇳 |TW|台湾|@wxgqlfx|31
+      - 🇺🇸 |US|美国|@wxgqlfx|32
       - 🇺🇸 |US|美国|@wxgqlfx|33
-      - 🇻🇳 |VN|越南|@wxgqlfx|34
-      - 🇫🇷 |FR|法国|@wxgqlfx|35
+      - 🇺🇸 |US|美国|@wxgqlfx|34
+      - 🇺🇸 |US|美国|@wxgqlfx|35
       - 🇺🇸 |US|美国|@wxgqlfx|36
       - 🇺🇸 |US|美国|@wxgqlfx|37
-      - 🇺🇸 |US|美国|@wxgqlfx|38
-      - ️‍🌈|UN|未知|@wxgqlfx|39
+      - 🇰🇿 |KZ|哈萨克斯坦|@wxgqlfx|38
+      - 🇺🇸 |US|美国|@wxgqlfx|39
       - 🇺🇸 |US|美国|@wxgqlfx|40
       - 🇺🇸 |US|美国|@wxgqlfx|41
       - 🇺🇸 |US|美国|@wxgqlfx|42
-      - 🇫🇷 |FR|法国|@wxgqlfx|43
+      - 🇺🇸 |US|美国|@wxgqlfx|43
       - 🇺🇸 |US|美国|@wxgqlfx|44
-      - 🇭🇰 |HK|香港|@wxgqlfx|45
-      - 🇫🇷 |FR|法国|@wxgqlfx|46
-      - 🇺🇸 |AM|亚美尼亚|@wxgqlfx|47
-      - 🇫🇷 |FR|法国|@wxgqlfx|48
-      - 🇯🇵 |JP|日本|@wxgqlfx|49
+      - 🇺🇸 |US|美国|@wxgqlfx|45
+      - 🇺🇸 |US|美国|@wxgqlfx|46
+      - 🇻🇳 |VN|越南|@wxgqlfx|47
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|48
+      - 🇺🇸 |US|美国|@wxgqlfx|49
       - 🇺🇸 |US|美国|@wxgqlfx|50
       - 🇺🇸 |US|美国|@wxgqlfx|51
-      - 🇫🇷 |FR|法国|@wxgqlfx|52
-      - 🇫🇷 |FR|法国|@wxgqlfx|53
-      - 🇫🇷 |FR|法国|@wxgqlfx|54
+      - 🇺🇸 |US|美国|@wxgqlfx|52
+      - 🇺🇸 |US|美国|@wxgqlfx|53
+      - 🇺🇸 |US|美国|@wxgqlfx|54
+      - 🇺🇸 |US|美国|@wxgqlfx|55
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|56
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|57
+      - 🇺🇸 |US|美国|@wxgqlfx|58
+      - 🇺🇸 |US|美国|@wxgqlfx|59
+      - 🇬🇧 |GB|英国|@wxgqlfx|60
+      - 🇺🇸 |US|美国|@wxgqlfx|61
+      - 🇺🇸 |US|美国|@wxgqlfx|62
+      - 🇺🇸 |US|美国|@wxgqlfx|63
+      - 🇺🇸 |US|美国|@wxgqlfx|64
+      - 🇺🇸 |US|美国|@wxgqlfx|65
+      - 🇺🇸 |US|美国|@wxgqlfx|66
+      - 🇺🇸 |US|美国|@wxgqlfx|67
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|68
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|69
+      - 🇺🇸 |US|美国|@wxgqlfx|70
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|71
+      - 🇺🇸 |US|美国|@wxgqlfx|72
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -295,60 +331,78 @@ proxy-groups:
       - 🇨🇳 github.com/freefq - 广东省广州市移动 27
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
       - 🇨🇳 github.com/freefq - 广东省广州市移动 29
-      - 🇺🇸 |US|美国|@wxgqlfx|1
+      - 🇱🇹 |LT|立陶宛|@wxgqlfx|1
       - 🇺🇸 |US|美国|@wxgqlfx|2
-      - 🇨🇳 |CN|中国|@wxgqlfx|3
+      - 🇬🇧 |GB|英国|@wxgqlfx|3
       - 🇺🇸 |US|美国|@wxgqlfx|4
-      - 🇭🇰 |HK|香港|@wxgqlfx|5
+      - 🇳🇱 |NL|荷兰|@wxgqlfx|5
       - 🇺🇸 |US|美国|@wxgqlfx|6
       - 🇺🇸 |US|美国|@wxgqlfx|7
       - 🇫🇷 |FR|法国|@wxgqlfx|8
-      - 🇺🇸 |US|美国|@wxgqlfx|9
-      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|10
-      - 🇫🇮 |FI|芬兰|@wxgqlfx|11
-      - 🇮🇷 |IR|伊朗|@wxgqlfx|12
-      - 🇺🇸 |US|美国|@wxgqlfx|13
+      - 🇮🇳 |IN|印度|@wxgqlfx|9
+      - 🇷🇺 |RU|俄罗斯联邦|@wxgqlfx|10
+      - 🇺🇸 |US|美国|@wxgqlfx|11
+      - 🇮🇳 |IN|印度|@wxgqlfx|12
+      - 🇩🇪 |DE|德国|@wxgqlfx|13
       - 🇺🇸 |US|美国|@wxgqlfx|14
       - 🇺🇸 |US|美国|@wxgqlfx|15
-      - 🇻🇳 |VN|越南|@wxgqlfx|16
+      - 🇺🇸 |US|美国|@wxgqlfx|16
       - 🇺🇸 |US|美国|@wxgqlfx|17
-      - 🇨🇳 |TW|台湾|@wxgqlfx|18
-      - 🇲🇾 |MY|马来西亚|@wxgqlfx|19
-      - ️‍🌈|UN|未知|@wxgqlfx|20
-      - 🇺🇸 |US|美国|@wxgqlfx|21
-      - 🇺🇸 |US|美国|@wxgqlfx|22
-      - 🇩🇪 |DE|德国|@wxgqlfx|23
-      - 🇳🇱 |NL|荷兰|@wxgqlfx|24
-      - 🇺🇸 |US|美国|@wxgqlfx|25
+      - 🇺🇸 |US|美国|@wxgqlfx|18
+      - 🇫🇮 |FI|芬兰|@wxgqlfx|19
+      - 🇺🇸 |US|美国|@wxgqlfx|20
+      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|21
+      - 🇰🇷 |KR|韩国|@wxgqlfx|22
+      - 🇷🇺 |RU|俄罗斯联邦|@wxgqlfx|23
+      - 🇺🇸 |US|美国|@wxgqlfx|24
+      - 🇧🇷 |BR|巴西|@wxgqlfx|25
       - 🇺🇸 |US|美国|@wxgqlfx|26
       - 🇺🇸 |US|美国|@wxgqlfx|27
-      - 🇺🇸 |US|美国|@wxgqlfx|28
+      - 🇹🇷 |TR|土耳其|@wxgqlfx|28
       - 🇺🇸 |US|美国|@wxgqlfx|29
-      - 🇺🇸 |US|美国|@wxgqlfx|30
-      - 🇺🇸 |US|美国|@wxgqlfx|31
-      - "|IQ|伊拉克|@wxgqlfx|32"
+      - 🇮🇷 |IR|伊朗|@wxgqlfx|30
+      - 🇨🇳 |TW|台湾|@wxgqlfx|31
+      - 🇺🇸 |US|美国|@wxgqlfx|32
       - 🇺🇸 |US|美国|@wxgqlfx|33
-      - 🇻🇳 |VN|越南|@wxgqlfx|34
-      - 🇫🇷 |FR|法国|@wxgqlfx|35
+      - 🇺🇸 |US|美国|@wxgqlfx|34
+      - 🇺🇸 |US|美国|@wxgqlfx|35
       - 🇺🇸 |US|美国|@wxgqlfx|36
       - 🇺🇸 |US|美国|@wxgqlfx|37
-      - 🇺🇸 |US|美国|@wxgqlfx|38
-      - ️‍🌈|UN|未知|@wxgqlfx|39
+      - 🇰🇿 |KZ|哈萨克斯坦|@wxgqlfx|38
+      - 🇺🇸 |US|美国|@wxgqlfx|39
       - 🇺🇸 |US|美国|@wxgqlfx|40
       - 🇺🇸 |US|美国|@wxgqlfx|41
       - 🇺🇸 |US|美国|@wxgqlfx|42
-      - 🇫🇷 |FR|法国|@wxgqlfx|43
+      - 🇺🇸 |US|美国|@wxgqlfx|43
       - 🇺🇸 |US|美国|@wxgqlfx|44
-      - 🇭🇰 |HK|香港|@wxgqlfx|45
-      - 🇫🇷 |FR|法国|@wxgqlfx|46
-      - 🇺🇸 |AM|亚美尼亚|@wxgqlfx|47
-      - 🇫🇷 |FR|法国|@wxgqlfx|48
-      - 🇯🇵 |JP|日本|@wxgqlfx|49
+      - 🇺🇸 |US|美国|@wxgqlfx|45
+      - 🇺🇸 |US|美国|@wxgqlfx|46
+      - 🇻🇳 |VN|越南|@wxgqlfx|47
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|48
+      - 🇺🇸 |US|美国|@wxgqlfx|49
       - 🇺🇸 |US|美国|@wxgqlfx|50
       - 🇺🇸 |US|美国|@wxgqlfx|51
-      - 🇫🇷 |FR|法国|@wxgqlfx|52
-      - 🇫🇷 |FR|法国|@wxgqlfx|53
-      - 🇫🇷 |FR|法国|@wxgqlfx|54
+      - 🇺🇸 |US|美国|@wxgqlfx|52
+      - 🇺🇸 |US|美国|@wxgqlfx|53
+      - 🇺🇸 |US|美国|@wxgqlfx|54
+      - 🇺🇸 |US|美国|@wxgqlfx|55
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|56
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|57
+      - 🇺🇸 |US|美国|@wxgqlfx|58
+      - 🇺🇸 |US|美国|@wxgqlfx|59
+      - 🇬🇧 |GB|英国|@wxgqlfx|60
+      - 🇺🇸 |US|美国|@wxgqlfx|61
+      - 🇺🇸 |US|美国|@wxgqlfx|62
+      - 🇺🇸 |US|美国|@wxgqlfx|63
+      - 🇺🇸 |US|美国|@wxgqlfx|64
+      - 🇺🇸 |US|美国|@wxgqlfx|65
+      - 🇺🇸 |US|美国|@wxgqlfx|66
+      - 🇺🇸 |US|美国|@wxgqlfx|67
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|68
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|69
+      - 🇺🇸 |US|美国|@wxgqlfx|70
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|71
+      - 🇺🇸 |US|美国|@wxgqlfx|72
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -407,60 +461,78 @@ proxy-groups:
       - 🇨🇳 github.com/freefq - 广东省广州市移动 27
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
       - 🇨🇳 github.com/freefq - 广东省广州市移动 29
-      - 🇺🇸 |US|美国|@wxgqlfx|1
+      - 🇱🇹 |LT|立陶宛|@wxgqlfx|1
       - 🇺🇸 |US|美国|@wxgqlfx|2
-      - 🇨🇳 |CN|中国|@wxgqlfx|3
+      - 🇬🇧 |GB|英国|@wxgqlfx|3
       - 🇺🇸 |US|美国|@wxgqlfx|4
-      - 🇭🇰 |HK|香港|@wxgqlfx|5
+      - 🇳🇱 |NL|荷兰|@wxgqlfx|5
       - 🇺🇸 |US|美国|@wxgqlfx|6
       - 🇺🇸 |US|美国|@wxgqlfx|7
       - 🇫🇷 |FR|法国|@wxgqlfx|8
-      - 🇺🇸 |US|美国|@wxgqlfx|9
-      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|10
-      - 🇫🇮 |FI|芬兰|@wxgqlfx|11
-      - 🇮🇷 |IR|伊朗|@wxgqlfx|12
-      - 🇺🇸 |US|美国|@wxgqlfx|13
+      - 🇮🇳 |IN|印度|@wxgqlfx|9
+      - 🇷🇺 |RU|俄罗斯联邦|@wxgqlfx|10
+      - 🇺🇸 |US|美国|@wxgqlfx|11
+      - 🇮🇳 |IN|印度|@wxgqlfx|12
+      - 🇩🇪 |DE|德国|@wxgqlfx|13
       - 🇺🇸 |US|美国|@wxgqlfx|14
       - 🇺🇸 |US|美国|@wxgqlfx|15
-      - 🇻🇳 |VN|越南|@wxgqlfx|16
+      - 🇺🇸 |US|美国|@wxgqlfx|16
       - 🇺🇸 |US|美国|@wxgqlfx|17
-      - 🇨🇳 |TW|台湾|@wxgqlfx|18
-      - 🇲🇾 |MY|马来西亚|@wxgqlfx|19
-      - ️‍🌈|UN|未知|@wxgqlfx|20
-      - 🇺🇸 |US|美国|@wxgqlfx|21
-      - 🇺🇸 |US|美国|@wxgqlfx|22
-      - 🇩🇪 |DE|德国|@wxgqlfx|23
-      - 🇳🇱 |NL|荷兰|@wxgqlfx|24
-      - 🇺🇸 |US|美国|@wxgqlfx|25
+      - 🇺🇸 |US|美国|@wxgqlfx|18
+      - 🇫🇮 |FI|芬兰|@wxgqlfx|19
+      - 🇺🇸 |US|美国|@wxgqlfx|20
+      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|21
+      - 🇰🇷 |KR|韩国|@wxgqlfx|22
+      - 🇷🇺 |RU|俄罗斯联邦|@wxgqlfx|23
+      - 🇺🇸 |US|美国|@wxgqlfx|24
+      - 🇧🇷 |BR|巴西|@wxgqlfx|25
       - 🇺🇸 |US|美国|@wxgqlfx|26
       - 🇺🇸 |US|美国|@wxgqlfx|27
-      - 🇺🇸 |US|美国|@wxgqlfx|28
+      - 🇹🇷 |TR|土耳其|@wxgqlfx|28
       - 🇺🇸 |US|美国|@wxgqlfx|29
-      - 🇺🇸 |US|美国|@wxgqlfx|30
-      - 🇺🇸 |US|美国|@wxgqlfx|31
-      - "|IQ|伊拉克|@wxgqlfx|32"
+      - 🇮🇷 |IR|伊朗|@wxgqlfx|30
+      - 🇨🇳 |TW|台湾|@wxgqlfx|31
+      - 🇺🇸 |US|美国|@wxgqlfx|32
       - 🇺🇸 |US|美国|@wxgqlfx|33
-      - 🇻🇳 |VN|越南|@wxgqlfx|34
-      - 🇫🇷 |FR|法国|@wxgqlfx|35
+      - 🇺🇸 |US|美国|@wxgqlfx|34
+      - 🇺🇸 |US|美国|@wxgqlfx|35
       - 🇺🇸 |US|美国|@wxgqlfx|36
       - 🇺🇸 |US|美国|@wxgqlfx|37
-      - 🇺🇸 |US|美国|@wxgqlfx|38
-      - ️‍🌈|UN|未知|@wxgqlfx|39
+      - 🇰🇿 |KZ|哈萨克斯坦|@wxgqlfx|38
+      - 🇺🇸 |US|美国|@wxgqlfx|39
       - 🇺🇸 |US|美国|@wxgqlfx|40
       - 🇺🇸 |US|美国|@wxgqlfx|41
       - 🇺🇸 |US|美国|@wxgqlfx|42
-      - 🇫🇷 |FR|法国|@wxgqlfx|43
+      - 🇺🇸 |US|美国|@wxgqlfx|43
       - 🇺🇸 |US|美国|@wxgqlfx|44
-      - 🇭🇰 |HK|香港|@wxgqlfx|45
-      - 🇫🇷 |FR|法国|@wxgqlfx|46
-      - 🇺🇸 |AM|亚美尼亚|@wxgqlfx|47
-      - 🇫🇷 |FR|法国|@wxgqlfx|48
-      - 🇯🇵 |JP|日本|@wxgqlfx|49
+      - 🇺🇸 |US|美国|@wxgqlfx|45
+      - 🇺🇸 |US|美国|@wxgqlfx|46
+      - 🇻🇳 |VN|越南|@wxgqlfx|47
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|48
+      - 🇺🇸 |US|美国|@wxgqlfx|49
       - 🇺🇸 |US|美国|@wxgqlfx|50
       - 🇺🇸 |US|美国|@wxgqlfx|51
-      - 🇫🇷 |FR|法国|@wxgqlfx|52
-      - 🇫🇷 |FR|法国|@wxgqlfx|53
-      - 🇫🇷 |FR|法国|@wxgqlfx|54
+      - 🇺🇸 |US|美国|@wxgqlfx|52
+      - 🇺🇸 |US|美国|@wxgqlfx|53
+      - 🇺🇸 |US|美国|@wxgqlfx|54
+      - 🇺🇸 |US|美国|@wxgqlfx|55
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|56
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|57
+      - 🇺🇸 |US|美国|@wxgqlfx|58
+      - 🇺🇸 |US|美国|@wxgqlfx|59
+      - 🇬🇧 |GB|英国|@wxgqlfx|60
+      - 🇺🇸 |US|美国|@wxgqlfx|61
+      - 🇺🇸 |US|美国|@wxgqlfx|62
+      - 🇺🇸 |US|美国|@wxgqlfx|63
+      - 🇺🇸 |US|美国|@wxgqlfx|64
+      - 🇺🇸 |US|美国|@wxgqlfx|65
+      - 🇺🇸 |US|美国|@wxgqlfx|66
+      - 🇺🇸 |US|美国|@wxgqlfx|67
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|68
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|69
+      - 🇺🇸 |US|美国|@wxgqlfx|70
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|71
+      - 🇺🇸 |US|美国|@wxgqlfx|72
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -531,67 +603,83 @@ proxy-groups:
       - 🇨🇳 github.com/freefq - 广东省广州市移动 27
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
       - 🇨🇳 github.com/freefq - 广东省广州市移动 29
-      - 🇺🇸 |US|美国|@wxgqlfx|1
+      - 🇱🇹 |LT|立陶宛|@wxgqlfx|1
       - 🇺🇸 |US|美国|@wxgqlfx|2
-      - 🇨🇳 |CN|中国|@wxgqlfx|3
+      - 🇬🇧 |GB|英国|@wxgqlfx|3
       - 🇺🇸 |US|美国|@wxgqlfx|4
-      - 🇭🇰 |HK|香港|@wxgqlfx|5
+      - 🇳🇱 |NL|荷兰|@wxgqlfx|5
       - 🇺🇸 |US|美国|@wxgqlfx|6
       - 🇺🇸 |US|美国|@wxgqlfx|7
       - 🇫🇷 |FR|法国|@wxgqlfx|8
-      - 🇺🇸 |US|美国|@wxgqlfx|9
-      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|10
-      - 🇫🇮 |FI|芬兰|@wxgqlfx|11
-      - 🇮🇷 |IR|伊朗|@wxgqlfx|12
-      - 🇺🇸 |US|美国|@wxgqlfx|13
+      - 🇮🇳 |IN|印度|@wxgqlfx|9
+      - 🇷🇺 |RU|俄罗斯联邦|@wxgqlfx|10
+      - 🇺🇸 |US|美国|@wxgqlfx|11
+      - 🇮🇳 |IN|印度|@wxgqlfx|12
+      - 🇩🇪 |DE|德国|@wxgqlfx|13
       - 🇺🇸 |US|美国|@wxgqlfx|14
       - 🇺🇸 |US|美国|@wxgqlfx|15
-      - 🇻🇳 |VN|越南|@wxgqlfx|16
+      - 🇺🇸 |US|美国|@wxgqlfx|16
       - 🇺🇸 |US|美国|@wxgqlfx|17
-      - 🇨🇳 |TW|台湾|@wxgqlfx|18
-      - 🇲🇾 |MY|马来西亚|@wxgqlfx|19
-      - ️‍🌈|UN|未知|@wxgqlfx|20
-      - 🇺🇸 |US|美国|@wxgqlfx|21
-      - 🇺🇸 |US|美国|@wxgqlfx|22
-      - 🇩🇪 |DE|德国|@wxgqlfx|23
-      - 🇳🇱 |NL|荷兰|@wxgqlfx|24
-      - 🇺🇸 |US|美国|@wxgqlfx|25
+      - 🇺🇸 |US|美国|@wxgqlfx|18
+      - 🇫🇮 |FI|芬兰|@wxgqlfx|19
+      - 🇺🇸 |US|美国|@wxgqlfx|20
+      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|21
+      - 🇰🇷 |KR|韩国|@wxgqlfx|22
+      - 🇷🇺 |RU|俄罗斯联邦|@wxgqlfx|23
+      - 🇺🇸 |US|美国|@wxgqlfx|24
+      - 🇧🇷 |BR|巴西|@wxgqlfx|25
       - 🇺🇸 |US|美国|@wxgqlfx|26
       - 🇺🇸 |US|美国|@wxgqlfx|27
-      - 🇺🇸 |US|美国|@wxgqlfx|28
+      - 🇹🇷 |TR|土耳其|@wxgqlfx|28
       - 🇺🇸 |US|美国|@wxgqlfx|29
-      - 🇺🇸 |US|美国|@wxgqlfx|30
-      - 🇺🇸 |US|美国|@wxgqlfx|31
-      - "|IQ|伊拉克|@wxgqlfx|32"
+      - 🇮🇷 |IR|伊朗|@wxgqlfx|30
+      - 🇨🇳 |TW|台湾|@wxgqlfx|31
+      - 🇺🇸 |US|美国|@wxgqlfx|32
       - 🇺🇸 |US|美国|@wxgqlfx|33
-      - 🇻🇳 |VN|越南|@wxgqlfx|34
-      - 🇫🇷 |FR|法国|@wxgqlfx|35
+      - 🇺🇸 |US|美国|@wxgqlfx|34
+      - 🇺🇸 |US|美国|@wxgqlfx|35
       - 🇺🇸 |US|美国|@wxgqlfx|36
       - 🇺🇸 |US|美国|@wxgqlfx|37
-      - 🇺🇸 |US|美国|@wxgqlfx|38
-      - ️‍🌈|UN|未知|@wxgqlfx|39
+      - 🇰🇿 |KZ|哈萨克斯坦|@wxgqlfx|38
+      - 🇺🇸 |US|美国|@wxgqlfx|39
       - 🇺🇸 |US|美国|@wxgqlfx|40
       - 🇺🇸 |US|美国|@wxgqlfx|41
       - 🇺🇸 |US|美国|@wxgqlfx|42
-      - 🇫🇷 |FR|法国|@wxgqlfx|43
+      - 🇺🇸 |US|美国|@wxgqlfx|43
       - 🇺🇸 |US|美国|@wxgqlfx|44
-      - 🇭🇰 |HK|香港|@wxgqlfx|45
-      - 🇫🇷 |FR|法国|@wxgqlfx|46
-      - 🇺🇸 |AM|亚美尼亚|@wxgqlfx|47
-      - 🇫🇷 |FR|法国|@wxgqlfx|48
-      - 🇯🇵 |JP|日本|@wxgqlfx|49
+      - 🇺🇸 |US|美国|@wxgqlfx|45
+      - 🇺🇸 |US|美国|@wxgqlfx|46
+      - 🇻🇳 |VN|越南|@wxgqlfx|47
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|48
+      - 🇺🇸 |US|美国|@wxgqlfx|49
       - 🇺🇸 |US|美国|@wxgqlfx|50
       - 🇺🇸 |US|美国|@wxgqlfx|51
-      - 🇫🇷 |FR|法国|@wxgqlfx|52
-      - 🇫🇷 |FR|法国|@wxgqlfx|53
-      - 🇫🇷 |FR|法国|@wxgqlfx|54
+      - 🇺🇸 |US|美国|@wxgqlfx|52
+      - 🇺🇸 |US|美国|@wxgqlfx|53
+      - 🇺🇸 |US|美国|@wxgqlfx|54
+      - 🇺🇸 |US|美国|@wxgqlfx|55
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|56
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|57
+      - 🇺🇸 |US|美国|@wxgqlfx|58
+      - 🇺🇸 |US|美国|@wxgqlfx|59
+      - 🇬🇧 |GB|英国|@wxgqlfx|60
+      - 🇺🇸 |US|美国|@wxgqlfx|61
+      - 🇺🇸 |US|美国|@wxgqlfx|62
+      - 🇺🇸 |US|美国|@wxgqlfx|63
+      - 🇺🇸 |US|美国|@wxgqlfx|64
+      - 🇺🇸 |US|美国|@wxgqlfx|65
+      - 🇺🇸 |US|美国|@wxgqlfx|66
+      - 🇺🇸 |US|美国|@wxgqlfx|67
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|68
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|69
+      - 🇺🇸 |US|美国|@wxgqlfx|70
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|71
+      - 🇺🇸 |US|美国|@wxgqlfx|72
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇭🇰 |HK|香港|@wxgqlfx|5
-      - 🇨🇳 |TW|台湾|@wxgqlfx|18
-      - 🇭🇰 |HK|香港|@wxgqlfx|45
+      - 🇨🇳 |TW|台湾|@wxgqlfx|31
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -650,60 +738,78 @@ proxy-groups:
       - 🇨🇳 github.com/freefq - 广东省广州市移动 27
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
       - 🇨🇳 github.com/freefq - 广东省广州市移动 29
-      - 🇺🇸 |US|美国|@wxgqlfx|1
+      - 🇱🇹 |LT|立陶宛|@wxgqlfx|1
       - 🇺🇸 |US|美国|@wxgqlfx|2
-      - 🇨🇳 |CN|中国|@wxgqlfx|3
+      - 🇬🇧 |GB|英国|@wxgqlfx|3
       - 🇺🇸 |US|美国|@wxgqlfx|4
-      - 🇭🇰 |HK|香港|@wxgqlfx|5
+      - 🇳🇱 |NL|荷兰|@wxgqlfx|5
       - 🇺🇸 |US|美国|@wxgqlfx|6
       - 🇺🇸 |US|美国|@wxgqlfx|7
       - 🇫🇷 |FR|法国|@wxgqlfx|8
-      - 🇺🇸 |US|美国|@wxgqlfx|9
-      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|10
-      - 🇫🇮 |FI|芬兰|@wxgqlfx|11
-      - 🇮🇷 |IR|伊朗|@wxgqlfx|12
-      - 🇺🇸 |US|美国|@wxgqlfx|13
+      - 🇮🇳 |IN|印度|@wxgqlfx|9
+      - 🇷🇺 |RU|俄罗斯联邦|@wxgqlfx|10
+      - 🇺🇸 |US|美国|@wxgqlfx|11
+      - 🇮🇳 |IN|印度|@wxgqlfx|12
+      - 🇩🇪 |DE|德国|@wxgqlfx|13
       - 🇺🇸 |US|美国|@wxgqlfx|14
       - 🇺🇸 |US|美国|@wxgqlfx|15
-      - 🇻🇳 |VN|越南|@wxgqlfx|16
+      - 🇺🇸 |US|美国|@wxgqlfx|16
       - 🇺🇸 |US|美国|@wxgqlfx|17
-      - 🇨🇳 |TW|台湾|@wxgqlfx|18
-      - 🇲🇾 |MY|马来西亚|@wxgqlfx|19
-      - ️‍🌈|UN|未知|@wxgqlfx|20
-      - 🇺🇸 |US|美国|@wxgqlfx|21
-      - 🇺🇸 |US|美国|@wxgqlfx|22
-      - 🇩🇪 |DE|德国|@wxgqlfx|23
-      - 🇳🇱 |NL|荷兰|@wxgqlfx|24
-      - 🇺🇸 |US|美国|@wxgqlfx|25
+      - 🇺🇸 |US|美国|@wxgqlfx|18
+      - 🇫🇮 |FI|芬兰|@wxgqlfx|19
+      - 🇺🇸 |US|美国|@wxgqlfx|20
+      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|21
+      - 🇰🇷 |KR|韩国|@wxgqlfx|22
+      - 🇷🇺 |RU|俄罗斯联邦|@wxgqlfx|23
+      - 🇺🇸 |US|美国|@wxgqlfx|24
+      - 🇧🇷 |BR|巴西|@wxgqlfx|25
       - 🇺🇸 |US|美国|@wxgqlfx|26
       - 🇺🇸 |US|美国|@wxgqlfx|27
-      - 🇺🇸 |US|美国|@wxgqlfx|28
+      - 🇹🇷 |TR|土耳其|@wxgqlfx|28
       - 🇺🇸 |US|美国|@wxgqlfx|29
-      - 🇺🇸 |US|美国|@wxgqlfx|30
-      - 🇺🇸 |US|美国|@wxgqlfx|31
-      - "|IQ|伊拉克|@wxgqlfx|32"
+      - 🇮🇷 |IR|伊朗|@wxgqlfx|30
+      - 🇨🇳 |TW|台湾|@wxgqlfx|31
+      - 🇺🇸 |US|美国|@wxgqlfx|32
       - 🇺🇸 |US|美国|@wxgqlfx|33
-      - 🇻🇳 |VN|越南|@wxgqlfx|34
-      - 🇫🇷 |FR|法国|@wxgqlfx|35
+      - 🇺🇸 |US|美国|@wxgqlfx|34
+      - 🇺🇸 |US|美国|@wxgqlfx|35
       - 🇺🇸 |US|美国|@wxgqlfx|36
       - 🇺🇸 |US|美国|@wxgqlfx|37
-      - 🇺🇸 |US|美国|@wxgqlfx|38
-      - ️‍🌈|UN|未知|@wxgqlfx|39
+      - 🇰🇿 |KZ|哈萨克斯坦|@wxgqlfx|38
+      - 🇺🇸 |US|美国|@wxgqlfx|39
       - 🇺🇸 |US|美国|@wxgqlfx|40
       - 🇺🇸 |US|美国|@wxgqlfx|41
       - 🇺🇸 |US|美国|@wxgqlfx|42
-      - 🇫🇷 |FR|法国|@wxgqlfx|43
+      - 🇺🇸 |US|美国|@wxgqlfx|43
       - 🇺🇸 |US|美国|@wxgqlfx|44
-      - 🇭🇰 |HK|香港|@wxgqlfx|45
-      - 🇫🇷 |FR|法国|@wxgqlfx|46
-      - 🇺🇸 |AM|亚美尼亚|@wxgqlfx|47
-      - 🇫🇷 |FR|法国|@wxgqlfx|48
-      - 🇯🇵 |JP|日本|@wxgqlfx|49
+      - 🇺🇸 |US|美国|@wxgqlfx|45
+      - 🇺🇸 |US|美国|@wxgqlfx|46
+      - 🇻🇳 |VN|越南|@wxgqlfx|47
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|48
+      - 🇺🇸 |US|美国|@wxgqlfx|49
       - 🇺🇸 |US|美国|@wxgqlfx|50
       - 🇺🇸 |US|美国|@wxgqlfx|51
-      - 🇫🇷 |FR|法国|@wxgqlfx|52
-      - 🇫🇷 |FR|法国|@wxgqlfx|53
-      - 🇫🇷 |FR|法国|@wxgqlfx|54
+      - 🇺🇸 |US|美国|@wxgqlfx|52
+      - 🇺🇸 |US|美国|@wxgqlfx|53
+      - 🇺🇸 |US|美国|@wxgqlfx|54
+      - 🇺🇸 |US|美国|@wxgqlfx|55
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|56
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|57
+      - 🇺🇸 |US|美国|@wxgqlfx|58
+      - 🇺🇸 |US|美国|@wxgqlfx|59
+      - 🇬🇧 |GB|英国|@wxgqlfx|60
+      - 🇺🇸 |US|美国|@wxgqlfx|61
+      - 🇺🇸 |US|美国|@wxgqlfx|62
+      - 🇺🇸 |US|美国|@wxgqlfx|63
+      - 🇺🇸 |US|美国|@wxgqlfx|64
+      - 🇺🇸 |US|美国|@wxgqlfx|65
+      - 🇺🇸 |US|美国|@wxgqlfx|66
+      - 🇺🇸 |US|美国|@wxgqlfx|67
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|68
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|69
+      - 🇺🇸 |US|美国|@wxgqlfx|70
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|71
+      - 🇺🇸 |US|美国|@wxgqlfx|72
   - name: 📲 电报信息
     type: select
     proxies:
@@ -761,60 +867,78 @@ proxy-groups:
       - 🇨🇳 github.com/freefq - 广东省广州市移动 27
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
       - 🇨🇳 github.com/freefq - 广东省广州市移动 29
-      - 🇺🇸 |US|美国|@wxgqlfx|1
+      - 🇱🇹 |LT|立陶宛|@wxgqlfx|1
       - 🇺🇸 |US|美国|@wxgqlfx|2
-      - 🇨🇳 |CN|中国|@wxgqlfx|3
+      - 🇬🇧 |GB|英国|@wxgqlfx|3
       - 🇺🇸 |US|美国|@wxgqlfx|4
-      - 🇭🇰 |HK|香港|@wxgqlfx|5
+      - 🇳🇱 |NL|荷兰|@wxgqlfx|5
       - 🇺🇸 |US|美国|@wxgqlfx|6
       - 🇺🇸 |US|美国|@wxgqlfx|7
       - 🇫🇷 |FR|法国|@wxgqlfx|8
-      - 🇺🇸 |US|美国|@wxgqlfx|9
-      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|10
-      - 🇫🇮 |FI|芬兰|@wxgqlfx|11
-      - 🇮🇷 |IR|伊朗|@wxgqlfx|12
-      - 🇺🇸 |US|美国|@wxgqlfx|13
+      - 🇮🇳 |IN|印度|@wxgqlfx|9
+      - 🇷🇺 |RU|俄罗斯联邦|@wxgqlfx|10
+      - 🇺🇸 |US|美国|@wxgqlfx|11
+      - 🇮🇳 |IN|印度|@wxgqlfx|12
+      - 🇩🇪 |DE|德国|@wxgqlfx|13
       - 🇺🇸 |US|美国|@wxgqlfx|14
       - 🇺🇸 |US|美国|@wxgqlfx|15
-      - 🇻🇳 |VN|越南|@wxgqlfx|16
+      - 🇺🇸 |US|美国|@wxgqlfx|16
       - 🇺🇸 |US|美国|@wxgqlfx|17
-      - 🇨🇳 |TW|台湾|@wxgqlfx|18
-      - 🇲🇾 |MY|马来西亚|@wxgqlfx|19
-      - ️‍🌈|UN|未知|@wxgqlfx|20
-      - 🇺🇸 |US|美国|@wxgqlfx|21
-      - 🇺🇸 |US|美国|@wxgqlfx|22
-      - 🇩🇪 |DE|德国|@wxgqlfx|23
-      - 🇳🇱 |NL|荷兰|@wxgqlfx|24
-      - 🇺🇸 |US|美国|@wxgqlfx|25
+      - 🇺🇸 |US|美国|@wxgqlfx|18
+      - 🇫🇮 |FI|芬兰|@wxgqlfx|19
+      - 🇺🇸 |US|美国|@wxgqlfx|20
+      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|21
+      - 🇰🇷 |KR|韩国|@wxgqlfx|22
+      - 🇷🇺 |RU|俄罗斯联邦|@wxgqlfx|23
+      - 🇺🇸 |US|美国|@wxgqlfx|24
+      - 🇧🇷 |BR|巴西|@wxgqlfx|25
       - 🇺🇸 |US|美国|@wxgqlfx|26
       - 🇺🇸 |US|美国|@wxgqlfx|27
-      - 🇺🇸 |US|美国|@wxgqlfx|28
+      - 🇹🇷 |TR|土耳其|@wxgqlfx|28
       - 🇺🇸 |US|美国|@wxgqlfx|29
-      - 🇺🇸 |US|美国|@wxgqlfx|30
-      - 🇺🇸 |US|美国|@wxgqlfx|31
-      - "|IQ|伊拉克|@wxgqlfx|32"
+      - 🇮🇷 |IR|伊朗|@wxgqlfx|30
+      - 🇨🇳 |TW|台湾|@wxgqlfx|31
+      - 🇺🇸 |US|美国|@wxgqlfx|32
       - 🇺🇸 |US|美国|@wxgqlfx|33
-      - 🇻🇳 |VN|越南|@wxgqlfx|34
-      - 🇫🇷 |FR|法国|@wxgqlfx|35
+      - 🇺🇸 |US|美国|@wxgqlfx|34
+      - 🇺🇸 |US|美国|@wxgqlfx|35
       - 🇺🇸 |US|美国|@wxgqlfx|36
       - 🇺🇸 |US|美国|@wxgqlfx|37
-      - 🇺🇸 |US|美国|@wxgqlfx|38
-      - ️‍🌈|UN|未知|@wxgqlfx|39
+      - 🇰🇿 |KZ|哈萨克斯坦|@wxgqlfx|38
+      - 🇺🇸 |US|美国|@wxgqlfx|39
       - 🇺🇸 |US|美国|@wxgqlfx|40
       - 🇺🇸 |US|美国|@wxgqlfx|41
       - 🇺🇸 |US|美国|@wxgqlfx|42
-      - 🇫🇷 |FR|法国|@wxgqlfx|43
+      - 🇺🇸 |US|美国|@wxgqlfx|43
       - 🇺🇸 |US|美国|@wxgqlfx|44
-      - 🇭🇰 |HK|香港|@wxgqlfx|45
-      - 🇫🇷 |FR|法国|@wxgqlfx|46
-      - 🇺🇸 |AM|亚美尼亚|@wxgqlfx|47
-      - 🇫🇷 |FR|法国|@wxgqlfx|48
-      - 🇯🇵 |JP|日本|@wxgqlfx|49
+      - 🇺🇸 |US|美国|@wxgqlfx|45
+      - 🇺🇸 |US|美国|@wxgqlfx|46
+      - 🇻🇳 |VN|越南|@wxgqlfx|47
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|48
+      - 🇺🇸 |US|美国|@wxgqlfx|49
       - 🇺🇸 |US|美国|@wxgqlfx|50
       - 🇺🇸 |US|美国|@wxgqlfx|51
-      - 🇫🇷 |FR|法国|@wxgqlfx|52
-      - 🇫🇷 |FR|法国|@wxgqlfx|53
-      - 🇫🇷 |FR|法国|@wxgqlfx|54
+      - 🇺🇸 |US|美国|@wxgqlfx|52
+      - 🇺🇸 |US|美国|@wxgqlfx|53
+      - 🇺🇸 |US|美国|@wxgqlfx|54
+      - 🇺🇸 |US|美国|@wxgqlfx|55
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|56
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|57
+      - 🇺🇸 |US|美国|@wxgqlfx|58
+      - 🇺🇸 |US|美国|@wxgqlfx|59
+      - 🇬🇧 |GB|英国|@wxgqlfx|60
+      - 🇺🇸 |US|美国|@wxgqlfx|61
+      - 🇺🇸 |US|美国|@wxgqlfx|62
+      - 🇺🇸 |US|美国|@wxgqlfx|63
+      - 🇺🇸 |US|美国|@wxgqlfx|64
+      - 🇺🇸 |US|美国|@wxgqlfx|65
+      - 🇺🇸 |US|美国|@wxgqlfx|66
+      - 🇺🇸 |US|美国|@wxgqlfx|67
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|68
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|69
+      - 🇺🇸 |US|美国|@wxgqlfx|70
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|71
+      - 🇺🇸 |US|美国|@wxgqlfx|72
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -873,60 +997,78 @@ proxy-groups:
       - 🇨🇳 github.com/freefq - 广东省广州市移动 27
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
       - 🇨🇳 github.com/freefq - 广东省广州市移动 29
-      - 🇺🇸 |US|美国|@wxgqlfx|1
+      - 🇱🇹 |LT|立陶宛|@wxgqlfx|1
       - 🇺🇸 |US|美国|@wxgqlfx|2
-      - 🇨🇳 |CN|中国|@wxgqlfx|3
+      - 🇬🇧 |GB|英国|@wxgqlfx|3
       - 🇺🇸 |US|美国|@wxgqlfx|4
-      - 🇭🇰 |HK|香港|@wxgqlfx|5
+      - 🇳🇱 |NL|荷兰|@wxgqlfx|5
       - 🇺🇸 |US|美国|@wxgqlfx|6
       - 🇺🇸 |US|美国|@wxgqlfx|7
       - 🇫🇷 |FR|法国|@wxgqlfx|8
-      - 🇺🇸 |US|美国|@wxgqlfx|9
-      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|10
-      - 🇫🇮 |FI|芬兰|@wxgqlfx|11
-      - 🇮🇷 |IR|伊朗|@wxgqlfx|12
-      - 🇺🇸 |US|美国|@wxgqlfx|13
+      - 🇮🇳 |IN|印度|@wxgqlfx|9
+      - 🇷🇺 |RU|俄罗斯联邦|@wxgqlfx|10
+      - 🇺🇸 |US|美国|@wxgqlfx|11
+      - 🇮🇳 |IN|印度|@wxgqlfx|12
+      - 🇩🇪 |DE|德国|@wxgqlfx|13
       - 🇺🇸 |US|美国|@wxgqlfx|14
       - 🇺🇸 |US|美国|@wxgqlfx|15
-      - 🇻🇳 |VN|越南|@wxgqlfx|16
+      - 🇺🇸 |US|美国|@wxgqlfx|16
       - 🇺🇸 |US|美国|@wxgqlfx|17
-      - 🇨🇳 |TW|台湾|@wxgqlfx|18
-      - 🇲🇾 |MY|马来西亚|@wxgqlfx|19
-      - ️‍🌈|UN|未知|@wxgqlfx|20
-      - 🇺🇸 |US|美国|@wxgqlfx|21
-      - 🇺🇸 |US|美国|@wxgqlfx|22
-      - 🇩🇪 |DE|德国|@wxgqlfx|23
-      - 🇳🇱 |NL|荷兰|@wxgqlfx|24
-      - 🇺🇸 |US|美国|@wxgqlfx|25
+      - 🇺🇸 |US|美国|@wxgqlfx|18
+      - 🇫🇮 |FI|芬兰|@wxgqlfx|19
+      - 🇺🇸 |US|美国|@wxgqlfx|20
+      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|21
+      - 🇰🇷 |KR|韩国|@wxgqlfx|22
+      - 🇷🇺 |RU|俄罗斯联邦|@wxgqlfx|23
+      - 🇺🇸 |US|美国|@wxgqlfx|24
+      - 🇧🇷 |BR|巴西|@wxgqlfx|25
       - 🇺🇸 |US|美国|@wxgqlfx|26
       - 🇺🇸 |US|美国|@wxgqlfx|27
-      - 🇺🇸 |US|美国|@wxgqlfx|28
+      - 🇹🇷 |TR|土耳其|@wxgqlfx|28
       - 🇺🇸 |US|美国|@wxgqlfx|29
-      - 🇺🇸 |US|美国|@wxgqlfx|30
-      - 🇺🇸 |US|美国|@wxgqlfx|31
-      - "|IQ|伊拉克|@wxgqlfx|32"
+      - 🇮🇷 |IR|伊朗|@wxgqlfx|30
+      - 🇨🇳 |TW|台湾|@wxgqlfx|31
+      - 🇺🇸 |US|美国|@wxgqlfx|32
       - 🇺🇸 |US|美国|@wxgqlfx|33
-      - 🇻🇳 |VN|越南|@wxgqlfx|34
-      - 🇫🇷 |FR|法国|@wxgqlfx|35
+      - 🇺🇸 |US|美国|@wxgqlfx|34
+      - 🇺🇸 |US|美国|@wxgqlfx|35
       - 🇺🇸 |US|美国|@wxgqlfx|36
       - 🇺🇸 |US|美国|@wxgqlfx|37
-      - 🇺🇸 |US|美国|@wxgqlfx|38
-      - ️‍🌈|UN|未知|@wxgqlfx|39
+      - 🇰🇿 |KZ|哈萨克斯坦|@wxgqlfx|38
+      - 🇺🇸 |US|美国|@wxgqlfx|39
       - 🇺🇸 |US|美国|@wxgqlfx|40
       - 🇺🇸 |US|美国|@wxgqlfx|41
       - 🇺🇸 |US|美国|@wxgqlfx|42
-      - 🇫🇷 |FR|法国|@wxgqlfx|43
+      - 🇺🇸 |US|美国|@wxgqlfx|43
       - 🇺🇸 |US|美国|@wxgqlfx|44
-      - 🇭🇰 |HK|香港|@wxgqlfx|45
-      - 🇫🇷 |FR|法国|@wxgqlfx|46
-      - 🇺🇸 |AM|亚美尼亚|@wxgqlfx|47
-      - 🇫🇷 |FR|法国|@wxgqlfx|48
-      - 🇯🇵 |JP|日本|@wxgqlfx|49
+      - 🇺🇸 |US|美国|@wxgqlfx|45
+      - 🇺🇸 |US|美国|@wxgqlfx|46
+      - 🇻🇳 |VN|越南|@wxgqlfx|47
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|48
+      - 🇺🇸 |US|美国|@wxgqlfx|49
       - 🇺🇸 |US|美国|@wxgqlfx|50
       - 🇺🇸 |US|美国|@wxgqlfx|51
-      - 🇫🇷 |FR|法国|@wxgqlfx|52
-      - 🇫🇷 |FR|法国|@wxgqlfx|53
-      - 🇫🇷 |FR|法国|@wxgqlfx|54
+      - 🇺🇸 |US|美国|@wxgqlfx|52
+      - 🇺🇸 |US|美国|@wxgqlfx|53
+      - 🇺🇸 |US|美国|@wxgqlfx|54
+      - 🇺🇸 |US|美国|@wxgqlfx|55
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|56
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|57
+      - 🇺🇸 |US|美国|@wxgqlfx|58
+      - 🇺🇸 |US|美国|@wxgqlfx|59
+      - 🇬🇧 |GB|英国|@wxgqlfx|60
+      - 🇺🇸 |US|美国|@wxgqlfx|61
+      - 🇺🇸 |US|美国|@wxgqlfx|62
+      - 🇺🇸 |US|美国|@wxgqlfx|63
+      - 🇺🇸 |US|美国|@wxgqlfx|64
+      - 🇺🇸 |US|美国|@wxgqlfx|65
+      - 🇺🇸 |US|美国|@wxgqlfx|66
+      - 🇺🇸 |US|美国|@wxgqlfx|67
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|68
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|69
+      - 🇺🇸 |US|美国|@wxgqlfx|70
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|71
+      - 🇺🇸 |US|美国|@wxgqlfx|72
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -994,60 +1136,78 @@ proxy-groups:
       - 🇨🇳 github.com/freefq - 广东省广州市移动 27
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
       - 🇨🇳 github.com/freefq - 广东省广州市移动 29
-      - 🇺🇸 |US|美国|@wxgqlfx|1
+      - 🇱🇹 |LT|立陶宛|@wxgqlfx|1
       - 🇺🇸 |US|美国|@wxgqlfx|2
-      - 🇨🇳 |CN|中国|@wxgqlfx|3
+      - 🇬🇧 |GB|英国|@wxgqlfx|3
       - 🇺🇸 |US|美国|@wxgqlfx|4
-      - 🇭🇰 |HK|香港|@wxgqlfx|5
+      - 🇳🇱 |NL|荷兰|@wxgqlfx|5
       - 🇺🇸 |US|美国|@wxgqlfx|6
       - 🇺🇸 |US|美国|@wxgqlfx|7
       - 🇫🇷 |FR|法国|@wxgqlfx|8
-      - 🇺🇸 |US|美国|@wxgqlfx|9
-      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|10
-      - 🇫🇮 |FI|芬兰|@wxgqlfx|11
-      - 🇮🇷 |IR|伊朗|@wxgqlfx|12
-      - 🇺🇸 |US|美国|@wxgqlfx|13
+      - 🇮🇳 |IN|印度|@wxgqlfx|9
+      - 🇷🇺 |RU|俄罗斯联邦|@wxgqlfx|10
+      - 🇺🇸 |US|美国|@wxgqlfx|11
+      - 🇮🇳 |IN|印度|@wxgqlfx|12
+      - 🇩🇪 |DE|德国|@wxgqlfx|13
       - 🇺🇸 |US|美国|@wxgqlfx|14
       - 🇺🇸 |US|美国|@wxgqlfx|15
-      - 🇻🇳 |VN|越南|@wxgqlfx|16
+      - 🇺🇸 |US|美国|@wxgqlfx|16
       - 🇺🇸 |US|美国|@wxgqlfx|17
-      - 🇨🇳 |TW|台湾|@wxgqlfx|18
-      - 🇲🇾 |MY|马来西亚|@wxgqlfx|19
-      - ️‍🌈|UN|未知|@wxgqlfx|20
-      - 🇺🇸 |US|美国|@wxgqlfx|21
-      - 🇺🇸 |US|美国|@wxgqlfx|22
-      - 🇩🇪 |DE|德国|@wxgqlfx|23
-      - 🇳🇱 |NL|荷兰|@wxgqlfx|24
-      - 🇺🇸 |US|美国|@wxgqlfx|25
+      - 🇺🇸 |US|美国|@wxgqlfx|18
+      - 🇫🇮 |FI|芬兰|@wxgqlfx|19
+      - 🇺🇸 |US|美国|@wxgqlfx|20
+      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|21
+      - 🇰🇷 |KR|韩国|@wxgqlfx|22
+      - 🇷🇺 |RU|俄罗斯联邦|@wxgqlfx|23
+      - 🇺🇸 |US|美国|@wxgqlfx|24
+      - 🇧🇷 |BR|巴西|@wxgqlfx|25
       - 🇺🇸 |US|美国|@wxgqlfx|26
       - 🇺🇸 |US|美国|@wxgqlfx|27
-      - 🇺🇸 |US|美国|@wxgqlfx|28
+      - 🇹🇷 |TR|土耳其|@wxgqlfx|28
       - 🇺🇸 |US|美国|@wxgqlfx|29
-      - 🇺🇸 |US|美国|@wxgqlfx|30
-      - 🇺🇸 |US|美国|@wxgqlfx|31
-      - "|IQ|伊拉克|@wxgqlfx|32"
+      - 🇮🇷 |IR|伊朗|@wxgqlfx|30
+      - 🇨🇳 |TW|台湾|@wxgqlfx|31
+      - 🇺🇸 |US|美国|@wxgqlfx|32
       - 🇺🇸 |US|美国|@wxgqlfx|33
-      - 🇻🇳 |VN|越南|@wxgqlfx|34
-      - 🇫🇷 |FR|法国|@wxgqlfx|35
+      - 🇺🇸 |US|美国|@wxgqlfx|34
+      - 🇺🇸 |US|美国|@wxgqlfx|35
       - 🇺🇸 |US|美国|@wxgqlfx|36
       - 🇺🇸 |US|美国|@wxgqlfx|37
-      - 🇺🇸 |US|美国|@wxgqlfx|38
-      - ️‍🌈|UN|未知|@wxgqlfx|39
+      - 🇰🇿 |KZ|哈萨克斯坦|@wxgqlfx|38
+      - 🇺🇸 |US|美国|@wxgqlfx|39
       - 🇺🇸 |US|美国|@wxgqlfx|40
       - 🇺🇸 |US|美国|@wxgqlfx|41
       - 🇺🇸 |US|美国|@wxgqlfx|42
-      - 🇫🇷 |FR|法国|@wxgqlfx|43
+      - 🇺🇸 |US|美国|@wxgqlfx|43
       - 🇺🇸 |US|美国|@wxgqlfx|44
-      - 🇭🇰 |HK|香港|@wxgqlfx|45
-      - 🇫🇷 |FR|法国|@wxgqlfx|46
-      - 🇺🇸 |AM|亚美尼亚|@wxgqlfx|47
-      - 🇫🇷 |FR|法国|@wxgqlfx|48
-      - 🇯🇵 |JP|日本|@wxgqlfx|49
+      - 🇺🇸 |US|美国|@wxgqlfx|45
+      - 🇺🇸 |US|美国|@wxgqlfx|46
+      - 🇻🇳 |VN|越南|@wxgqlfx|47
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|48
+      - 🇺🇸 |US|美国|@wxgqlfx|49
       - 🇺🇸 |US|美国|@wxgqlfx|50
       - 🇺🇸 |US|美国|@wxgqlfx|51
-      - 🇫🇷 |FR|法国|@wxgqlfx|52
-      - 🇫🇷 |FR|法国|@wxgqlfx|53
-      - 🇫🇷 |FR|法国|@wxgqlfx|54
+      - 🇺🇸 |US|美国|@wxgqlfx|52
+      - 🇺🇸 |US|美国|@wxgqlfx|53
+      - 🇺🇸 |US|美国|@wxgqlfx|54
+      - 🇺🇸 |US|美国|@wxgqlfx|55
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|56
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|57
+      - 🇺🇸 |US|美国|@wxgqlfx|58
+      - 🇺🇸 |US|美国|@wxgqlfx|59
+      - 🇬🇧 |GB|英国|@wxgqlfx|60
+      - 🇺🇸 |US|美国|@wxgqlfx|61
+      - 🇺🇸 |US|美国|@wxgqlfx|62
+      - 🇺🇸 |US|美国|@wxgqlfx|63
+      - 🇺🇸 |US|美国|@wxgqlfx|64
+      - 🇺🇸 |US|美国|@wxgqlfx|65
+      - 🇺🇸 |US|美国|@wxgqlfx|66
+      - 🇺🇸 |US|美国|@wxgqlfx|67
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|68
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|69
+      - 🇺🇸 |US|美国|@wxgqlfx|70
+      - 🇨🇿 |CZ|捷克|@wxgqlfx|71
+      - 🇺🇸 |US|美国|@wxgqlfx|72
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
