@@ -43,14 +43,22 @@ proxies:
   - {name: 频道96@wxgqlfx, server: 67.21.84.216, port: 47088, type: vmess, uuid: b9a305a9-1ff2-4ec1-b338-933555833baa, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 频道97@wxgqlfx, server: 64.32.4.34, port: 43166, type: vmess, uuid: 8653004f-de67-44c2-9cce-e0830933fb03, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 频道107@wxgqlfx, server: 199.19.104.124, port: 32221, type: vmess, uuid: 9ba7e62a-379a-4bfc-84f3-3712bfb78ba0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 1, server: nb24.ntbq.dynu.net, port: 443, type: vmess, uuid: 14327f86-7734-4d5b-9561-b58ad95cbcfb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b24, headers: {Host: nb24.ntbq.dynu.net}}, udp: true}
-  - {name: github.com/freefq - 广西河池市联通 2, server: yes.cnmjcn.net, port: 16616, type: vmess, uuid: c2c76420-257f-492a-b20f-6560f3bfa78d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: d4d028243c73047d9171bacb9b0439e8.mobgslb.tbcache.com}}, udp: true}
-  - {name: github.com/freefq - 湖南省联通 3, server: t.cnmjcn.cyou, port: 16616, type: vmess, uuid: c2c76420-257f-492a-b20f-6560f3bfa78d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: d4d028243c73047d9171bacb9b0439e8.mobgslb.tbcache.com}}, udp: true}
-  - {name: 🇨🇳 github.com/freefq - 广东省广州市移动 4, server: service.ouluyun9803.com, port: 26668, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123, udp: true}
-  - {name: 🇨🇳 github.com/freefq - 广东省广州市移动 5, server: service.ouluyun9803.com, port: 26666, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123, udp: true}
-  - {name: 🇨🇦 github.com/freefq - 加拿大  6, server: 142.202.48.43, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: 🇨🇳 github.com/freefq - 广东省广州市移动 7, server: service.ouluyun9803.com, port: 20001, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 8, server: us-02.jikuai.xyz, port: 2082, type: vmess, uuid: 70666776-4e9f-4350-b3f0-afaff6a70db0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-02.jikuai.xyz}}, udp: true}
+  - {name: 🇷🇺 github.com/freefq - 俄罗斯  1, server: 91.194.161.7, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: OWJlYjYy, udp: true}
+  - {name: 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 2, server: b11.ntbq.dynu.net, port: 443, type: vmess, uuid: 14327f86-7734-4d5b-9561-b58ad95cbcfb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b11, headers: {Host: b11.ntbq.dynu.net}}, udp: true}
+  - {name: 🇨🇳 github.com/freefq - 广东省广州市移动 3, server: service.ouluyun9803.com, port: 26666, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国  4, server: 146.190.108.95, port: 30976, type: vmess, uuid: d2a14469-8e8e-44da-8001-7864bd3f7121, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: m.licdn.com}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 5, server: 190.93.246.119, port: 80, type: vmess, uuid: b7fdc31a-3f0b-45f1-aa0e-d5d883ac5c4e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /QUeMEWutZAndOVVMwhRJqh28, headers: {Host: m.iranspeed.shop}}, udp: true}
+  - {name: github.com/freefq - 湖南省联通 6, server: t.cnmjcn.cyou, port: 16616, type: vmess, uuid: c2c76420-257f-492a-b20f-6560f3bfa78d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: d4d028243c73047d9171bacb9b0439e8.mobgslb.tbcache.com}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 7, server: us-new04.gujuji.top, port: 8080, type: vmess, uuid: 0954bb8c-2e67-4fda-afde-aa5a98529fb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new04.gujuji.top}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 8, server: amini2.ddns.net, port: 2083, type: vmess, uuid: 9e9b80f1-5555-4f7d-a209-d23b9d9dc047, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: PAneljadid.mookoMEilz.homes, network: ws, ws-opts: {path: /snsk, headers: {Host: PAneljadid.mookoMEilz.homes}}, udp: true}
+  - {name: github.com/freefq - 湖南省联通 9, server: yes.cnmjcn.net, port: 16616, type: vmess, uuid: c2c76420-257f-492a-b20f-6560f3bfa78d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: d4d028243c73047d9171bacb9b0439e8.mobgslb.tbcache.com}}, udp: true}
+  - {name: 🇨🇳 github.com/freefq - 广东省广州市移动 10, server: service.ouluyun9803.com, port: 20001, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123, udp: true}
+  - {name: 🇨🇳 github.com/freefq - 广东省广州市移动 11, server: service.ouluyun9803.com, port: 26668, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123, udp: true}
+  - {name: 🇷🇺 github.com/freefq - 俄罗斯  12, server: 185.231.205.80, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: MGQwNTgw, udp: true}
+  - {name: 🇨🇳 github.com/freefq - 台湾省新北市中华电信 13, server: nb24.ntbq.dynu.net, port: 443, type: vmess, uuid: 14327f86-7734-4d5b-9561-b58ad95cbcfb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b24, headers: {Host: nb24.ntbq.dynu.net}}, udp: true}
+  - {name: 🇨🇦 github.com/freefq - 加拿大  14, server: 142.202.48.43, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: 🇨🇦 github.com/freefq - 加拿大  15, server: 142.202.48.43, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16, server: us-02.jikuai.xyz, port: 2082, type: vmess, uuid: 70666776-4e9f-4350-b3f0-afaff6a70db0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-02.jikuai.xyz}}, udp: true}
   - {name: 🇨🇦 |CA|加拿大|@wxgqlfx|1, server: 129.153.60.217, port: 22554, type: ss, cipher: chacha20-ietf-poly1305, password: ca251797-991d-4159-9980-98eecd4a76e8, udp: true}
   - {name: 🇺🇸 |US|美国|@wxgqlfx|2, server: 162.159.141.214, port: 2082, type: vmess, uuid: fe823d74-fa7e-4dc1-b16b-480bc201a153, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg_cdn.yunjisuan.cf}}, udp: true}
   - {name: 🇺🇸 |US|美国|@wxgqlfx|3, server: 162.159.129.244, port: 2082, type: vmess, uuid: fe823d74-fa7e-4dc1-b16b-480bc201a153, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg_cdn.yunjisuan.cf}}, udp: true}
@@ -104,14 +112,22 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 1
-      - github.com/freefq - 广西河池市联通 2
-      - github.com/freefq - 湖南省联通 3
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 4
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 5
-      - 🇨🇦 github.com/freefq - 加拿大  6
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 7
+      - 🇷🇺 github.com/freefq - 俄罗斯  1
+      - 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 2
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 3
+      - 🇺🇸 github.com/freefq - 美国  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 5
+      - github.com/freefq - 湖南省联通 6
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 7
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - github.com/freefq - 湖南省联通 9
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 10
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 11
+      - 🇷🇺 github.com/freefq - 俄罗斯  12
+      - 🇨🇳 github.com/freefq - 台湾省新北市中华电信 13
+      - 🇨🇦 github.com/freefq - 加拿大  14
+      - 🇨🇦 github.com/freefq - 加拿大  15
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
       - 🇨🇦 |CA|加拿大|@wxgqlfx|1
       - 🇺🇸 |US|美国|@wxgqlfx|2
       - 🇺🇸 |US|美国|@wxgqlfx|3
@@ -164,14 +180,22 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 1
-      - github.com/freefq - 广西河池市联通 2
-      - github.com/freefq - 湖南省联通 3
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 4
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 5
-      - 🇨🇦 github.com/freefq - 加拿大  6
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 7
+      - 🇷🇺 github.com/freefq - 俄罗斯  1
+      - 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 2
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 3
+      - 🇺🇸 github.com/freefq - 美国  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 5
+      - github.com/freefq - 湖南省联通 6
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 7
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - github.com/freefq - 湖南省联通 9
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 10
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 11
+      - 🇷🇺 github.com/freefq - 俄罗斯  12
+      - 🇨🇳 github.com/freefq - 台湾省新北市中华电信 13
+      - 🇨🇦 github.com/freefq - 加拿大  14
+      - 🇨🇦 github.com/freefq - 加拿大  15
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
       - 🇨🇦 |CA|加拿大|@wxgqlfx|1
       - 🇺🇸 |US|美国|@wxgqlfx|2
       - 🇺🇸 |US|美国|@wxgqlfx|3
@@ -225,14 +249,22 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 1
-      - github.com/freefq - 广西河池市联通 2
-      - github.com/freefq - 湖南省联通 3
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 4
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 5
-      - 🇨🇦 github.com/freefq - 加拿大  6
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 7
+      - 🇷🇺 github.com/freefq - 俄罗斯  1
+      - 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 2
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 3
+      - 🇺🇸 github.com/freefq - 美国  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 5
+      - github.com/freefq - 湖南省联通 6
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 7
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - github.com/freefq - 湖南省联通 9
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 10
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 11
+      - 🇷🇺 github.com/freefq - 俄罗斯  12
+      - 🇨🇳 github.com/freefq - 台湾省新北市中华电信 13
+      - 🇨🇦 github.com/freefq - 加拿大  14
+      - 🇨🇦 github.com/freefq - 加拿大  15
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
       - 🇨🇦 |CA|加拿大|@wxgqlfx|1
       - 🇺🇸 |US|美国|@wxgqlfx|2
       - 🇺🇸 |US|美国|@wxgqlfx|3
@@ -298,14 +330,22 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 1
-      - github.com/freefq - 广西河池市联通 2
-      - github.com/freefq - 湖南省联通 3
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 4
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 5
-      - 🇨🇦 github.com/freefq - 加拿大  6
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 7
+      - 🇷🇺 github.com/freefq - 俄罗斯  1
+      - 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 2
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 3
+      - 🇺🇸 github.com/freefq - 美国  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 5
+      - github.com/freefq - 湖南省联通 6
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 7
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - github.com/freefq - 湖南省联通 9
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 10
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 11
+      - 🇷🇺 github.com/freefq - 俄罗斯  12
+      - 🇨🇳 github.com/freefq - 台湾省新北市中华电信 13
+      - 🇨🇦 github.com/freefq - 加拿大  14
+      - 🇨🇦 github.com/freefq - 加拿大  15
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
       - 🇨🇦 |CA|加拿大|@wxgqlfx|1
       - 🇺🇸 |US|美国|@wxgqlfx|2
       - 🇺🇸 |US|美国|@wxgqlfx|3
@@ -334,7 +374,8 @@ proxy-groups:
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 1
+      - 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 2
+      - 🇨🇳 github.com/freefq - 台湾省新北市中华电信 13
       - 🇨🇳 |TW|台湾|@wxgqlfx|18
       - 🇭🇰 |HK|香港|@wxgqlfx|20
       - 🇭🇰 |HK|香港|@wxgqlfx|21
@@ -367,14 +408,22 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 1
-      - github.com/freefq - 广西河池市联通 2
-      - github.com/freefq - 湖南省联通 3
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 4
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 5
-      - 🇨🇦 github.com/freefq - 加拿大  6
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 7
+      - 🇷🇺 github.com/freefq - 俄罗斯  1
+      - 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 2
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 3
+      - 🇺🇸 github.com/freefq - 美国  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 5
+      - github.com/freefq - 湖南省联通 6
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 7
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - github.com/freefq - 湖南省联通 9
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 10
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 11
+      - 🇷🇺 github.com/freefq - 俄罗斯  12
+      - 🇨🇳 github.com/freefq - 台湾省新北市中华电信 13
+      - 🇨🇦 github.com/freefq - 加拿大  14
+      - 🇨🇦 github.com/freefq - 加拿大  15
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
       - 🇨🇦 |CA|加拿大|@wxgqlfx|1
       - 🇺🇸 |US|美国|@wxgqlfx|2
       - 🇺🇸 |US|美国|@wxgqlfx|3
@@ -427,14 +476,22 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 1
-      - github.com/freefq - 广西河池市联通 2
-      - github.com/freefq - 湖南省联通 3
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 4
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 5
-      - 🇨🇦 github.com/freefq - 加拿大  6
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 7
+      - 🇷🇺 github.com/freefq - 俄罗斯  1
+      - 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 2
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 3
+      - 🇺🇸 github.com/freefq - 美国  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 5
+      - github.com/freefq - 湖南省联通 6
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 7
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - github.com/freefq - 湖南省联通 9
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 10
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 11
+      - 🇷🇺 github.com/freefq - 俄罗斯  12
+      - 🇨🇳 github.com/freefq - 台湾省新北市中华电信 13
+      - 🇨🇦 github.com/freefq - 加拿大  14
+      - 🇨🇦 github.com/freefq - 加拿大  15
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
       - 🇨🇦 |CA|加拿大|@wxgqlfx|1
       - 🇺🇸 |US|美国|@wxgqlfx|2
       - 🇺🇸 |US|美国|@wxgqlfx|3
@@ -488,14 +545,22 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 1
-      - github.com/freefq - 广西河池市联通 2
-      - github.com/freefq - 湖南省联通 3
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 4
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 5
-      - 🇨🇦 github.com/freefq - 加拿大  6
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 7
+      - 🇷🇺 github.com/freefq - 俄罗斯  1
+      - 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 2
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 3
+      - 🇺🇸 github.com/freefq - 美国  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 5
+      - github.com/freefq - 湖南省联通 6
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 7
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - github.com/freefq - 湖南省联通 9
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 10
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 11
+      - 🇷🇺 github.com/freefq - 俄罗斯  12
+      - 🇨🇳 github.com/freefq - 台湾省新北市中华电信 13
+      - 🇨🇦 github.com/freefq - 加拿大  14
+      - 🇨🇦 github.com/freefq - 加拿大  15
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
       - 🇨🇦 |CA|加拿大|@wxgqlfx|1
       - 🇺🇸 |US|美国|@wxgqlfx|2
       - 🇺🇸 |US|美国|@wxgqlfx|3
@@ -558,14 +623,22 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 1
-      - github.com/freefq - 广西河池市联通 2
-      - github.com/freefq - 湖南省联通 3
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 4
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 5
-      - 🇨🇦 github.com/freefq - 加拿大  6
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 7
+      - 🇷🇺 github.com/freefq - 俄罗斯  1
+      - 🇨🇳 github.com/freefq - 台湾省中华电信(HiNet)数据中心 2
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 3
+      - 🇺🇸 github.com/freefq - 美国  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 5
+      - github.com/freefq - 湖南省联通 6
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 7
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - github.com/freefq - 湖南省联通 9
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 10
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 11
+      - 🇷🇺 github.com/freefq - 俄罗斯  12
+      - 🇨🇳 github.com/freefq - 台湾省新北市中华电信 13
+      - 🇨🇦 github.com/freefq - 加拿大  14
+      - 🇨🇦 github.com/freefq - 加拿大  15
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 16
       - 🇨🇦 |CA|加拿大|@wxgqlfx|1
       - 🇺🇸 |US|美国|@wxgqlfx|2
       - 🇺🇸 |US|美国|@wxgqlfx|3
