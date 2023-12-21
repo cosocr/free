@@ -43,37 +43,31 @@ proxies:
   - {name: 频道96@wxgqlfx, server: 67.21.84.216, port: 47088, type: vmess, uuid: b9a305a9-1ff2-4ec1-b338-933555833baa, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 频道97@wxgqlfx, server: 64.32.4.34, port: 43166, type: vmess, uuid: 8653004f-de67-44c2-9cce-e0830933fb03, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 频道107@wxgqlfx, server: 199.19.104.124, port: 32221, type: vmess, uuid: 9ba7e62a-379a-4bfc-84f3-3712bfb78ba0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国亚特兰大 1, server: tw01.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
-  - {name: 🇦🇺 github.com/freefq - 澳大利亚  2, server: 140.83.60.8, port: 50202, type: vmess, uuid: 7cc09d57-2ca7-47f2-a502-81926a72ed47, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: microsoft.com}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国Microsoft数据中心 3, server: hk02.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国Microsoft数据中心 4, server: tw02.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国Microsoft数据中心 5, server: us01.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国Microsoft数据中心 6, server: in01.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国  7, server: 172.99.190.109, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8, server: 104.31.16.0, port: 2086, type: vmess, uuid: de9b2f5b-f81b-4b1b-b754-f666a65ba54c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/wss2086?ed=2048", headers: {Host: www.irayanconfig.ir}}, udp: true}
-  - {name: 🇮🇷 github.com/freefq - 伊朗  9, server: ser52.gsmxssh.com, port: 17588, type: vmess, uuid: 5d0b61a0-64fc-4a9f-e4bc-50ecdbc37623, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: github.com/freefq - 欧盟  10, server: 45.87.153.246, port: 6199, type: ss, cipher: chacha20-ietf-poly1305, password: f7EI0dGWQM42T8gwN9CZIj, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国Microsoft数据中心 11, server: de01.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12, server: cp2.colacloud.site, port: 80, type: vmess, uuid: b9bb8b7d-188a-444a-ba12-6b9f61958b23, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-krrs.colacloud.site}}, udp: true}
-  - {name: 🇳🇱 github.com/freefq - 荷兰  13, server: 46.182.107.15, port: 30000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, servername: www.42077230.xyz, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇷🇺 github.com/freefq - 俄罗斯  14, server: 185.231.205.80, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: MGQwNTgw, udp: true}
-  - {name: 🇨🇳 github.com/freefq - 北京市电信互联网数据交换中心 15, server: hexsen.com, port: 443, type: vmess, uuid: de04add9-5c68-8bab-950c-08cd5320df18, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: "/argo-vmess?ed=2048", headers: {Host: us.king361.cf}}, udp: true}
-  - {name: github.com/freefq - 广东省移动 16, server: 120.233.43.37, port: 52629, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: github.com/freefq - 湖北省武汉市移动 17, server: m.cnmjcn.com, port: 16616, type: vmess, uuid: c2c76420-257f-492a-b20f-6560f3bfa78d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: d4d028243c73047d9171bacb9b0439e8.mobgslb.tbcache.com}}, udp: true}
-  - {name: 🇳🇱 github.com/freefq - 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 18, server: 45.58.153.25, port: 30000, type: vmess, uuid: 4242f9e0-6b7e-4257-9e93-7ad38015c46a, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, servername: www.77935707.xyz, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇸🇬 github.com/freefq - 新加坡Amazon数据中心 19, server: hk2.c8898496-adb6-4073-9ee4-ff4e4984415b.polycdn.com, port: 80, type: vmess, uuid: da89a49f-3a20-4de1-94b9-06690121e926, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hk2.c8898496-adb6-4073-9ee4-ff4e4984415b.polycdn.com}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 20, server: us-02.jikuai.xyz, port: 2082, type: vmess, uuid: 70666776-4e9f-4350-b3f0-afaff6a70db0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-02.jikuai.xyz}}, udp: true}
-  - {name: github.com/freefq - 四川省联通数据上网公共出口 21, server: yes.cnmjcn.net, port: 16616, type: vmess, uuid: c2c76420-257f-492a-b20f-6560f3bfa78d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: d4d028243c73047d9171bacb9b0439e8.mobgslb.tbcache.com}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国Microsoft数据中心 22, server: hk03.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国Microsoft数据中心 23, server: sg01.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国Microsoft数据中心 24, server: my02.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国Microsoft数据中心 25, server: hk04.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国亚特兰大 26, server: uk01.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 27, server: tl.iranray.online, port: 8080, type: vmess, uuid: b3c20911-126d-4c30-bd32-10152bf0b593, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tl.iranray.online}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 28, server: cf-lt.sharecentre.online, port: 80, type: vmess, uuid: b1e30339-a603-47d1-b31c-1d0ceb59952e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v004.ssrsub.com}}, udp: true}
-  - {name: github.com/freefq - 乌克兰  29, server: 193.238.153.14, port: 8443, type: vmess, uuid: 159693e0-5146-482d-9e46-8c4f2fc865b1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国Microsoft数据中心 30, server: sk01.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国亚特兰大 31, server: ru01.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国亚特兰大 1, server: hk03.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 github.com/freefq - 香港Microsoft数据中心 2, server: sk01.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国Microsoft数据中心 3, server: sg01.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国Microsoft数据中心 4, server: hk04.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
+  - {name: github.com/freefq - 欧盟  5, server: 45.87.153.246, port: 6199, type: ss, cipher: chacha20-ietf-poly1305, password: f7EI0dGWQM42T8gwN9CZIj, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国亚特兰大 6, server: my02.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国  7, server: 64.110.74.197, port: 22050, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kr123.yydsii.com}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国  8, server: 172.99.190.109, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国亚特兰大 9, server: uk01.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国亚特兰大 10, server: ru01.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11, server: 104.18.203.232, port: 2086, type: vmess, uuid: 99da24c8-ac6e-418c-d889-a9167cf312da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: me.fox-is.monster}}, udp: true}
+  - {name: github.com/freefq - 四川省联通数据上网公共出口 12, server: yes.cnmjcn.net, port: 16616, type: vmess, uuid: c2c76420-257f-492a-b20f-6560f3bfa78d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: d4d028243c73047d9171bacb9b0439e8.mobgslb.tbcache.com}}, udp: true}
+  - {name: github.com/freefq - 广东省移动 13, server: 120.233.43.37, port: 52629, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 github.com/freefq - 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 14, server: 45.58.153.25, port: 30000, type: vmess, uuid: 4242f9e0-6b7e-4257-9e93-7ad38015c46a, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, servername: www.77935707.xyz, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 15, server: cf.openxai.link, port: 8080, type: vmess, uuid: e2695bd0-945f-4476-aac5-0e37bcdbd7fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: eu5.openxai.link}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国  16, server: kr123.yydsii.com, port: 22050, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kr123.yydsii.com}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国亚特兰大 17, server: in01.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 github.com/freefq - 香港Microsoft数据中心 18, server: de01.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
+  - {name: github.com/freefq - 乌克兰  19, server: 193.238.153.14, port: 8443, type: vmess, uuid: 159693e0-5146-482d-9e46-8c4f2fc865b1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+  - {name: github.com/freefq - 广东省移动 20, server: m.cnmjcn.com, port: 16616, type: vmess, uuid: c2c76420-257f-492a-b20f-6560f3bfa78d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: d4d028243c73047d9171bacb9b0439e8.mobgslb.tbcache.com}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国Microsoft数据中心 21, server: tw02.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国亚特兰大 22, server: tw01.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国Microsoft数据中心 23, server: us01.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 24, server: cf-lt.sharecentre.online, port: 80, type: vmess, uuid: b1e30339-a603-47d1-b31c-1d0ceb59952e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v004.ssrsub.com}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国亚特兰大 25, server: hk02.trojanyyds.xyz, port: 443, type: trojan, password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce, skip-cert-verify: true, udp: true}
   - {name: 🇰🇷 |KR|韩国|@wxgqlfx|1, server: 193.123.236.30, port: 52752, type: vmess, uuid: 7cc09d57-2ca7-47f2-a502-81926a72ed47, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048"}, udp: true}
   - {name: 🇨🇳 |CN|中国|@wxgqlfx|2, server: 40482af75ca3348e.cdn.jiashule.com, port: 38996, type: vmess, uuid: 99d28262-d171-460b-93dc-8556e001233b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 |HK|香港|@wxgqlfx|3, server: download1hkt.windowsupdatea.com, port: 443, type: trojan, password: e0ca72b2-eb7c-4498-b05e-28a3681bacbf, sni: glc-hkt1.windowsupdatea.com, skip-cert-verify: true, udp: true}
@@ -169,36 +163,30 @@ proxy-groups:
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
       - 🇺🇸 github.com/freefq - 美国亚特兰大 1
-      - 🇦🇺 github.com/freefq - 澳大利亚  2
+      - 🇭🇰 github.com/freefq - 香港Microsoft数据中心 2
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 3
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 4
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 5
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 6
+      - github.com/freefq - 欧盟  5
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 6
       - 🇺🇸 github.com/freefq - 美国  7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
-      - 🇮🇷 github.com/freefq - 伊朗  9
-      - github.com/freefq - 欧盟  10
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 11
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
-      - 🇳🇱 github.com/freefq - 荷兰  13
-      - 🇷🇺 github.com/freefq - 俄罗斯  14
-      - 🇨🇳 github.com/freefq - 北京市电信互联网数据交换中心 15
-      - github.com/freefq - 广东省移动 16
-      - github.com/freefq - 湖北省武汉市移动 17
-      - 🇳🇱 github.com/freefq - 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 18
-      - 🇸🇬 github.com/freefq - 新加坡Amazon数据中心 19
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 20
-      - github.com/freefq - 四川省联通数据上网公共出口 21
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 22
+      - 🇺🇸 github.com/freefq - 美国  8
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 9
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 10
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
+      - github.com/freefq - 四川省联通数据上网公共出口 12
+      - github.com/freefq - 广东省移动 13
+      - 🇳🇱 github.com/freefq - 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 14
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 15
+      - 🇺🇸 github.com/freefq - 美国  16
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 17
+      - 🇭🇰 github.com/freefq - 香港Microsoft数据中心 18
+      - github.com/freefq - 乌克兰  19
+      - github.com/freefq - 广东省移动 20
+      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 21
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 22
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 23
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 24
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 25
-      - 🇺🇸 github.com/freefq - 美国亚特兰大 26
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 27
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
-      - github.com/freefq - 乌克兰  29
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 30
-      - 🇺🇸 github.com/freefq - 美国亚特兰大 31
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 24
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 25
       - 🇰🇷 |KR|韩国|@wxgqlfx|1
       - 🇨🇳 |CN|中国|@wxgqlfx|2
       - 🇭🇰 |HK|香港|@wxgqlfx|3
@@ -293,36 +281,30 @@ proxy-groups:
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
       - 🇺🇸 github.com/freefq - 美国亚特兰大 1
-      - 🇦🇺 github.com/freefq - 澳大利亚  2
+      - 🇭🇰 github.com/freefq - 香港Microsoft数据中心 2
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 3
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 4
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 5
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 6
+      - github.com/freefq - 欧盟  5
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 6
       - 🇺🇸 github.com/freefq - 美国  7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
-      - 🇮🇷 github.com/freefq - 伊朗  9
-      - github.com/freefq - 欧盟  10
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 11
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
-      - 🇳🇱 github.com/freefq - 荷兰  13
-      - 🇷🇺 github.com/freefq - 俄罗斯  14
-      - 🇨🇳 github.com/freefq - 北京市电信互联网数据交换中心 15
-      - github.com/freefq - 广东省移动 16
-      - github.com/freefq - 湖北省武汉市移动 17
-      - 🇳🇱 github.com/freefq - 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 18
-      - 🇸🇬 github.com/freefq - 新加坡Amazon数据中心 19
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 20
-      - github.com/freefq - 四川省联通数据上网公共出口 21
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 22
+      - 🇺🇸 github.com/freefq - 美国  8
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 9
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 10
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
+      - github.com/freefq - 四川省联通数据上网公共出口 12
+      - github.com/freefq - 广东省移动 13
+      - 🇳🇱 github.com/freefq - 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 14
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 15
+      - 🇺🇸 github.com/freefq - 美国  16
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 17
+      - 🇭🇰 github.com/freefq - 香港Microsoft数据中心 18
+      - github.com/freefq - 乌克兰  19
+      - github.com/freefq - 广东省移动 20
+      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 21
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 22
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 23
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 24
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 25
-      - 🇺🇸 github.com/freefq - 美国亚特兰大 26
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 27
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
-      - github.com/freefq - 乌克兰  29
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 30
-      - 🇺🇸 github.com/freefq - 美国亚特兰大 31
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 24
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 25
       - 🇰🇷 |KR|韩国|@wxgqlfx|1
       - 🇨🇳 |CN|中国|@wxgqlfx|2
       - 🇭🇰 |HK|香港|@wxgqlfx|3
@@ -418,36 +400,30 @@ proxy-groups:
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
       - 🇺🇸 github.com/freefq - 美国亚特兰大 1
-      - 🇦🇺 github.com/freefq - 澳大利亚  2
+      - 🇭🇰 github.com/freefq - 香港Microsoft数据中心 2
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 3
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 4
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 5
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 6
+      - github.com/freefq - 欧盟  5
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 6
       - 🇺🇸 github.com/freefq - 美国  7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
-      - 🇮🇷 github.com/freefq - 伊朗  9
-      - github.com/freefq - 欧盟  10
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 11
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
-      - 🇳🇱 github.com/freefq - 荷兰  13
-      - 🇷🇺 github.com/freefq - 俄罗斯  14
-      - 🇨🇳 github.com/freefq - 北京市电信互联网数据交换中心 15
-      - github.com/freefq - 广东省移动 16
-      - github.com/freefq - 湖北省武汉市移动 17
-      - 🇳🇱 github.com/freefq - 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 18
-      - 🇸🇬 github.com/freefq - 新加坡Amazon数据中心 19
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 20
-      - github.com/freefq - 四川省联通数据上网公共出口 21
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 22
+      - 🇺🇸 github.com/freefq - 美国  8
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 9
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 10
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
+      - github.com/freefq - 四川省联通数据上网公共出口 12
+      - github.com/freefq - 广东省移动 13
+      - 🇳🇱 github.com/freefq - 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 14
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 15
+      - 🇺🇸 github.com/freefq - 美国  16
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 17
+      - 🇭🇰 github.com/freefq - 香港Microsoft数据中心 18
+      - github.com/freefq - 乌克兰  19
+      - github.com/freefq - 广东省移动 20
+      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 21
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 22
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 23
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 24
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 25
-      - 🇺🇸 github.com/freefq - 美国亚特兰大 26
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 27
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
-      - github.com/freefq - 乌克兰  29
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 30
-      - 🇺🇸 github.com/freefq - 美国亚特兰大 31
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 24
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 25
       - 🇰🇷 |KR|韩国|@wxgqlfx|1
       - 🇨🇳 |CN|中国|@wxgqlfx|2
       - 🇭🇰 |HK|香港|@wxgqlfx|3
@@ -555,36 +531,30 @@ proxy-groups:
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
       - 🇺🇸 github.com/freefq - 美国亚特兰大 1
-      - 🇦🇺 github.com/freefq - 澳大利亚  2
+      - 🇭🇰 github.com/freefq - 香港Microsoft数据中心 2
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 3
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 4
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 5
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 6
+      - github.com/freefq - 欧盟  5
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 6
       - 🇺🇸 github.com/freefq - 美国  7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
-      - 🇮🇷 github.com/freefq - 伊朗  9
-      - github.com/freefq - 欧盟  10
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 11
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
-      - 🇳🇱 github.com/freefq - 荷兰  13
-      - 🇷🇺 github.com/freefq - 俄罗斯  14
-      - 🇨🇳 github.com/freefq - 北京市电信互联网数据交换中心 15
-      - github.com/freefq - 广东省移动 16
-      - github.com/freefq - 湖北省武汉市移动 17
-      - 🇳🇱 github.com/freefq - 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 18
-      - 🇸🇬 github.com/freefq - 新加坡Amazon数据中心 19
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 20
-      - github.com/freefq - 四川省联通数据上网公共出口 21
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 22
+      - 🇺🇸 github.com/freefq - 美国  8
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 9
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 10
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
+      - github.com/freefq - 四川省联通数据上网公共出口 12
+      - github.com/freefq - 广东省移动 13
+      - 🇳🇱 github.com/freefq - 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 14
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 15
+      - 🇺🇸 github.com/freefq - 美国  16
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 17
+      - 🇭🇰 github.com/freefq - 香港Microsoft数据中心 18
+      - github.com/freefq - 乌克兰  19
+      - github.com/freefq - 广东省移动 20
+      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 21
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 22
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 23
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 24
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 25
-      - 🇺🇸 github.com/freefq - 美国亚特兰大 26
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 27
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
-      - github.com/freefq - 乌克兰  29
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 30
-      - 🇺🇸 github.com/freefq - 美国亚特兰大 31
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 24
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 25
       - 🇰🇷 |KR|韩国|@wxgqlfx|1
       - 🇨🇳 |CN|中国|@wxgqlfx|2
       - 🇭🇰 |HK|香港|@wxgqlfx|3
@@ -654,6 +624,8 @@ proxy-groups:
     type: select
     proxies:
       - 🎯 全球直连
+      - 🇭🇰 github.com/freefq - 香港Microsoft数据中心 2
+      - 🇭🇰 github.com/freefq - 香港Microsoft数据中心 18
       - 🇭🇰 |HK|香港|@wxgqlfx|3
       - 🇨🇳 |TW|台湾|@wxgqlfx|4
       - 🇭🇰 |HK|香港|@wxgqlfx|54
@@ -688,36 +660,30 @@ proxy-groups:
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
       - 🇺🇸 github.com/freefq - 美国亚特兰大 1
-      - 🇦🇺 github.com/freefq - 澳大利亚  2
+      - 🇭🇰 github.com/freefq - 香港Microsoft数据中心 2
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 3
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 4
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 5
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 6
+      - github.com/freefq - 欧盟  5
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 6
       - 🇺🇸 github.com/freefq - 美国  7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
-      - 🇮🇷 github.com/freefq - 伊朗  9
-      - github.com/freefq - 欧盟  10
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 11
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
-      - 🇳🇱 github.com/freefq - 荷兰  13
-      - 🇷🇺 github.com/freefq - 俄罗斯  14
-      - 🇨🇳 github.com/freefq - 北京市电信互联网数据交换中心 15
-      - github.com/freefq - 广东省移动 16
-      - github.com/freefq - 湖北省武汉市移动 17
-      - 🇳🇱 github.com/freefq - 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 18
-      - 🇸🇬 github.com/freefq - 新加坡Amazon数据中心 19
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 20
-      - github.com/freefq - 四川省联通数据上网公共出口 21
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 22
+      - 🇺🇸 github.com/freefq - 美国  8
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 9
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 10
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
+      - github.com/freefq - 四川省联通数据上网公共出口 12
+      - github.com/freefq - 广东省移动 13
+      - 🇳🇱 github.com/freefq - 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 14
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 15
+      - 🇺🇸 github.com/freefq - 美国  16
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 17
+      - 🇭🇰 github.com/freefq - 香港Microsoft数据中心 18
+      - github.com/freefq - 乌克兰  19
+      - github.com/freefq - 广东省移动 20
+      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 21
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 22
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 23
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 24
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 25
-      - 🇺🇸 github.com/freefq - 美国亚特兰大 26
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 27
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
-      - github.com/freefq - 乌克兰  29
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 30
-      - 🇺🇸 github.com/freefq - 美国亚特兰大 31
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 24
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 25
       - 🇰🇷 |KR|韩国|@wxgqlfx|1
       - 🇨🇳 |CN|中国|@wxgqlfx|2
       - 🇭🇰 |HK|香港|@wxgqlfx|3
@@ -812,36 +778,30 @@ proxy-groups:
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
       - 🇺🇸 github.com/freefq - 美国亚特兰大 1
-      - 🇦🇺 github.com/freefq - 澳大利亚  2
+      - 🇭🇰 github.com/freefq - 香港Microsoft数据中心 2
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 3
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 4
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 5
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 6
+      - github.com/freefq - 欧盟  5
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 6
       - 🇺🇸 github.com/freefq - 美国  7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
-      - 🇮🇷 github.com/freefq - 伊朗  9
-      - github.com/freefq - 欧盟  10
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 11
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
-      - 🇳🇱 github.com/freefq - 荷兰  13
-      - 🇷🇺 github.com/freefq - 俄罗斯  14
-      - 🇨🇳 github.com/freefq - 北京市电信互联网数据交换中心 15
-      - github.com/freefq - 广东省移动 16
-      - github.com/freefq - 湖北省武汉市移动 17
-      - 🇳🇱 github.com/freefq - 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 18
-      - 🇸🇬 github.com/freefq - 新加坡Amazon数据中心 19
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 20
-      - github.com/freefq - 四川省联通数据上网公共出口 21
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 22
+      - 🇺🇸 github.com/freefq - 美国  8
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 9
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 10
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
+      - github.com/freefq - 四川省联通数据上网公共出口 12
+      - github.com/freefq - 广东省移动 13
+      - 🇳🇱 github.com/freefq - 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 14
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 15
+      - 🇺🇸 github.com/freefq - 美国  16
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 17
+      - 🇭🇰 github.com/freefq - 香港Microsoft数据中心 18
+      - github.com/freefq - 乌克兰  19
+      - github.com/freefq - 广东省移动 20
+      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 21
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 22
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 23
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 24
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 25
-      - 🇺🇸 github.com/freefq - 美国亚特兰大 26
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 27
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
-      - github.com/freefq - 乌克兰  29
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 30
-      - 🇺🇸 github.com/freefq - 美国亚特兰大 31
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 24
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 25
       - 🇰🇷 |KR|韩国|@wxgqlfx|1
       - 🇨🇳 |CN|中国|@wxgqlfx|2
       - 🇭🇰 |HK|香港|@wxgqlfx|3
@@ -937,36 +897,30 @@ proxy-groups:
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
       - 🇺🇸 github.com/freefq - 美国亚特兰大 1
-      - 🇦🇺 github.com/freefq - 澳大利亚  2
+      - 🇭🇰 github.com/freefq - 香港Microsoft数据中心 2
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 3
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 4
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 5
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 6
+      - github.com/freefq - 欧盟  5
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 6
       - 🇺🇸 github.com/freefq - 美国  7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
-      - 🇮🇷 github.com/freefq - 伊朗  9
-      - github.com/freefq - 欧盟  10
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 11
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
-      - 🇳🇱 github.com/freefq - 荷兰  13
-      - 🇷🇺 github.com/freefq - 俄罗斯  14
-      - 🇨🇳 github.com/freefq - 北京市电信互联网数据交换中心 15
-      - github.com/freefq - 广东省移动 16
-      - github.com/freefq - 湖北省武汉市移动 17
-      - 🇳🇱 github.com/freefq - 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 18
-      - 🇸🇬 github.com/freefq - 新加坡Amazon数据中心 19
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 20
-      - github.com/freefq - 四川省联通数据上网公共出口 21
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 22
+      - 🇺🇸 github.com/freefq - 美国  8
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 9
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 10
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
+      - github.com/freefq - 四川省联通数据上网公共出口 12
+      - github.com/freefq - 广东省移动 13
+      - 🇳🇱 github.com/freefq - 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 14
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 15
+      - 🇺🇸 github.com/freefq - 美国  16
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 17
+      - 🇭🇰 github.com/freefq - 香港Microsoft数据中心 18
+      - github.com/freefq - 乌克兰  19
+      - github.com/freefq - 广东省移动 20
+      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 21
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 22
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 23
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 24
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 25
-      - 🇺🇸 github.com/freefq - 美国亚特兰大 26
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 27
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
-      - github.com/freefq - 乌克兰  29
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 30
-      - 🇺🇸 github.com/freefq - 美国亚特兰大 31
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 24
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 25
       - 🇰🇷 |KR|韩国|@wxgqlfx|1
       - 🇨🇳 |CN|中国|@wxgqlfx|2
       - 🇭🇰 |HK|香港|@wxgqlfx|3
@@ -1071,36 +1025,30 @@ proxy-groups:
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
       - 🇺🇸 github.com/freefq - 美国亚特兰大 1
-      - 🇦🇺 github.com/freefq - 澳大利亚  2
+      - 🇭🇰 github.com/freefq - 香港Microsoft数据中心 2
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 3
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 4
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 5
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 6
+      - github.com/freefq - 欧盟  5
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 6
       - 🇺🇸 github.com/freefq - 美国  7
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 8
-      - 🇮🇷 github.com/freefq - 伊朗  9
-      - github.com/freefq - 欧盟  10
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 11
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 12
-      - 🇳🇱 github.com/freefq - 荷兰  13
-      - 🇷🇺 github.com/freefq - 俄罗斯  14
-      - 🇨🇳 github.com/freefq - 北京市电信互联网数据交换中心 15
-      - github.com/freefq - 广东省移动 16
-      - github.com/freefq - 湖北省武汉市移动 17
-      - 🇳🇱 github.com/freefq - 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 18
-      - 🇸🇬 github.com/freefq - 新加坡Amazon数据中心 19
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 20
-      - github.com/freefq - 四川省联通数据上网公共出口 21
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 22
+      - 🇺🇸 github.com/freefq - 美国  8
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 9
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 10
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11
+      - github.com/freefq - 四川省联通数据上网公共出口 12
+      - github.com/freefq - 广东省移动 13
+      - 🇳🇱 github.com/freefq - 荷兰北荷兰省阿姆斯特丹Sharktech数据中心 14
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 15
+      - 🇺🇸 github.com/freefq - 美国  16
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 17
+      - 🇭🇰 github.com/freefq - 香港Microsoft数据中心 18
+      - github.com/freefq - 乌克兰  19
+      - github.com/freefq - 广东省移动 20
+      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 21
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 22
       - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 23
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 24
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 25
-      - 🇺🇸 github.com/freefq - 美国亚特兰大 26
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 27
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 28
-      - github.com/freefq - 乌克兰  29
-      - 🇺🇸 github.com/freefq - 美国Microsoft数据中心 30
-      - 🇺🇸 github.com/freefq - 美国亚特兰大 31
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 24
+      - 🇺🇸 github.com/freefq - 美国亚特兰大 25
       - 🇰🇷 |KR|韩国|@wxgqlfx|1
       - 🇨🇳 |CN|中国|@wxgqlfx|2
       - 🇭🇰 |HK|香港|@wxgqlfx|3
