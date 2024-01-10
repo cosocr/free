@@ -43,12 +43,17 @@ proxies:
   - {name: 频道96@wxgqlfx, server: 67.21.84.216, port: 47088, type: vmess, uuid: b9a305a9-1ff2-4ec1-b338-933555833baa, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 频道97@wxgqlfx, server: 64.32.4.34, port: 43166, type: vmess, uuid: 8653004f-de67-44c2-9cce-e0830933fb03, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 频道107@wxgqlfx, server: 199.19.104.124, port: 32221, type: vmess, uuid: 9ba7e62a-379a-4bfc-84f3-3712bfb78ba0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国华盛顿州西雅图市亚马逊(Amazon)公司数据中心 1, server: series-a2-me.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, udp: true}
-  - {name: 🇨🇳 github.com/freefq - 台湾省彰化县中华电信 2, server: 61.224.107.28, port: 81, type: ss, cipher: aes-128-gcm, password: oiwym4ovI4Yb, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 3, server: 172.67.217.144, port: 80, type: vmess, uuid: 85674552-ce41-44d9-bb2a-50f76450b3d8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: lv1.xv2ray.net}}, udp: true}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 4, server: 104.17.2.183, port: 80, type: vmess, uuid: f256a3ae-0f85-4a1d-d0cd-2d0b4b73f4f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: v3ra3do.wakeuptimerap.shop}}, udp: true}
-  - {name: github.com/freefq - 浙江省移动 5, server: data-us-v1.shwjfkw.cn, port: 20401, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /debian, headers: {Host: data-us-v1.shwjfkw.cn}}, udp: true}
-  - {name: 🇨🇳 github.com/freefq - 广东省广州市移动 6, server: service.ouluyun9803.com, port: 50005, type: ss, cipher: chacha20-ietf-poly1305, password: 7f821ff8-2ef2-4433-b810-f0ce77fd5491, udp: true}
+  - {name: 🇬🇧 github.com/freefq - 英国  1, server: 145.239.6.202, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 2, server: 104.17.184.241, port: 80, type: vmess, uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg_cdn.yunjisuan.cf}}, udp: true}
+  - {name: 🇷🇸 github.com/freefq - 塞尔维亚  3, server: 89.23.86.189, port: 59492, type: vmess, uuid: 3cd1a2f0-499f-4eb0-862a-cdd0ecd821c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /imzcc, headers: {Host: dm.imzcc.com}}, udp: true}
+  - {name: 🇻🇳 github.com/freefq - 越南  4, server: data1hn3.shopvpn4g.vn, port: 80, type: vmess, uuid: dbbf9558-b938-478e-a51c-d7fb6b283535, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dt1shopvpn4g, headers: {Host: Lienquan.garena.vn}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 5, server: 104.17.2.183, port: 80, type: vmess, uuid: f256a3ae-0f85-4a1d-d0cd-2d0b4b73f4f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: v3ra3do.wakeuptimerap.shop}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6, server: 104.21.32.215, port: 8880, type: vmess, uuid: ce9aadc8-8c6e-4867-d247-9a84b469ac27, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a3.bcbot.in}}, udp: true}
+  - {name: github.com/freefq - 浙江省移动 7, server: data-us-v1.shwjfkw.cn, port: 20401, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /debian, headers: {Host: data-us-v1.shwjfkw.cn}}, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 8, server: 172.67.217.144, port: 80, type: vmess, uuid: 85674552-ce41-44d9-bb2a-50f76450b3d8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: lv1.xv2ray.net}}, udp: true}
+  - {name: 🇨🇳 github.com/freefq - 广东省广州市移动 9, server: service.ouluyun9803.com, port: 50005, type: ss, cipher: chacha20-ietf-poly1305, password: 7f821ff8-2ef2-4433-b810-f0ce77fd5491, udp: true}
+  - {name: 🇨🇳 github.com/freefq - 广东省广州市移动 10, server: service.ouluyun9803.com, port: 26602, type: ss, cipher: chacha20-ietf-poly1305, password: 7f821ff8-2ef2-4433-b810-f0ce77fd5491, udp: true}
+  - {name: 🇨🇳 github.com/freefq - 广东省广州市移动 11, server: service.ouluyun9803.com, port: 20005, type: ss, cipher: chacha20-ietf-poly1305, password: 7f821ff8-2ef2-4433-b810-f0ce77fd5491, udp: true}
   - {name: 🇱🇺 |LU|卢森堡|@wxgqlfx|1, server: ef30833c.t1v0e4l6w3-fb-hk05.6pzfwf.com, port: 56005, type: ss, cipher: chacha20-ietf-poly1305, password: MZ7ldA, udp: true}
   - {name: 🇨🇳 |TW|台湾|@wxgqlfx|2, server: 61.224.107.28, port: 81, type: ss, cipher: aes-128-gcm, password: oiwym4ovI4Yb, udp: true}
   - {name: 🇩🇪 |DE|德国|@wxgqlfx|3, server: 5.78.45.79, port: 3389, type: vmess, uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -119,12 +124,17 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国华盛顿州西雅图市亚马逊(Amazon)公司数据中心 1
-      - 🇨🇳 github.com/freefq - 台湾省彰化县中华电信 2
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 3
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 4
-      - github.com/freefq - 浙江省移动 5
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 6
+      - 🇬🇧 github.com/freefq - 英国  1
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 2
+      - 🇷🇸 github.com/freefq - 塞尔维亚  3
+      - 🇻🇳 github.com/freefq - 越南  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 5
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
+      - github.com/freefq - 浙江省移动 7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 9
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 10
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 11
       - 🇱🇺 |LU|卢森堡|@wxgqlfx|1
       - 🇨🇳 |TW|台湾|@wxgqlfx|2
       - 🇩🇪 |DE|德国|@wxgqlfx|3
@@ -194,12 +204,17 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国华盛顿州西雅图市亚马逊(Amazon)公司数据中心 1
-      - 🇨🇳 github.com/freefq - 台湾省彰化县中华电信 2
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 3
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 4
-      - github.com/freefq - 浙江省移动 5
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 6
+      - 🇬🇧 github.com/freefq - 英国  1
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 2
+      - 🇷🇸 github.com/freefq - 塞尔维亚  3
+      - 🇻🇳 github.com/freefq - 越南  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 5
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
+      - github.com/freefq - 浙江省移动 7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 9
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 10
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 11
       - 🇱🇺 |LU|卢森堡|@wxgqlfx|1
       - 🇨🇳 |TW|台湾|@wxgqlfx|2
       - 🇩🇪 |DE|德国|@wxgqlfx|3
@@ -270,12 +285,17 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国华盛顿州西雅图市亚马逊(Amazon)公司数据中心 1
-      - 🇨🇳 github.com/freefq - 台湾省彰化县中华电信 2
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 3
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 4
-      - github.com/freefq - 浙江省移动 5
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 6
+      - 🇬🇧 github.com/freefq - 英国  1
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 2
+      - 🇷🇸 github.com/freefq - 塞尔维亚  3
+      - 🇻🇳 github.com/freefq - 越南  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 5
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
+      - github.com/freefq - 浙江省移动 7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 9
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 10
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 11
       - 🇱🇺 |LU|卢森堡|@wxgqlfx|1
       - 🇨🇳 |TW|台湾|@wxgqlfx|2
       - 🇩🇪 |DE|德国|@wxgqlfx|3
@@ -358,12 +378,17 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国华盛顿州西雅图市亚马逊(Amazon)公司数据中心 1
-      - 🇨🇳 github.com/freefq - 台湾省彰化县中华电信 2
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 3
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 4
-      - github.com/freefq - 浙江省移动 5
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 6
+      - 🇬🇧 github.com/freefq - 英国  1
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 2
+      - 🇷🇸 github.com/freefq - 塞尔维亚  3
+      - 🇻🇳 github.com/freefq - 越南  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 5
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
+      - github.com/freefq - 浙江省移动 7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 9
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 10
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 11
       - 🇱🇺 |LU|卢森堡|@wxgqlfx|1
       - 🇨🇳 |TW|台湾|@wxgqlfx|2
       - 🇩🇪 |DE|德国|@wxgqlfx|3
@@ -409,7 +434,6 @@ proxy-groups:
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇨🇳 github.com/freefq - 台湾省彰化县中华电信 2
       - 🇨🇳 |TW|台湾|@wxgqlfx|2
       - 🇭🇰 |HK|香港|@wxgqlfx|4
       - 🇭🇰 |HK|香港|@wxgqlfx|5
@@ -442,12 +466,17 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国华盛顿州西雅图市亚马逊(Amazon)公司数据中心 1
-      - 🇨🇳 github.com/freefq - 台湾省彰化县中华电信 2
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 3
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 4
-      - github.com/freefq - 浙江省移动 5
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 6
+      - 🇬🇧 github.com/freefq - 英国  1
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 2
+      - 🇷🇸 github.com/freefq - 塞尔维亚  3
+      - 🇻🇳 github.com/freefq - 越南  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 5
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
+      - github.com/freefq - 浙江省移动 7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 9
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 10
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 11
       - 🇱🇺 |LU|卢森堡|@wxgqlfx|1
       - 🇨🇳 |TW|台湾|@wxgqlfx|2
       - 🇩🇪 |DE|德国|@wxgqlfx|3
@@ -517,12 +546,17 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国华盛顿州西雅图市亚马逊(Amazon)公司数据中心 1
-      - 🇨🇳 github.com/freefq - 台湾省彰化县中华电信 2
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 3
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 4
-      - github.com/freefq - 浙江省移动 5
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 6
+      - 🇬🇧 github.com/freefq - 英国  1
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 2
+      - 🇷🇸 github.com/freefq - 塞尔维亚  3
+      - 🇻🇳 github.com/freefq - 越南  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 5
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
+      - github.com/freefq - 浙江省移动 7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 9
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 10
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 11
       - 🇱🇺 |LU|卢森堡|@wxgqlfx|1
       - 🇨🇳 |TW|台湾|@wxgqlfx|2
       - 🇩🇪 |DE|德国|@wxgqlfx|3
@@ -593,12 +627,17 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国华盛顿州西雅图市亚马逊(Amazon)公司数据中心 1
-      - 🇨🇳 github.com/freefq - 台湾省彰化县中华电信 2
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 3
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 4
-      - github.com/freefq - 浙江省移动 5
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 6
+      - 🇬🇧 github.com/freefq - 英国  1
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 2
+      - 🇷🇸 github.com/freefq - 塞尔维亚  3
+      - 🇻🇳 github.com/freefq - 越南  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 5
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
+      - github.com/freefq - 浙江省移动 7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 9
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 10
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 11
       - 🇱🇺 |LU|卢森堡|@wxgqlfx|1
       - 🇨🇳 |TW|台湾|@wxgqlfx|2
       - 🇩🇪 |DE|德国|@wxgqlfx|3
@@ -678,12 +717,17 @@ proxy-groups:
       - 频道96@wxgqlfx
       - 频道97@wxgqlfx
       - 频道107@wxgqlfx
-      - 🇺🇸 github.com/freefq - 美国华盛顿州西雅图市亚马逊(Amazon)公司数据中心 1
-      - 🇨🇳 github.com/freefq - 台湾省彰化县中华电信 2
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 3
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 4
-      - github.com/freefq - 浙江省移动 5
-      - 🇨🇳 github.com/freefq - 广东省广州市移动 6
+      - 🇬🇧 github.com/freefq - 英国  1
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 2
+      - 🇷🇸 github.com/freefq - 塞尔维亚  3
+      - 🇻🇳 github.com/freefq - 越南  4
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 5
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
+      - github.com/freefq - 浙江省移动 7
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 8
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 9
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 10
+      - 🇨🇳 github.com/freefq - 广东省广州市移动 11
       - 🇱🇺 |LU|卢森堡|@wxgqlfx|1
       - 🇨🇳 |TW|台湾|@wxgqlfx|2
       - 🇩🇪 |DE|德国|@wxgqlfx|3
