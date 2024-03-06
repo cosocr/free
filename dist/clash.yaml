@@ -57,20 +57,20 @@ proxies:
   - {name: github.com/freefq - 广东省江门市移动 12, server: service.ouluyun9803.com, port: 20005, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, udp: true}
   - {name: 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13, server: gov.uk, port: 443, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /77848824, headers: {Host: zheshiscp.com}}, udp: true}
   - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 14, server: server32.beheshtbaneh.com, port: 8880, type: vmess, uuid: 044ba8ed-7285-472a-bc14-fb91dc6be4c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: server32.beheshtbaneh.com}}, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|1, server: lsgy.lanxingyun.cn, port: 39210, type: ss, cipher: chacha20-ietf-poly1305, password: 41f96983-1ab9-4634-a916-98ef1b557cb4, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|2, server: lsgy.lanxingyun.cn, port: 35791, type: ss, cipher: chacha20-ietf-poly1305, password: 41f96983-1ab9-4634-a916-98ef1b557cb4, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|3, server: lsgy.lanxingyun.cn, port: 22225, type: ss, cipher: chacha20-ietf-poly1305, password: 41f96983-1ab9-4634-a916-98ef1b557cb4, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|4, server: lsgy.lanxingyun.cn, port: 20263, type: ss, cipher: chacha20-ietf-poly1305, password: 41f96983-1ab9-4634-a916-98ef1b557cb4, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|5, server: lsgy.lanxingyun.cn, port: 33111, type: ss, cipher: chacha20-ietf-poly1305, password: 41f96983-1ab9-4634-a916-98ef1b557cb4, udp: true}
-  - {name: 🇨🇭 |CH|瑞士|@wxgqlfx|6, server: kr.pxiz.site, port: 28902, type: vmess, uuid: 2da64de4-54d0-4611-ab16-3401a8d16f0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: baidu.com}}, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|7, server: tw02.jjjjjj.icu, port: 20702, type: ss, cipher: chacha20-ietf-poly1305, password: 82ac01ab-25c7-453c-a42a-6343e68c2768, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|9, server: ddns.olucloud.subapi.cc, port: 26666, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|11, server: lsgy.lanxingyun.cn, port: 13163, type: ss, cipher: chacha20-ietf-poly1305, password: 41f96983-1ab9-4634-a916-98ef1b557cb4, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|12, server: 10thzcm.xn--wbr85ozt0asys8qt.net, port: 36697, type: ss, cipher: chacha20-ietf-poly1305, password: 86e3471b-0b08-40b5-a297-2a54632757b9, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|21, server: 213.35.113.150, port: 80, type: vmess, uuid: eaf5e01b-f27d-44cf-94ae-87196143eef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|22, server: ahcm.dyqufx.com, port: 44507, type: ss, cipher: chacha20-ietf-poly1305, password: 86e3471b-0b08-40b5-a297-2a54632757b9, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|24, server: kr2.indianonlinejob2.com, port: 20014, type: ss, cipher: chacha20-ietf-poly1305, password: a9464b90-986d-4253-b950-882537c5ca9e, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|25, server: 120.233.43.4, port: 16110, type: vmess, uuid: 1534454e-13c1-332c-a1f6-dffb2e51f778, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|1, server: lsgy.lanxingyun.cn, port: 20263, type: ss, cipher: chacha20-ietf-poly1305, password: 41f96983-1ab9-4634-a916-98ef1b557cb4, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|27, server: 119.23.104.213, port: 8474, type: ss, cipher: chacha20-ietf-poly1305, password: a501c82c72d790b8, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|34, server: tw02.jjjjjj.icu, port: 20702, type: ss, cipher: chacha20-ietf-poly1305, password: 46a4f80c-cf3d-4b56-97e0-0c45b8455bac, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|36, server: ddns.olucloud.subapi.cc, port: 26666, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123, udp: true}
+  - {name: 🇩🇪 |DE|德国|@wxgqlfx|38, server: 3.76.25.16, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|40, server: lsgy.lanxingyun.cn, port: 33111, type: ss, cipher: chacha20-ietf-poly1305, password: 41f96983-1ab9-4634-a916-98ef1b557cb4, udp: true}
+  - {name: 🇸🇬 |SG|新加坡|@wxgqlfx|41, server: sg03.beautifulprimavera.online, port: 80, type: vmess, uuid: 064c67c0-ba22-4d94-96e8-be43245fd29b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sg03.beautifulprimavera.online}}, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|43, server: ddns.olucloud.subapi.cc, port: 20009, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|45, server: lsgy.lanxingyun.cn, port: 39210, type: ss, cipher: chacha20-ietf-poly1305, password: 41f96983-1ab9-4634-a916-98ef1b557cb4, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|46, server: lsgy.lanxingyun.cn, port: 22225, type: ss, cipher: chacha20-ietf-poly1305, password: 41f96983-1ab9-4634-a916-98ef1b557cb4, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|48, server: lsgy.lanxingyun.cn, port: 35791, type: ss, cipher: chacha20-ietf-poly1305, password: 41f96983-1ab9-4634-a916-98ef1b557cb4, udp: true}
+  - {name: 🇦🇪 |AE|阿联酋|@wxgqlfx|49, server: 94.140.0.110, port: 8880, type: vmess, uuid: 0d1bf26a-ce97-4707-a270-7f4d2ae37334, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: food.zhaal.ir}}, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|50, server: lsgy.lanxingyun.cn, port: 13163, type: ss, cipher: chacha20-ietf-poly1305, password: 41f96983-1ab9-4634-a916-98ef1b557cb4, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|52, server: kr2.indianonlinejob2.com, port: 20014, type: ss, cipher: chacha20-ietf-poly1305, password: a9464b90-986d-4253-b950-882537c5ca9e, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -115,19 +115,19 @@ proxy-groups:
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
       - 🇨🇳 |CN|中国|@wxgqlfx|1
-      - 🇨🇳 |CN|中国|@wxgqlfx|2
-      - 🇨🇳 |CN|中国|@wxgqlfx|3
-      - 🇨🇳 |CN|中国|@wxgqlfx|4
-      - 🇨🇳 |CN|中国|@wxgqlfx|5
-      - 🇨🇭 |CH|瑞士|@wxgqlfx|6
-      - 🇨🇳 |CN|中国|@wxgqlfx|7
-      - 🇨🇳 |CN|中国|@wxgqlfx|9
-      - 🇨🇳 |CN|中国|@wxgqlfx|11
-      - 🇨🇳 |CN|中国|@wxgqlfx|12
-      - 🇺🇸 |US|美国|@wxgqlfx|21
-      - 🇨🇳 |CN|中国|@wxgqlfx|22
-      - 🇨🇳 |CN|中国|@wxgqlfx|24
-      - 🇨🇳 |CN|中国|@wxgqlfx|25
+      - 🇨🇳 |CN|中国|@wxgqlfx|27
+      - 🇨🇳 |CN|中国|@wxgqlfx|34
+      - 🇨🇳 |CN|中国|@wxgqlfx|36
+      - 🇩🇪 |DE|德国|@wxgqlfx|38
+      - 🇨🇳 |CN|中国|@wxgqlfx|40
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|41
+      - 🇨🇳 |CN|中国|@wxgqlfx|43
+      - 🇨🇳 |CN|中国|@wxgqlfx|45
+      - 🇨🇳 |CN|中国|@wxgqlfx|46
+      - 🇨🇳 |CN|中国|@wxgqlfx|48
+      - 🇦🇪 |AE|阿联酋|@wxgqlfx|49
+      - 🇨🇳 |CN|中国|@wxgqlfx|50
+      - 🇨🇳 |CN|中国|@wxgqlfx|52
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -171,19 +171,19 @@ proxy-groups:
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
       - 🇨🇳 |CN|中国|@wxgqlfx|1
-      - 🇨🇳 |CN|中国|@wxgqlfx|2
-      - 🇨🇳 |CN|中国|@wxgqlfx|3
-      - 🇨🇳 |CN|中国|@wxgqlfx|4
-      - 🇨🇳 |CN|中国|@wxgqlfx|5
-      - 🇨🇭 |CH|瑞士|@wxgqlfx|6
-      - 🇨🇳 |CN|中国|@wxgqlfx|7
-      - 🇨🇳 |CN|中国|@wxgqlfx|9
-      - 🇨🇳 |CN|中国|@wxgqlfx|11
-      - 🇨🇳 |CN|中国|@wxgqlfx|12
-      - 🇺🇸 |US|美国|@wxgqlfx|21
-      - 🇨🇳 |CN|中国|@wxgqlfx|22
-      - 🇨🇳 |CN|中国|@wxgqlfx|24
-      - 🇨🇳 |CN|中国|@wxgqlfx|25
+      - 🇨🇳 |CN|中国|@wxgqlfx|27
+      - 🇨🇳 |CN|中国|@wxgqlfx|34
+      - 🇨🇳 |CN|中国|@wxgqlfx|36
+      - 🇩🇪 |DE|德国|@wxgqlfx|38
+      - 🇨🇳 |CN|中国|@wxgqlfx|40
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|41
+      - 🇨🇳 |CN|中国|@wxgqlfx|43
+      - 🇨🇳 |CN|中国|@wxgqlfx|45
+      - 🇨🇳 |CN|中国|@wxgqlfx|46
+      - 🇨🇳 |CN|中国|@wxgqlfx|48
+      - 🇦🇪 |AE|阿联酋|@wxgqlfx|49
+      - 🇨🇳 |CN|中国|@wxgqlfx|50
+      - 🇨🇳 |CN|中国|@wxgqlfx|52
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -228,19 +228,19 @@ proxy-groups:
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
       - 🇨🇳 |CN|中国|@wxgqlfx|1
-      - 🇨🇳 |CN|中国|@wxgqlfx|2
-      - 🇨🇳 |CN|中国|@wxgqlfx|3
-      - 🇨🇳 |CN|中国|@wxgqlfx|4
-      - 🇨🇳 |CN|中国|@wxgqlfx|5
-      - 🇨🇭 |CH|瑞士|@wxgqlfx|6
-      - 🇨🇳 |CN|中国|@wxgqlfx|7
-      - 🇨🇳 |CN|中国|@wxgqlfx|9
-      - 🇨🇳 |CN|中国|@wxgqlfx|11
-      - 🇨🇳 |CN|中国|@wxgqlfx|12
-      - 🇺🇸 |US|美国|@wxgqlfx|21
-      - 🇨🇳 |CN|中国|@wxgqlfx|22
-      - 🇨🇳 |CN|中国|@wxgqlfx|24
-      - 🇨🇳 |CN|中国|@wxgqlfx|25
+      - 🇨🇳 |CN|中国|@wxgqlfx|27
+      - 🇨🇳 |CN|中国|@wxgqlfx|34
+      - 🇨🇳 |CN|中国|@wxgqlfx|36
+      - 🇩🇪 |DE|德国|@wxgqlfx|38
+      - 🇨🇳 |CN|中国|@wxgqlfx|40
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|41
+      - 🇨🇳 |CN|中国|@wxgqlfx|43
+      - 🇨🇳 |CN|中国|@wxgqlfx|45
+      - 🇨🇳 |CN|中国|@wxgqlfx|46
+      - 🇨🇳 |CN|中国|@wxgqlfx|48
+      - 🇦🇪 |AE|阿联酋|@wxgqlfx|49
+      - 🇨🇳 |CN|中国|@wxgqlfx|50
+      - 🇨🇳 |CN|中国|@wxgqlfx|52
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -297,19 +297,19 @@ proxy-groups:
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
       - 🇨🇳 |CN|中国|@wxgqlfx|1
-      - 🇨🇳 |CN|中国|@wxgqlfx|2
-      - 🇨🇳 |CN|中国|@wxgqlfx|3
-      - 🇨🇳 |CN|中国|@wxgqlfx|4
-      - 🇨🇳 |CN|中国|@wxgqlfx|5
-      - 🇨🇭 |CH|瑞士|@wxgqlfx|6
-      - 🇨🇳 |CN|中国|@wxgqlfx|7
-      - 🇨🇳 |CN|中国|@wxgqlfx|9
-      - 🇨🇳 |CN|中国|@wxgqlfx|11
-      - 🇨🇳 |CN|中国|@wxgqlfx|12
-      - 🇺🇸 |US|美国|@wxgqlfx|21
-      - 🇨🇳 |CN|中国|@wxgqlfx|22
-      - 🇨🇳 |CN|中国|@wxgqlfx|24
-      - 🇨🇳 |CN|中国|@wxgqlfx|25
+      - 🇨🇳 |CN|中国|@wxgqlfx|27
+      - 🇨🇳 |CN|中国|@wxgqlfx|34
+      - 🇨🇳 |CN|中国|@wxgqlfx|36
+      - 🇩🇪 |DE|德国|@wxgqlfx|38
+      - 🇨🇳 |CN|中国|@wxgqlfx|40
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|41
+      - 🇨🇳 |CN|中国|@wxgqlfx|43
+      - 🇨🇳 |CN|中国|@wxgqlfx|45
+      - 🇨🇳 |CN|中国|@wxgqlfx|46
+      - 🇨🇳 |CN|中国|@wxgqlfx|48
+      - 🇦🇪 |AE|阿联酋|@wxgqlfx|49
+      - 🇨🇳 |CN|中国|@wxgqlfx|50
+      - 🇨🇳 |CN|中国|@wxgqlfx|52
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -358,19 +358,19 @@ proxy-groups:
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
       - 🇨🇳 |CN|中国|@wxgqlfx|1
-      - 🇨🇳 |CN|中国|@wxgqlfx|2
-      - 🇨🇳 |CN|中国|@wxgqlfx|3
-      - 🇨🇳 |CN|中国|@wxgqlfx|4
-      - 🇨🇳 |CN|中国|@wxgqlfx|5
-      - 🇨🇭 |CH|瑞士|@wxgqlfx|6
-      - 🇨🇳 |CN|中国|@wxgqlfx|7
-      - 🇨🇳 |CN|中国|@wxgqlfx|9
-      - 🇨🇳 |CN|中国|@wxgqlfx|11
-      - 🇨🇳 |CN|中国|@wxgqlfx|12
-      - 🇺🇸 |US|美国|@wxgqlfx|21
-      - 🇨🇳 |CN|中国|@wxgqlfx|22
-      - 🇨🇳 |CN|中国|@wxgqlfx|24
-      - 🇨🇳 |CN|中国|@wxgqlfx|25
+      - 🇨🇳 |CN|中国|@wxgqlfx|27
+      - 🇨🇳 |CN|中国|@wxgqlfx|34
+      - 🇨🇳 |CN|中国|@wxgqlfx|36
+      - 🇩🇪 |DE|德国|@wxgqlfx|38
+      - 🇨🇳 |CN|中国|@wxgqlfx|40
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|41
+      - 🇨🇳 |CN|中国|@wxgqlfx|43
+      - 🇨🇳 |CN|中国|@wxgqlfx|45
+      - 🇨🇳 |CN|中国|@wxgqlfx|46
+      - 🇨🇳 |CN|中国|@wxgqlfx|48
+      - 🇦🇪 |AE|阿联酋|@wxgqlfx|49
+      - 🇨🇳 |CN|中国|@wxgqlfx|50
+      - 🇨🇳 |CN|中国|@wxgqlfx|52
   - name: 📲 电报信息
     type: select
     proxies:
@@ -414,19 +414,19 @@ proxy-groups:
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
       - 🇨🇳 |CN|中国|@wxgqlfx|1
-      - 🇨🇳 |CN|中国|@wxgqlfx|2
-      - 🇨🇳 |CN|中国|@wxgqlfx|3
-      - 🇨🇳 |CN|中国|@wxgqlfx|4
-      - 🇨🇳 |CN|中国|@wxgqlfx|5
-      - 🇨🇭 |CH|瑞士|@wxgqlfx|6
-      - 🇨🇳 |CN|中国|@wxgqlfx|7
-      - 🇨🇳 |CN|中国|@wxgqlfx|9
-      - 🇨🇳 |CN|中国|@wxgqlfx|11
-      - 🇨🇳 |CN|中国|@wxgqlfx|12
-      - 🇺🇸 |US|美国|@wxgqlfx|21
-      - 🇨🇳 |CN|中国|@wxgqlfx|22
-      - 🇨🇳 |CN|中国|@wxgqlfx|24
-      - 🇨🇳 |CN|中国|@wxgqlfx|25
+      - 🇨🇳 |CN|中国|@wxgqlfx|27
+      - 🇨🇳 |CN|中国|@wxgqlfx|34
+      - 🇨🇳 |CN|中国|@wxgqlfx|36
+      - 🇩🇪 |DE|德国|@wxgqlfx|38
+      - 🇨🇳 |CN|中国|@wxgqlfx|40
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|41
+      - 🇨🇳 |CN|中国|@wxgqlfx|43
+      - 🇨🇳 |CN|中国|@wxgqlfx|45
+      - 🇨🇳 |CN|中国|@wxgqlfx|46
+      - 🇨🇳 |CN|中国|@wxgqlfx|48
+      - 🇦🇪 |AE|阿联酋|@wxgqlfx|49
+      - 🇨🇳 |CN|中国|@wxgqlfx|50
+      - 🇨🇳 |CN|中国|@wxgqlfx|52
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -471,19 +471,19 @@ proxy-groups:
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
       - 🇨🇳 |CN|中国|@wxgqlfx|1
-      - 🇨🇳 |CN|中国|@wxgqlfx|2
-      - 🇨🇳 |CN|中国|@wxgqlfx|3
-      - 🇨🇳 |CN|中国|@wxgqlfx|4
-      - 🇨🇳 |CN|中国|@wxgqlfx|5
-      - 🇨🇭 |CH|瑞士|@wxgqlfx|6
-      - 🇨🇳 |CN|中国|@wxgqlfx|7
-      - 🇨🇳 |CN|中国|@wxgqlfx|9
-      - 🇨🇳 |CN|中国|@wxgqlfx|11
-      - 🇨🇳 |CN|中国|@wxgqlfx|12
-      - 🇺🇸 |US|美国|@wxgqlfx|21
-      - 🇨🇳 |CN|中国|@wxgqlfx|22
-      - 🇨🇳 |CN|中国|@wxgqlfx|24
-      - 🇨🇳 |CN|中国|@wxgqlfx|25
+      - 🇨🇳 |CN|中国|@wxgqlfx|27
+      - 🇨🇳 |CN|中国|@wxgqlfx|34
+      - 🇨🇳 |CN|中国|@wxgqlfx|36
+      - 🇩🇪 |DE|德国|@wxgqlfx|38
+      - 🇨🇳 |CN|中国|@wxgqlfx|40
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|41
+      - 🇨🇳 |CN|中国|@wxgqlfx|43
+      - 🇨🇳 |CN|中国|@wxgqlfx|45
+      - 🇨🇳 |CN|中国|@wxgqlfx|46
+      - 🇨🇳 |CN|中国|@wxgqlfx|48
+      - 🇦🇪 |AE|阿联酋|@wxgqlfx|49
+      - 🇨🇳 |CN|中国|@wxgqlfx|50
+      - 🇨🇳 |CN|中国|@wxgqlfx|52
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -537,19 +537,19 @@ proxy-groups:
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
       - 🇨🇳 |CN|中国|@wxgqlfx|1
-      - 🇨🇳 |CN|中国|@wxgqlfx|2
-      - 🇨🇳 |CN|中国|@wxgqlfx|3
-      - 🇨🇳 |CN|中国|@wxgqlfx|4
-      - 🇨🇳 |CN|中国|@wxgqlfx|5
-      - 🇨🇭 |CH|瑞士|@wxgqlfx|6
-      - 🇨🇳 |CN|中国|@wxgqlfx|7
-      - 🇨🇳 |CN|中国|@wxgqlfx|9
-      - 🇨🇳 |CN|中国|@wxgqlfx|11
-      - 🇨🇳 |CN|中国|@wxgqlfx|12
-      - 🇺🇸 |US|美国|@wxgqlfx|21
-      - 🇨🇳 |CN|中国|@wxgqlfx|22
-      - 🇨🇳 |CN|中国|@wxgqlfx|24
-      - 🇨🇳 |CN|中国|@wxgqlfx|25
+      - 🇨🇳 |CN|中国|@wxgqlfx|27
+      - 🇨🇳 |CN|中国|@wxgqlfx|34
+      - 🇨🇳 |CN|中国|@wxgqlfx|36
+      - 🇩🇪 |DE|德国|@wxgqlfx|38
+      - 🇨🇳 |CN|中国|@wxgqlfx|40
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|41
+      - 🇨🇳 |CN|中国|@wxgqlfx|43
+      - 🇨🇳 |CN|中国|@wxgqlfx|45
+      - 🇨🇳 |CN|中国|@wxgqlfx|46
+      - 🇨🇳 |CN|中国|@wxgqlfx|48
+      - 🇦🇪 |AE|阿联酋|@wxgqlfx|49
+      - 🇨🇳 |CN|中国|@wxgqlfx|50
+      - 🇨🇳 |CN|中国|@wxgqlfx|52
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
