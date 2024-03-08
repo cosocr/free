@@ -57,11 +57,9 @@ proxies:
   - {name: github.com/freefq - 广东省江门市移动 12, server: service.ouluyun9803.com, port: 20005, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, udp: true}
   - {name: 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13, server: gov.uk, port: 443, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /77848824, headers: {Host: zheshiscp.com}}, udp: true}
   - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 14, server: server32.beheshtbaneh.com, port: 8880, type: vmess, uuid: 044ba8ed-7285-472a-bc14-fb91dc6be4c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: server32.beheshtbaneh.com}}, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|1, server: tw1.indianonlinejob2.com, port: 20005, type: ss, cipher: chacha20-ietf-poly1305, password: a7fe5385-1777-4e29-9e0a-fa59efb2f5c3, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|6, server: hk03.jjjjjj.icu, port: 44552, type: ss, cipher: chacha20-ietf-poly1305, password: 949f7542-7240-43ba-a3cc-dcf7c7b2e6b7, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|14, server: jp01.jjjjjj.icu, port: 30207, type: ss, cipher: chacha20-ietf-poly1305, password: 949f7542-7240-43ba-a3cc-dcf7c7b2e6b7, udp: true}
-  - {name: 🇩🇪 |DE|德国|@wxgqlfx|34, server: de3-vmess.sshmax.xyz, port: 80, type: vmess, uuid: 4ec2f1b0-b45d-41bf-b1d1-ec6ad7206cc8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vmess, headers: {Host: de3-vmess.sshmax.xyz}}, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|36, server: ddns.olucloud.subapi.cc, port: 20009, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|23, server: kr2.indianonlinejob2.com, port: 20014, type: ss, cipher: chacha20-ietf-poly1305, password: a7fe5385-1777-4e29-9e0a-fa59efb2f5c3, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|24, server: ddns.olucloud.subapi.cc, port: 20009, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|26, server: tw1.indianonlinejob2.com, port: 20005, type: ss, cipher: chacha20-ietf-poly1305, password: a7fe5385-1777-4e29-9e0a-fa59efb2f5c3, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -105,11 +103,9 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇨🇳 |CN|中国|@wxgqlfx|1
-      - 🇨🇳 |CN|中国|@wxgqlfx|6
-      - 🇨🇳 |CN|中国|@wxgqlfx|14
-      - 🇩🇪 |DE|德国|@wxgqlfx|34
-      - 🇨🇳 |CN|中国|@wxgqlfx|36
+      - 🇨🇳 |CN|中国|@wxgqlfx|23
+      - 🇨🇳 |CN|中国|@wxgqlfx|24
+      - 🇨🇳 |CN|中国|@wxgqlfx|26
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -152,11 +148,9 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇨🇳 |CN|中国|@wxgqlfx|1
-      - 🇨🇳 |CN|中国|@wxgqlfx|6
-      - 🇨🇳 |CN|中国|@wxgqlfx|14
-      - 🇩🇪 |DE|德国|@wxgqlfx|34
-      - 🇨🇳 |CN|中国|@wxgqlfx|36
+      - 🇨🇳 |CN|中国|@wxgqlfx|23
+      - 🇨🇳 |CN|中国|@wxgqlfx|24
+      - 🇨🇳 |CN|中国|@wxgqlfx|26
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -200,11 +194,9 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇨🇳 |CN|中国|@wxgqlfx|1
-      - 🇨🇳 |CN|中国|@wxgqlfx|6
-      - 🇨🇳 |CN|中国|@wxgqlfx|14
-      - 🇩🇪 |DE|德国|@wxgqlfx|34
-      - 🇨🇳 |CN|中国|@wxgqlfx|36
+      - 🇨🇳 |CN|中国|@wxgqlfx|23
+      - 🇨🇳 |CN|中国|@wxgqlfx|24
+      - 🇨🇳 |CN|中国|@wxgqlfx|26
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -260,11 +252,9 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇨🇳 |CN|中国|@wxgqlfx|1
-      - 🇨🇳 |CN|中国|@wxgqlfx|6
-      - 🇨🇳 |CN|中国|@wxgqlfx|14
-      - 🇩🇪 |DE|德国|@wxgqlfx|34
-      - 🇨🇳 |CN|中国|@wxgqlfx|36
+      - 🇨🇳 |CN|中国|@wxgqlfx|23
+      - 🇨🇳 |CN|中国|@wxgqlfx|24
+      - 🇨🇳 |CN|中国|@wxgqlfx|26
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -312,11 +302,9 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇨🇳 |CN|中国|@wxgqlfx|1
-      - 🇨🇳 |CN|中国|@wxgqlfx|6
-      - 🇨🇳 |CN|中国|@wxgqlfx|14
-      - 🇩🇪 |DE|德国|@wxgqlfx|34
-      - 🇨🇳 |CN|中国|@wxgqlfx|36
+      - 🇨🇳 |CN|中国|@wxgqlfx|23
+      - 🇨🇳 |CN|中国|@wxgqlfx|24
+      - 🇨🇳 |CN|中国|@wxgqlfx|26
   - name: 📲 电报信息
     type: select
     proxies:
@@ -359,11 +347,9 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇨🇳 |CN|中国|@wxgqlfx|1
-      - 🇨🇳 |CN|中国|@wxgqlfx|6
-      - 🇨🇳 |CN|中国|@wxgqlfx|14
-      - 🇩🇪 |DE|德国|@wxgqlfx|34
-      - 🇨🇳 |CN|中国|@wxgqlfx|36
+      - 🇨🇳 |CN|中国|@wxgqlfx|23
+      - 🇨🇳 |CN|中国|@wxgqlfx|24
+      - 🇨🇳 |CN|中国|@wxgqlfx|26
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -407,11 +393,9 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇨🇳 |CN|中国|@wxgqlfx|1
-      - 🇨🇳 |CN|中国|@wxgqlfx|6
-      - 🇨🇳 |CN|中国|@wxgqlfx|14
-      - 🇩🇪 |DE|德国|@wxgqlfx|34
-      - 🇨🇳 |CN|中国|@wxgqlfx|36
+      - 🇨🇳 |CN|中国|@wxgqlfx|23
+      - 🇨🇳 |CN|中国|@wxgqlfx|24
+      - 🇨🇳 |CN|中国|@wxgqlfx|26
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -464,11 +448,9 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇨🇳 |CN|中国|@wxgqlfx|1
-      - 🇨🇳 |CN|中国|@wxgqlfx|6
-      - 🇨🇳 |CN|中国|@wxgqlfx|14
-      - 🇩🇪 |DE|德国|@wxgqlfx|34
-      - 🇨🇳 |CN|中国|@wxgqlfx|36
+      - 🇨🇳 |CN|中国|@wxgqlfx|23
+      - 🇨🇳 |CN|中国|@wxgqlfx|24
+      - 🇨🇳 |CN|中国|@wxgqlfx|26
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
