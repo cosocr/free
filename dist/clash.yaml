@@ -35,11 +35,9 @@ proxies:
   - {name: 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13, server: gov.uk, port: 443, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /77848824, headers: {Host: zheshiscp.com}}, udp: true}
   - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 14, server: server32.beheshtbaneh.com, port: 8880, type: vmess, uuid: 044ba8ed-7285-472a-bc14-fb91dc6be4c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: server32.beheshtbaneh.com}}, udp: true}
   - {name: 🇺🇸 |US|美国|@wxgqlfx|4, server: 47.76.178.146, port: 443, type: trojan, password: NISHIKUITAN222, sni: t116.ylks.link, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|99, server: acsg3.cloudflarest.link, port: 443, type: trojan, password: NISHIKUITAN222, sni: t116.ylks.link, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|164, server: 129.146.46.164, port: 443, type: trojan, password: NISHIKUITAN222, sni: t116.ylks.link, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|176, server: 43.153.80.208, port: 443, type: trojan, password: NISHIKUITAN222, sni: t116.ylks.link, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇪 |SE|瑞典|@wxgqlfx|183, server: 129.151.205.193, port: 443, type: trojan, password: NISHIKUITAN222, sni: t116.ylks.link, skip-cert-verify: true, udp: true}
-  - {name: 🇦🇺 |AU|澳大利亚|@wxgqlfx|294, server: 192.9.177.204, port: 443, type: trojan, password: NISHIKUITAN222, sni: t116.ylks.link, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|101, server: 129.146.46.164, port: 443, type: trojan, password: NISHIKUITAN222, sni: t116.ylks.link, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|112, server: 43.153.80.208, port: 443, type: trojan, password: NISHIKUITAN222, sni: t116.ylks.link, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇪 |SE|瑞典|@wxgqlfx|116, server: 129.151.205.193, port: 443, type: trojan, password: NISHIKUITAN222, sni: t116.ylks.link, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -61,11 +59,9 @@ proxy-groups:
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
       - 🇺🇸 |US|美国|@wxgqlfx|4
-      - 🇺🇸 |US|美国|@wxgqlfx|99
-      - 🇺🇸 |US|美国|@wxgqlfx|164
-      - 🇺🇸 |US|美国|@wxgqlfx|176
-      - 🇸🇪 |SE|瑞典|@wxgqlfx|183
-      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|294
+      - 🇺🇸 |US|美国|@wxgqlfx|101
+      - 🇺🇸 |US|美国|@wxgqlfx|112
+      - 🇸🇪 |SE|瑞典|@wxgqlfx|116
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -86,11 +82,9 @@ proxy-groups:
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
       - 🇺🇸 |US|美国|@wxgqlfx|4
-      - 🇺🇸 |US|美国|@wxgqlfx|99
-      - 🇺🇸 |US|美国|@wxgqlfx|164
-      - 🇺🇸 |US|美国|@wxgqlfx|176
-      - 🇸🇪 |SE|瑞典|@wxgqlfx|183
-      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|294
+      - 🇺🇸 |US|美国|@wxgqlfx|101
+      - 🇺🇸 |US|美国|@wxgqlfx|112
+      - 🇸🇪 |SE|瑞典|@wxgqlfx|116
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -112,11 +106,9 @@ proxy-groups:
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
       - 🇺🇸 |US|美国|@wxgqlfx|4
-      - 🇺🇸 |US|美国|@wxgqlfx|99
-      - 🇺🇸 |US|美国|@wxgqlfx|164
-      - 🇺🇸 |US|美国|@wxgqlfx|176
-      - 🇸🇪 |SE|瑞典|@wxgqlfx|183
-      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|294
+      - 🇺🇸 |US|美国|@wxgqlfx|101
+      - 🇺🇸 |US|美国|@wxgqlfx|112
+      - 🇸🇪 |SE|瑞典|@wxgqlfx|116
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -150,11 +142,9 @@ proxy-groups:
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
       - 🇺🇸 |US|美国|@wxgqlfx|4
-      - 🇺🇸 |US|美国|@wxgqlfx|99
-      - 🇺🇸 |US|美国|@wxgqlfx|164
-      - 🇺🇸 |US|美国|@wxgqlfx|176
-      - 🇸🇪 |SE|瑞典|@wxgqlfx|183
-      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|294
+      - 🇺🇸 |US|美国|@wxgqlfx|101
+      - 🇺🇸 |US|美国|@wxgqlfx|112
+      - 🇸🇪 |SE|瑞典|@wxgqlfx|116
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -180,11 +170,9 @@ proxy-groups:
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
       - 🇺🇸 |US|美国|@wxgqlfx|4
-      - 🇺🇸 |US|美国|@wxgqlfx|99
-      - 🇺🇸 |US|美国|@wxgqlfx|164
-      - 🇺🇸 |US|美国|@wxgqlfx|176
-      - 🇸🇪 |SE|瑞典|@wxgqlfx|183
-      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|294
+      - 🇺🇸 |US|美国|@wxgqlfx|101
+      - 🇺🇸 |US|美国|@wxgqlfx|112
+      - 🇸🇪 |SE|瑞典|@wxgqlfx|116
   - name: 📲 电报信息
     type: select
     proxies:
@@ -205,11 +193,9 @@ proxy-groups:
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
       - 🇺🇸 |US|美国|@wxgqlfx|4
-      - 🇺🇸 |US|美国|@wxgqlfx|99
-      - 🇺🇸 |US|美国|@wxgqlfx|164
-      - 🇺🇸 |US|美国|@wxgqlfx|176
-      - 🇸🇪 |SE|瑞典|@wxgqlfx|183
-      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|294
+      - 🇺🇸 |US|美国|@wxgqlfx|101
+      - 🇺🇸 |US|美国|@wxgqlfx|112
+      - 🇸🇪 |SE|瑞典|@wxgqlfx|116
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -231,11 +217,9 @@ proxy-groups:
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
       - 🇺🇸 |US|美国|@wxgqlfx|4
-      - 🇺🇸 |US|美国|@wxgqlfx|99
-      - 🇺🇸 |US|美国|@wxgqlfx|164
-      - 🇺🇸 |US|美国|@wxgqlfx|176
-      - 🇸🇪 |SE|瑞典|@wxgqlfx|183
-      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|294
+      - 🇺🇸 |US|美国|@wxgqlfx|101
+      - 🇺🇸 |US|美国|@wxgqlfx|112
+      - 🇸🇪 |SE|瑞典|@wxgqlfx|116
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -266,11 +250,9 @@ proxy-groups:
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
       - 🇺🇸 |US|美国|@wxgqlfx|4
-      - 🇺🇸 |US|美国|@wxgqlfx|99
-      - 🇺🇸 |US|美国|@wxgqlfx|164
-      - 🇺🇸 |US|美国|@wxgqlfx|176
-      - 🇸🇪 |SE|瑞典|@wxgqlfx|183
-      - 🇦🇺 |AU|澳大利亚|@wxgqlfx|294
+      - 🇺🇸 |US|美国|@wxgqlfx|101
+      - 🇺🇸 |US|美国|@wxgqlfx|112
+      - 🇸🇪 |SE|瑞典|@wxgqlfx|116
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
