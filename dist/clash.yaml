@@ -34,23 +34,17 @@ proxies:
   - {name: github.com/freefq - 广东省江门市移动 12, server: service.ouluyun9803.com, port: 20005, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, udp: true}
   - {name: 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13, server: gov.uk, port: 443, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /77848824, headers: {Host: zheshiscp.com}}, udp: true}
   - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 14, server: server32.beheshtbaneh.com, port: 8880, type: vmess, uuid: 044ba8ed-7285-472a-bc14-fb91dc6be4c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: server32.beheshtbaneh.com}}, udp: true}
-  - {name: 🇰🇷 |KR|韩国|@wxgqlfx|28, server: 146.56.171.182, port: 11659, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: true, udp: true}
-  - {name: 🇰🇷 |KR|韩国|@wxgqlfx|32, server: 222.108.215.96, port: 11180, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: true, udp: true}
-  - {name: 🇰🇷 |KR|韩国|@wxgqlfx|53, server: 61.247.83.116, port: 39308, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: true, udp: true}
-  - {name: 🇰🇷 |KR|韩国|@wxgqlfx|57, server: 210.126.38.13, port: 33452, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: true, udp: true}
-  - {name: 🇰🇷 |KR|韩国|@wxgqlfx|59, server: 125.139.249.241, port: 17057, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|141, server: 183.240.179.207, port: 30058, type: vmess, uuid: 5bd5899a-4b78-4d75-8570-4d21b43422c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 |HK|香港|@wxgqlfx|215, server: 154.92.9.93, port: 2095, type: vmess, uuid: b3c76f0e-f2c6-4518-9ddc-b21b3339d550, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /b3c76f0e-f2c6-4518-9ddc-b21b3339d550-vm, headers: {Host: rn.yicanny.com}}, udp: true}
-  - {name: 🇰🇷 |KR|韩国|@wxgqlfx|216, server: 138.2.116.23, port: 1003, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|227, server: 103.184.45.191, port: 2095, type: vmess, uuid: b3c76f0e-f2c6-4518-9ddc-b21b3339d550, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /b3c76f0e-f2c6-4518-9ddc-b21b3339d550-vm, headers: {Host: rn.yicanny.com}}, udp: true}
-  - {name: 🇸🇬 |SG|新加坡|@wxgqlfx|262, server: 8.222.225.193, port: 443, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|284, server: 43.153.80.208, port: 443, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 |SG|新加坡|@wxgqlfx|292, server: 8.222.138.166, port: 21737, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 |SG|新加坡|@wxgqlfx|296, server: 8.222.181.139, port: 443, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|299, server: 120.233.42.83, port: 20206, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /debian, headers: {Host: data-hk-v1.usabooks.com.cn}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|309, server: acjp2.cloudflarest.link, port: 2086, type: vmess, uuid: 12a9cdb0-fa93-42e9-bcee-f61bf8c70c69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ccv6argo.yicanny.com}}, udp: true}
-  - {name: 🇺🇸 |US|美国|@wxgqlfx|312, server: 18.160.249.172, port: 443, type: vmess, uuid: a191bf29-9599-45f9-b1ad-90e0e6d4fb18, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /0Ka3G1yU/, headers: {Host: d1gog6cwgiaint.cloudfront.net}}, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|332, server: 183.232.199.28, port: 15605, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇰🇷 |KR|韩国|@wxgqlfx|27, server: 222.108.215.96, port: 11180, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: true, udp: true}
+  - {name: 🇰🇷 |KR|韩国|@wxgqlfx|40, server: 210.126.38.13, port: 33452, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: true, udp: true}
+  - {name: 🇰🇷 |KR|韩国|@wxgqlfx|42, server: 125.139.249.241, port: 17057, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|111, server: 183.240.179.207, port: 30058, type: vmess, uuid: 5bd5899a-4b78-4d75-8570-4d21b43422c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 |HK|香港|@wxgqlfx|176, server: 154.92.9.93, port: 2095, type: vmess, uuid: b3c76f0e-f2c6-4518-9ddc-b21b3339d550, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /b3c76f0e-f2c6-4518-9ddc-b21b3339d550-vm, headers: {Host: rn.yicanny.com}}, udp: true}
+  - {name: 🇰🇷 |KR|韩国|@wxgqlfx|177, server: 138.2.116.23, port: 1003, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|187, server: 103.184.45.191, port: 2095, type: vmess, uuid: b3c76f0e-f2c6-4518-9ddc-b21b3339d550, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /b3c76f0e-f2c6-4518-9ddc-b21b3339d550-vm, headers: {Host: rn.yicanny.com}}, udp: true}
+  - {name: 🇺🇸 |US|美国|@wxgqlfx|232, server: 43.153.80.208, port: 443, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 |SG|新加坡|@wxgqlfx|240, server: 8.222.138.166, port: 21737, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 |SG|新加坡|@wxgqlfx|244, server: 8.222.181.139, port: 443, type: trojan, password: NISHIKUITAN222, sni: t331.ylks.link, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|270, server: 183.232.199.28, port: 15605, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -71,23 +65,17 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇰🇷 |KR|韩国|@wxgqlfx|28
-      - 🇰🇷 |KR|韩国|@wxgqlfx|32
-      - 🇰🇷 |KR|韩国|@wxgqlfx|53
-      - 🇰🇷 |KR|韩国|@wxgqlfx|57
-      - 🇰🇷 |KR|韩国|@wxgqlfx|59
-      - 🇨🇳 |CN|中国|@wxgqlfx|141
-      - 🇭🇰 |HK|香港|@wxgqlfx|215
-      - 🇰🇷 |KR|韩国|@wxgqlfx|216
-      - 🇨🇳 |CN|中国|@wxgqlfx|227
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|262
-      - 🇺🇸 |US|美国|@wxgqlfx|284
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|292
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|296
-      - 🇨🇳 |CN|中国|@wxgqlfx|299
-      - 🇺🇸 |US|美国|@wxgqlfx|309
-      - 🇺🇸 |US|美国|@wxgqlfx|312
-      - 🇨🇳 |CN|中国|@wxgqlfx|332
+      - 🇰🇷 |KR|韩国|@wxgqlfx|27
+      - 🇰🇷 |KR|韩国|@wxgqlfx|40
+      - 🇰🇷 |KR|韩国|@wxgqlfx|42
+      - 🇨🇳 |CN|中国|@wxgqlfx|111
+      - 🇭🇰 |HK|香港|@wxgqlfx|176
+      - 🇰🇷 |KR|韩国|@wxgqlfx|177
+      - 🇨🇳 |CN|中国|@wxgqlfx|187
+      - 🇺🇸 |US|美国|@wxgqlfx|232
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|240
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|244
+      - 🇨🇳 |CN|中国|@wxgqlfx|270
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -107,23 +95,17 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇰🇷 |KR|韩国|@wxgqlfx|28
-      - 🇰🇷 |KR|韩国|@wxgqlfx|32
-      - 🇰🇷 |KR|韩国|@wxgqlfx|53
-      - 🇰🇷 |KR|韩国|@wxgqlfx|57
-      - 🇰🇷 |KR|韩国|@wxgqlfx|59
-      - 🇨🇳 |CN|中国|@wxgqlfx|141
-      - 🇭🇰 |HK|香港|@wxgqlfx|215
-      - 🇰🇷 |KR|韩国|@wxgqlfx|216
-      - 🇨🇳 |CN|中国|@wxgqlfx|227
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|262
-      - 🇺🇸 |US|美国|@wxgqlfx|284
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|292
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|296
-      - 🇨🇳 |CN|中国|@wxgqlfx|299
-      - 🇺🇸 |US|美国|@wxgqlfx|309
-      - 🇺🇸 |US|美国|@wxgqlfx|312
-      - 🇨🇳 |CN|中国|@wxgqlfx|332
+      - 🇰🇷 |KR|韩国|@wxgqlfx|27
+      - 🇰🇷 |KR|韩国|@wxgqlfx|40
+      - 🇰🇷 |KR|韩国|@wxgqlfx|42
+      - 🇨🇳 |CN|中国|@wxgqlfx|111
+      - 🇭🇰 |HK|香港|@wxgqlfx|176
+      - 🇰🇷 |KR|韩国|@wxgqlfx|177
+      - 🇨🇳 |CN|中国|@wxgqlfx|187
+      - 🇺🇸 |US|美国|@wxgqlfx|232
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|240
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|244
+      - 🇨🇳 |CN|中国|@wxgqlfx|270
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -144,23 +126,17 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇰🇷 |KR|韩国|@wxgqlfx|28
-      - 🇰🇷 |KR|韩国|@wxgqlfx|32
-      - 🇰🇷 |KR|韩国|@wxgqlfx|53
-      - 🇰🇷 |KR|韩国|@wxgqlfx|57
-      - 🇰🇷 |KR|韩国|@wxgqlfx|59
-      - 🇨🇳 |CN|中国|@wxgqlfx|141
-      - 🇭🇰 |HK|香港|@wxgqlfx|215
-      - 🇰🇷 |KR|韩国|@wxgqlfx|216
-      - 🇨🇳 |CN|中国|@wxgqlfx|227
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|262
-      - 🇺🇸 |US|美国|@wxgqlfx|284
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|292
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|296
-      - 🇨🇳 |CN|中国|@wxgqlfx|299
-      - 🇺🇸 |US|美国|@wxgqlfx|309
-      - 🇺🇸 |US|美国|@wxgqlfx|312
-      - 🇨🇳 |CN|中国|@wxgqlfx|332
+      - 🇰🇷 |KR|韩国|@wxgqlfx|27
+      - 🇰🇷 |KR|韩国|@wxgqlfx|40
+      - 🇰🇷 |KR|韩国|@wxgqlfx|42
+      - 🇨🇳 |CN|中国|@wxgqlfx|111
+      - 🇭🇰 |HK|香港|@wxgqlfx|176
+      - 🇰🇷 |KR|韩国|@wxgqlfx|177
+      - 🇨🇳 |CN|中国|@wxgqlfx|187
+      - 🇺🇸 |US|美国|@wxgqlfx|232
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|240
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|244
+      - 🇨🇳 |CN|中国|@wxgqlfx|270
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -193,28 +169,22 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇰🇷 |KR|韩国|@wxgqlfx|28
-      - 🇰🇷 |KR|韩国|@wxgqlfx|32
-      - 🇰🇷 |KR|韩国|@wxgqlfx|53
-      - 🇰🇷 |KR|韩国|@wxgqlfx|57
-      - 🇰🇷 |KR|韩国|@wxgqlfx|59
-      - 🇨🇳 |CN|中国|@wxgqlfx|141
-      - 🇭🇰 |HK|香港|@wxgqlfx|215
-      - 🇰🇷 |KR|韩国|@wxgqlfx|216
-      - 🇨🇳 |CN|中国|@wxgqlfx|227
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|262
-      - 🇺🇸 |US|美国|@wxgqlfx|284
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|292
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|296
-      - 🇨🇳 |CN|中国|@wxgqlfx|299
-      - 🇺🇸 |US|美国|@wxgqlfx|309
-      - 🇺🇸 |US|美国|@wxgqlfx|312
-      - 🇨🇳 |CN|中国|@wxgqlfx|332
+      - 🇰🇷 |KR|韩国|@wxgqlfx|27
+      - 🇰🇷 |KR|韩国|@wxgqlfx|40
+      - 🇰🇷 |KR|韩国|@wxgqlfx|42
+      - 🇨🇳 |CN|中国|@wxgqlfx|111
+      - 🇭🇰 |HK|香港|@wxgqlfx|176
+      - 🇰🇷 |KR|韩国|@wxgqlfx|177
+      - 🇨🇳 |CN|中国|@wxgqlfx|187
+      - 🇺🇸 |US|美国|@wxgqlfx|232
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|240
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|244
+      - 🇨🇳 |CN|中国|@wxgqlfx|270
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇭🇰 |HK|香港|@wxgqlfx|215
+      - 🇭🇰 |HK|香港|@wxgqlfx|176
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -235,23 +205,17 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇰🇷 |KR|韩国|@wxgqlfx|28
-      - 🇰🇷 |KR|韩国|@wxgqlfx|32
-      - 🇰🇷 |KR|韩国|@wxgqlfx|53
-      - 🇰🇷 |KR|韩国|@wxgqlfx|57
-      - 🇰🇷 |KR|韩国|@wxgqlfx|59
-      - 🇨🇳 |CN|中国|@wxgqlfx|141
-      - 🇭🇰 |HK|香港|@wxgqlfx|215
-      - 🇰🇷 |KR|韩国|@wxgqlfx|216
-      - 🇨🇳 |CN|中国|@wxgqlfx|227
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|262
-      - 🇺🇸 |US|美国|@wxgqlfx|284
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|292
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|296
-      - 🇨🇳 |CN|中国|@wxgqlfx|299
-      - 🇺🇸 |US|美国|@wxgqlfx|309
-      - 🇺🇸 |US|美国|@wxgqlfx|312
-      - 🇨🇳 |CN|中国|@wxgqlfx|332
+      - 🇰🇷 |KR|韩国|@wxgqlfx|27
+      - 🇰🇷 |KR|韩国|@wxgqlfx|40
+      - 🇰🇷 |KR|韩国|@wxgqlfx|42
+      - 🇨🇳 |CN|中国|@wxgqlfx|111
+      - 🇭🇰 |HK|香港|@wxgqlfx|176
+      - 🇰🇷 |KR|韩国|@wxgqlfx|177
+      - 🇨🇳 |CN|中国|@wxgqlfx|187
+      - 🇺🇸 |US|美国|@wxgqlfx|232
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|240
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|244
+      - 🇨🇳 |CN|中国|@wxgqlfx|270
   - name: 📲 电报信息
     type: select
     proxies:
@@ -271,23 +235,17 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇰🇷 |KR|韩国|@wxgqlfx|28
-      - 🇰🇷 |KR|韩国|@wxgqlfx|32
-      - 🇰🇷 |KR|韩国|@wxgqlfx|53
-      - 🇰🇷 |KR|韩国|@wxgqlfx|57
-      - 🇰🇷 |KR|韩国|@wxgqlfx|59
-      - 🇨🇳 |CN|中国|@wxgqlfx|141
-      - 🇭🇰 |HK|香港|@wxgqlfx|215
-      - 🇰🇷 |KR|韩国|@wxgqlfx|216
-      - 🇨🇳 |CN|中国|@wxgqlfx|227
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|262
-      - 🇺🇸 |US|美国|@wxgqlfx|284
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|292
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|296
-      - 🇨🇳 |CN|中国|@wxgqlfx|299
-      - 🇺🇸 |US|美国|@wxgqlfx|309
-      - 🇺🇸 |US|美国|@wxgqlfx|312
-      - 🇨🇳 |CN|中国|@wxgqlfx|332
+      - 🇰🇷 |KR|韩国|@wxgqlfx|27
+      - 🇰🇷 |KR|韩国|@wxgqlfx|40
+      - 🇰🇷 |KR|韩国|@wxgqlfx|42
+      - 🇨🇳 |CN|中国|@wxgqlfx|111
+      - 🇭🇰 |HK|香港|@wxgqlfx|176
+      - 🇰🇷 |KR|韩国|@wxgqlfx|177
+      - 🇨🇳 |CN|中国|@wxgqlfx|187
+      - 🇺🇸 |US|美国|@wxgqlfx|232
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|240
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|244
+      - 🇨🇳 |CN|中国|@wxgqlfx|270
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -308,23 +266,17 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇰🇷 |KR|韩国|@wxgqlfx|28
-      - 🇰🇷 |KR|韩国|@wxgqlfx|32
-      - 🇰🇷 |KR|韩国|@wxgqlfx|53
-      - 🇰🇷 |KR|韩国|@wxgqlfx|57
-      - 🇰🇷 |KR|韩国|@wxgqlfx|59
-      - 🇨🇳 |CN|中国|@wxgqlfx|141
-      - 🇭🇰 |HK|香港|@wxgqlfx|215
-      - 🇰🇷 |KR|韩国|@wxgqlfx|216
-      - 🇨🇳 |CN|中国|@wxgqlfx|227
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|262
-      - 🇺🇸 |US|美国|@wxgqlfx|284
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|292
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|296
-      - 🇨🇳 |CN|中国|@wxgqlfx|299
-      - 🇺🇸 |US|美国|@wxgqlfx|309
-      - 🇺🇸 |US|美国|@wxgqlfx|312
-      - 🇨🇳 |CN|中国|@wxgqlfx|332
+      - 🇰🇷 |KR|韩国|@wxgqlfx|27
+      - 🇰🇷 |KR|韩国|@wxgqlfx|40
+      - 🇰🇷 |KR|韩国|@wxgqlfx|42
+      - 🇨🇳 |CN|中国|@wxgqlfx|111
+      - 🇭🇰 |HK|香港|@wxgqlfx|176
+      - 🇰🇷 |KR|韩国|@wxgqlfx|177
+      - 🇨🇳 |CN|中国|@wxgqlfx|187
+      - 🇺🇸 |US|美国|@wxgqlfx|232
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|240
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|244
+      - 🇨🇳 |CN|中国|@wxgqlfx|270
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -354,23 +306,17 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇰🇷 |KR|韩国|@wxgqlfx|28
-      - 🇰🇷 |KR|韩国|@wxgqlfx|32
-      - 🇰🇷 |KR|韩国|@wxgqlfx|53
-      - 🇰🇷 |KR|韩国|@wxgqlfx|57
-      - 🇰🇷 |KR|韩国|@wxgqlfx|59
-      - 🇨🇳 |CN|中国|@wxgqlfx|141
-      - 🇭🇰 |HK|香港|@wxgqlfx|215
-      - 🇰🇷 |KR|韩国|@wxgqlfx|216
-      - 🇨🇳 |CN|中国|@wxgqlfx|227
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|262
-      - 🇺🇸 |US|美国|@wxgqlfx|284
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|292
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|296
-      - 🇨🇳 |CN|中国|@wxgqlfx|299
-      - 🇺🇸 |US|美国|@wxgqlfx|309
-      - 🇺🇸 |US|美国|@wxgqlfx|312
-      - 🇨🇳 |CN|中国|@wxgqlfx|332
+      - 🇰🇷 |KR|韩国|@wxgqlfx|27
+      - 🇰🇷 |KR|韩国|@wxgqlfx|40
+      - 🇰🇷 |KR|韩国|@wxgqlfx|42
+      - 🇨🇳 |CN|中国|@wxgqlfx|111
+      - 🇭🇰 |HK|香港|@wxgqlfx|176
+      - 🇰🇷 |KR|韩国|@wxgqlfx|177
+      - 🇨🇳 |CN|中国|@wxgqlfx|187
+      - 🇺🇸 |US|美国|@wxgqlfx|232
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|240
+      - 🇸🇬 |SG|新加坡|@wxgqlfx|244
+      - 🇨🇳 |CN|中国|@wxgqlfx|270
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
