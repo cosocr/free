@@ -37,12 +37,8 @@ proxies:
   - {name: 🇺🇸 |US|美国|@wxgqlfx|5, server: malaysia.com, port: 2087, type: vmess, uuid: b3c76f0e-f2c6-4518-9ddc-b21b3339d550, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b3c76f0e-f2c6-4518-9ddc-b21b3339d550-vm, headers: {Host: tag-radius-coated-contact.trycloudflare.com}}, udp: true}
   - {name: 🇺🇸 |US|美国|@wxgqlfx|6, server: gur.gov.ua, port: 2087, type: vmess, uuid: e39e2bd5-9e09-497f-835b-c4b04b15da89, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /znZWujHX/, headers: {Host: yicanny.com}}, udp: true}
   - {name: 🇺🇸 |US|美国|@wxgqlfx|7, server: 13.33.250.202, port: 443, type: vmess, uuid: a191bf29-9599-45f9-b1ad-90e0e6d4fb18, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /0Ka3G1yU/, headers: {Host: d1gog6cwgiaint.cloudfront.net}}, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|23, server: 183.232.142.179, port: 62001, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|33, server: 183.232.199.28, port: 15603, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|70, server: 183.232.199.61, port: 61001, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|75, server: 183.232.199.28, port: 15605, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|76, server: 183.232.142.179, port: 15600, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇳 |CN|中国|@wxgqlfx|77, server: 183.240.179.207, port: 30058, type: vmess, uuid: 5bd5899a-4b78-4d75-8570-4d21b43422c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|28, server: 183.232.199.28, port: 15603, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 |CN|中国|@wxgqlfx|59, server: 183.240.179.207, port: 30058, type: vmess, uuid: 5bd5899a-4b78-4d75-8570-4d21b43422c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -66,12 +62,8 @@ proxy-groups:
       - 🇺🇸 |US|美国|@wxgqlfx|5
       - 🇺🇸 |US|美国|@wxgqlfx|6
       - 🇺🇸 |US|美国|@wxgqlfx|7
-      - 🇨🇳 |CN|中国|@wxgqlfx|23
-      - 🇨🇳 |CN|中国|@wxgqlfx|33
-      - 🇨🇳 |CN|中国|@wxgqlfx|70
-      - 🇨🇳 |CN|中国|@wxgqlfx|75
-      - 🇨🇳 |CN|中国|@wxgqlfx|76
-      - 🇨🇳 |CN|中国|@wxgqlfx|77
+      - 🇨🇳 |CN|中国|@wxgqlfx|28
+      - 🇨🇳 |CN|中国|@wxgqlfx|59
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -94,12 +86,8 @@ proxy-groups:
       - 🇺🇸 |US|美国|@wxgqlfx|5
       - 🇺🇸 |US|美国|@wxgqlfx|6
       - 🇺🇸 |US|美国|@wxgqlfx|7
-      - 🇨🇳 |CN|中国|@wxgqlfx|23
-      - 🇨🇳 |CN|中国|@wxgqlfx|33
-      - 🇨🇳 |CN|中国|@wxgqlfx|70
-      - 🇨🇳 |CN|中国|@wxgqlfx|75
-      - 🇨🇳 |CN|中国|@wxgqlfx|76
-      - 🇨🇳 |CN|中国|@wxgqlfx|77
+      - 🇨🇳 |CN|中国|@wxgqlfx|28
+      - 🇨🇳 |CN|中国|@wxgqlfx|59
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -123,12 +111,8 @@ proxy-groups:
       - 🇺🇸 |US|美国|@wxgqlfx|5
       - 🇺🇸 |US|美国|@wxgqlfx|6
       - 🇺🇸 |US|美国|@wxgqlfx|7
-      - 🇨🇳 |CN|中国|@wxgqlfx|23
-      - 🇨🇳 |CN|中国|@wxgqlfx|33
-      - 🇨🇳 |CN|中国|@wxgqlfx|70
-      - 🇨🇳 |CN|中国|@wxgqlfx|75
-      - 🇨🇳 |CN|中国|@wxgqlfx|76
-      - 🇨🇳 |CN|中国|@wxgqlfx|77
+      - 🇨🇳 |CN|中国|@wxgqlfx|28
+      - 🇨🇳 |CN|中国|@wxgqlfx|59
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -164,12 +148,8 @@ proxy-groups:
       - 🇺🇸 |US|美国|@wxgqlfx|5
       - 🇺🇸 |US|美国|@wxgqlfx|6
       - 🇺🇸 |US|美国|@wxgqlfx|7
-      - 🇨🇳 |CN|中国|@wxgqlfx|23
-      - 🇨🇳 |CN|中国|@wxgqlfx|33
-      - 🇨🇳 |CN|中国|@wxgqlfx|70
-      - 🇨🇳 |CN|中国|@wxgqlfx|75
-      - 🇨🇳 |CN|中国|@wxgqlfx|76
-      - 🇨🇳 |CN|中国|@wxgqlfx|77
+      - 🇨🇳 |CN|中国|@wxgqlfx|28
+      - 🇨🇳 |CN|中国|@wxgqlfx|59
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -197,12 +177,8 @@ proxy-groups:
       - 🇺🇸 |US|美国|@wxgqlfx|5
       - 🇺🇸 |US|美国|@wxgqlfx|6
       - 🇺🇸 |US|美国|@wxgqlfx|7
-      - 🇨🇳 |CN|中国|@wxgqlfx|23
-      - 🇨🇳 |CN|中国|@wxgqlfx|33
-      - 🇨🇳 |CN|中国|@wxgqlfx|70
-      - 🇨🇳 |CN|中国|@wxgqlfx|75
-      - 🇨🇳 |CN|中国|@wxgqlfx|76
-      - 🇨🇳 |CN|中国|@wxgqlfx|77
+      - 🇨🇳 |CN|中国|@wxgqlfx|28
+      - 🇨🇳 |CN|中国|@wxgqlfx|59
   - name: 📲 电报信息
     type: select
     proxies:
@@ -225,12 +201,8 @@ proxy-groups:
       - 🇺🇸 |US|美国|@wxgqlfx|5
       - 🇺🇸 |US|美国|@wxgqlfx|6
       - 🇺🇸 |US|美国|@wxgqlfx|7
-      - 🇨🇳 |CN|中国|@wxgqlfx|23
-      - 🇨🇳 |CN|中国|@wxgqlfx|33
-      - 🇨🇳 |CN|中国|@wxgqlfx|70
-      - 🇨🇳 |CN|中国|@wxgqlfx|75
-      - 🇨🇳 |CN|中国|@wxgqlfx|76
-      - 🇨🇳 |CN|中国|@wxgqlfx|77
+      - 🇨🇳 |CN|中国|@wxgqlfx|28
+      - 🇨🇳 |CN|中国|@wxgqlfx|59
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -254,12 +226,8 @@ proxy-groups:
       - 🇺🇸 |US|美国|@wxgqlfx|5
       - 🇺🇸 |US|美国|@wxgqlfx|6
       - 🇺🇸 |US|美国|@wxgqlfx|7
-      - 🇨🇳 |CN|中国|@wxgqlfx|23
-      - 🇨🇳 |CN|中国|@wxgqlfx|33
-      - 🇨🇳 |CN|中国|@wxgqlfx|70
-      - 🇨🇳 |CN|中国|@wxgqlfx|75
-      - 🇨🇳 |CN|中国|@wxgqlfx|76
-      - 🇨🇳 |CN|中国|@wxgqlfx|77
+      - 🇨🇳 |CN|中国|@wxgqlfx|28
+      - 🇨🇳 |CN|中国|@wxgqlfx|59
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -292,12 +260,8 @@ proxy-groups:
       - 🇺🇸 |US|美国|@wxgqlfx|5
       - 🇺🇸 |US|美国|@wxgqlfx|6
       - 🇺🇸 |US|美国|@wxgqlfx|7
-      - 🇨🇳 |CN|中国|@wxgqlfx|23
-      - 🇨🇳 |CN|中国|@wxgqlfx|33
-      - 🇨🇳 |CN|中国|@wxgqlfx|70
-      - 🇨🇳 |CN|中国|@wxgqlfx|75
-      - 🇨🇳 |CN|中国|@wxgqlfx|76
-      - 🇨🇳 |CN|中国|@wxgqlfx|77
+      - 🇨🇳 |CN|中国|@wxgqlfx|28
+      - 🇨🇳 |CN|中国|@wxgqlfx|59
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
