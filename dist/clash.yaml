@@ -34,20 +34,8 @@ proxies:
   - {name: github.com/freefq - 广东省江门市移动 12, server: service.ouluyun9803.com, port: 20005, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, udp: true}
   - {name: 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13, server: gov.uk, port: 443, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /77848824, headers: {Host: zheshiscp.com}}, udp: true}
   - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 14, server: server32.beheshtbaneh.com, port: 8880, type: vmess, uuid: 044ba8ed-7285-472a-bc14-fb91dc6be4c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: server32.beheshtbaneh.com}}, udp: true}
-  - {name: 🇵🇱 |PL|波兰|@wxgqlfx|171, server: 51.77.53.200, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: 🇵🇱 |PL|波兰|@wxgqlfx|183, server: 51.77.53.200, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: 🇵🇱 |PL|波兰|@wxgqlfx|185, server: 51.77.53.200, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: 🇵🇱 |PL|波兰|@wxgqlfx|187, server: 51.77.53.200, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
-  - {name: 🇵🇱 |PL|波兰|@wxgqlfx|191, server: 51.77.53.200, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: 🇵🇱 |PL|波兰|@wxgqlfx|192, server: 51.77.53.200, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
-  - {name: 🇵🇱 |PL|波兰|@wxgqlfx|193, server: 51.77.53.200, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: 🇵🇱 |PL|波兰|@wxgqlfx|194, server: 51.77.53.200, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: 🇵🇱 |PL|波兰|@wxgqlfx|195, server: 51.77.53.200, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: 🇵🇱 |PL|波兰|@wxgqlfx|198, server: 51.77.53.200, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: 🇵🇱 |PL|波兰|@wxgqlfx|200, server: 51.77.53.200, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: 🇵🇱 |PL|波兰|@wxgqlfx|201, server: 51.77.53.200, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: 🇵🇱 |PL|波兰|@wxgqlfx|202, server: 51.77.53.200, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: 🇵🇱 |PL|波兰|@wxgqlfx|203, server: 51.77.53.200, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: 🇵🇱 |PL|波兰|@wxgqlfx|157, server: 51.77.53.200, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: 🇵🇱 |PL|波兰|@wxgqlfx|162, server: 51.77.53.200, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -68,20 +56,8 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇵🇱 |PL|波兰|@wxgqlfx|171
-      - 🇵🇱 |PL|波兰|@wxgqlfx|183
-      - 🇵🇱 |PL|波兰|@wxgqlfx|185
-      - 🇵🇱 |PL|波兰|@wxgqlfx|187
-      - 🇵🇱 |PL|波兰|@wxgqlfx|191
-      - 🇵🇱 |PL|波兰|@wxgqlfx|192
-      - 🇵🇱 |PL|波兰|@wxgqlfx|193
-      - 🇵🇱 |PL|波兰|@wxgqlfx|194
-      - 🇵🇱 |PL|波兰|@wxgqlfx|195
-      - 🇵🇱 |PL|波兰|@wxgqlfx|198
-      - 🇵🇱 |PL|波兰|@wxgqlfx|200
-      - 🇵🇱 |PL|波兰|@wxgqlfx|201
-      - 🇵🇱 |PL|波兰|@wxgqlfx|202
-      - 🇵🇱 |PL|波兰|@wxgqlfx|203
+      - 🇵🇱 |PL|波兰|@wxgqlfx|157
+      - 🇵🇱 |PL|波兰|@wxgqlfx|162
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -101,20 +77,8 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇵🇱 |PL|波兰|@wxgqlfx|171
-      - 🇵🇱 |PL|波兰|@wxgqlfx|183
-      - 🇵🇱 |PL|波兰|@wxgqlfx|185
-      - 🇵🇱 |PL|波兰|@wxgqlfx|187
-      - 🇵🇱 |PL|波兰|@wxgqlfx|191
-      - 🇵🇱 |PL|波兰|@wxgqlfx|192
-      - 🇵🇱 |PL|波兰|@wxgqlfx|193
-      - 🇵🇱 |PL|波兰|@wxgqlfx|194
-      - 🇵🇱 |PL|波兰|@wxgqlfx|195
-      - 🇵🇱 |PL|波兰|@wxgqlfx|198
-      - 🇵🇱 |PL|波兰|@wxgqlfx|200
-      - 🇵🇱 |PL|波兰|@wxgqlfx|201
-      - 🇵🇱 |PL|波兰|@wxgqlfx|202
-      - 🇵🇱 |PL|波兰|@wxgqlfx|203
+      - 🇵🇱 |PL|波兰|@wxgqlfx|157
+      - 🇵🇱 |PL|波兰|@wxgqlfx|162
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -135,20 +99,8 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇵🇱 |PL|波兰|@wxgqlfx|171
-      - 🇵🇱 |PL|波兰|@wxgqlfx|183
-      - 🇵🇱 |PL|波兰|@wxgqlfx|185
-      - 🇵🇱 |PL|波兰|@wxgqlfx|187
-      - 🇵🇱 |PL|波兰|@wxgqlfx|191
-      - 🇵🇱 |PL|波兰|@wxgqlfx|192
-      - 🇵🇱 |PL|波兰|@wxgqlfx|193
-      - 🇵🇱 |PL|波兰|@wxgqlfx|194
-      - 🇵🇱 |PL|波兰|@wxgqlfx|195
-      - 🇵🇱 |PL|波兰|@wxgqlfx|198
-      - 🇵🇱 |PL|波兰|@wxgqlfx|200
-      - 🇵🇱 |PL|波兰|@wxgqlfx|201
-      - 🇵🇱 |PL|波兰|@wxgqlfx|202
-      - 🇵🇱 |PL|波兰|@wxgqlfx|203
+      - 🇵🇱 |PL|波兰|@wxgqlfx|157
+      - 🇵🇱 |PL|波兰|@wxgqlfx|162
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -181,20 +133,8 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇵🇱 |PL|波兰|@wxgqlfx|171
-      - 🇵🇱 |PL|波兰|@wxgqlfx|183
-      - 🇵🇱 |PL|波兰|@wxgqlfx|185
-      - 🇵🇱 |PL|波兰|@wxgqlfx|187
-      - 🇵🇱 |PL|波兰|@wxgqlfx|191
-      - 🇵🇱 |PL|波兰|@wxgqlfx|192
-      - 🇵🇱 |PL|波兰|@wxgqlfx|193
-      - 🇵🇱 |PL|波兰|@wxgqlfx|194
-      - 🇵🇱 |PL|波兰|@wxgqlfx|195
-      - 🇵🇱 |PL|波兰|@wxgqlfx|198
-      - 🇵🇱 |PL|波兰|@wxgqlfx|200
-      - 🇵🇱 |PL|波兰|@wxgqlfx|201
-      - 🇵🇱 |PL|波兰|@wxgqlfx|202
-      - 🇵🇱 |PL|波兰|@wxgqlfx|203
+      - 🇵🇱 |PL|波兰|@wxgqlfx|157
+      - 🇵🇱 |PL|波兰|@wxgqlfx|162
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -219,20 +159,8 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇵🇱 |PL|波兰|@wxgqlfx|171
-      - 🇵🇱 |PL|波兰|@wxgqlfx|183
-      - 🇵🇱 |PL|波兰|@wxgqlfx|185
-      - 🇵🇱 |PL|波兰|@wxgqlfx|187
-      - 🇵🇱 |PL|波兰|@wxgqlfx|191
-      - 🇵🇱 |PL|波兰|@wxgqlfx|192
-      - 🇵🇱 |PL|波兰|@wxgqlfx|193
-      - 🇵🇱 |PL|波兰|@wxgqlfx|194
-      - 🇵🇱 |PL|波兰|@wxgqlfx|195
-      - 🇵🇱 |PL|波兰|@wxgqlfx|198
-      - 🇵🇱 |PL|波兰|@wxgqlfx|200
-      - 🇵🇱 |PL|波兰|@wxgqlfx|201
-      - 🇵🇱 |PL|波兰|@wxgqlfx|202
-      - 🇵🇱 |PL|波兰|@wxgqlfx|203
+      - 🇵🇱 |PL|波兰|@wxgqlfx|157
+      - 🇵🇱 |PL|波兰|@wxgqlfx|162
   - name: 📲 电报信息
     type: select
     proxies:
@@ -252,20 +180,8 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇵🇱 |PL|波兰|@wxgqlfx|171
-      - 🇵🇱 |PL|波兰|@wxgqlfx|183
-      - 🇵🇱 |PL|波兰|@wxgqlfx|185
-      - 🇵🇱 |PL|波兰|@wxgqlfx|187
-      - 🇵🇱 |PL|波兰|@wxgqlfx|191
-      - 🇵🇱 |PL|波兰|@wxgqlfx|192
-      - 🇵🇱 |PL|波兰|@wxgqlfx|193
-      - 🇵🇱 |PL|波兰|@wxgqlfx|194
-      - 🇵🇱 |PL|波兰|@wxgqlfx|195
-      - 🇵🇱 |PL|波兰|@wxgqlfx|198
-      - 🇵🇱 |PL|波兰|@wxgqlfx|200
-      - 🇵🇱 |PL|波兰|@wxgqlfx|201
-      - 🇵🇱 |PL|波兰|@wxgqlfx|202
-      - 🇵🇱 |PL|波兰|@wxgqlfx|203
+      - 🇵🇱 |PL|波兰|@wxgqlfx|157
+      - 🇵🇱 |PL|波兰|@wxgqlfx|162
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -286,20 +202,8 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇵🇱 |PL|波兰|@wxgqlfx|171
-      - 🇵🇱 |PL|波兰|@wxgqlfx|183
-      - 🇵🇱 |PL|波兰|@wxgqlfx|185
-      - 🇵🇱 |PL|波兰|@wxgqlfx|187
-      - 🇵🇱 |PL|波兰|@wxgqlfx|191
-      - 🇵🇱 |PL|波兰|@wxgqlfx|192
-      - 🇵🇱 |PL|波兰|@wxgqlfx|193
-      - 🇵🇱 |PL|波兰|@wxgqlfx|194
-      - 🇵🇱 |PL|波兰|@wxgqlfx|195
-      - 🇵🇱 |PL|波兰|@wxgqlfx|198
-      - 🇵🇱 |PL|波兰|@wxgqlfx|200
-      - 🇵🇱 |PL|波兰|@wxgqlfx|201
-      - 🇵🇱 |PL|波兰|@wxgqlfx|202
-      - 🇵🇱 |PL|波兰|@wxgqlfx|203
+      - 🇵🇱 |PL|波兰|@wxgqlfx|157
+      - 🇵🇱 |PL|波兰|@wxgqlfx|162
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -329,20 +233,8 @@ proxy-groups:
       - github.com/freefq - 广东省江门市移动 12
       - 🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 14
-      - 🇵🇱 |PL|波兰|@wxgqlfx|171
-      - 🇵🇱 |PL|波兰|@wxgqlfx|183
-      - 🇵🇱 |PL|波兰|@wxgqlfx|185
-      - 🇵🇱 |PL|波兰|@wxgqlfx|187
-      - 🇵🇱 |PL|波兰|@wxgqlfx|191
-      - 🇵🇱 |PL|波兰|@wxgqlfx|192
-      - 🇵🇱 |PL|波兰|@wxgqlfx|193
-      - 🇵🇱 |PL|波兰|@wxgqlfx|194
-      - 🇵🇱 |PL|波兰|@wxgqlfx|195
-      - 🇵🇱 |PL|波兰|@wxgqlfx|198
-      - 🇵🇱 |PL|波兰|@wxgqlfx|200
-      - 🇵🇱 |PL|波兰|@wxgqlfx|201
-      - 🇵🇱 |PL|波兰|@wxgqlfx|202
-      - 🇵🇱 |PL|波兰|@wxgqlfx|203
+      - 🇵🇱 |PL|波兰|@wxgqlfx|157
+      - 🇵🇱 |PL|波兰|@wxgqlfx|162
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
